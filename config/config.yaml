@@ -1,0 +1,12 @@
+proteomes_dir: "01_downloads/proteomes_faa"
+metadata_file: "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+hmm_db: "04_functional_annotation/kofamscan/pgpr_profiles_combined.hmm"
+target_kos: "04_functional_annotation/kofamscan/target_ko_ids_clean.txt"
+
+hmmsearch_dir: "04_functional_annotation/kofamscan/hmmsearch_results"
+matrix_dir: "05_pgpr_matrix"
+stats_dir: "06_statistics"
+figures_dir: "08_figures"
+
+evalue_cutoff: 1e-10
+threads_hmmsearch: 4

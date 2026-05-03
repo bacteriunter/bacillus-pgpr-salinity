@@ -1,0 +1,951 @@
+Assembly Accession	Organism Name	Assembly Level	Assembly Status	Assembly Stats Total Sequence Length	Assembly Stats Number of Contigs	Assembly BioSample Accession	Assembly BioSample Isolation source	Assembly BioSample Geographic location	Assembly BioSample Host	candidate_group	keyword_hits	species
+GCF_000817575.1	Bacillus amyloliquefaciens	Scaffold	current	3987635	182	SAMN03223812	soybean root	China: Heilongjiang	Glycine max	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_001191605.1	Bacillus altitudinis	Complete Genome	current	3681784	2	SAMN02905161	soil	China		non_saline_candidate		Bacillus altitudinis
+GCF_001431145.1	Bacillus altitudinis	Complete Genome	current	3793419	1	SAMN03940121	soil	China: Nanjing		non_saline_candidate		Bacillus altitudinis
+GCF_001431285.1	Bacillus amyloliquefaciens	Scaffold	current	3978182	68	SAMN04009787	rhizosphere	India: Telangana State		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_001431785.1	Bacillus altitudinis	Complete Genome	current	3787818	1	SAMN04009761	soil	China:Zhongshan moutain Nanjing		non_saline_candidate		Bacillus altitudinis
+GCF_001586105.1	Bacillus amyloliquefaciens	Complete Genome	current	3935930	2	SAMN04275172	soil	Democratic Republic of the Congo: Iturie province	plant	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_001700735.1	Bacillus altitudinis	Complete Genome	current	3792999	1	SAMN03965497	soil	China: Zhongshan Moutain, Nanjing		non_saline_candidate		Bacillus altitudinis
+GCF_001874385.1	Bacillus amyloliquefaciens	Complete Genome	current	3957164	1	SAMN05969227	rhizosphere of peanut	China: Linyi, Shandong		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_002741745.1	Bacillus altitudinis	Complete Genome	current	3765752	1	SAMN07811392	rhizosphere of rice from organic rice farming	Indonesia: Central Java, Semarang, Banyubiru		non_saline_candidate		Bacillus altitudinis
+GCF_003868675.1	Bacillus amyloliquefaciens	Complete Genome	current	4009619	1	SAMN09939790	rhizosphere of Lolium perenne L. on a rock phosphorus mine	China: Guizhou		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_004563755.2	Bacillus altitudinis	Complete Genome	current	3867833	1	SAMN10857349	rhizosphere soil	Malaysia: Cameron Highlan	Solanum lycopersicum	non_saline_candidate		Bacillus altitudinis
+GCF_005849435.1	Bacillus altitudinis	Complete Genome	current	3891368	2	SAMN11534966	Lycium barbarum rhizosphere soil	China:Ningxia Hui Autonomous Region		non_saline_candidate		Bacillus altitudinis
+GCF_008808015.1	Bacillus amyloliquefaciens	Complete Genome	current	3904474	1	SAMN12794366	grape plant	missing		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_008824205.1	Bacillus amyloliquefaciens	Complete Genome	current	4118763	1	SAMN12860423	soil	South Korea		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_013122255.1	Bacillus amyloliquefaciens	Complete Genome	current	4026648	1	SAMN14897115	soil	Taiwan: Taichung		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_013283915.1	Bacillus altitudinis	Complete Genome	current	3879167	1	SAMN15053797	potato plant	Belarus: Babruysk District		non_saline_candidate		Bacillus altitudinis
+GCF_013328835.1	Bacillus amyloliquefaciens	Complete Genome	current	4006790	1	SAMN15097872	soil	China		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_013391605.1	Bacillus altitudinis	Scaffold	current	3794141	37	SAMN15318238	roots	Argentina: Misiones	Ilex paraguariensis	non_saline_candidate		Bacillus altitudinis
+GCF_013391615.1	Bacillus altitudinis	Scaffold	current	3737950	48	SAMN15320438	roots	Argentina: Misiones	Ilex paraguariensis	non_saline_candidate		Bacillus altitudinis
+GCF_014622745.1	Bacillus amyloliquefaciens	Complete Genome	current	4036119	1	SAMN15951545		China: Nanjing, Jiangsu	healthy tomato plant at flowering stage	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_014854735.1	Bacillus amyloliquefaciens	Complete Genome	current	4037030	2	SAMN09217686	soil	China		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_015689015.1	Bacillus altitudinis	Complete Genome	current	3718493	1	SAMN16824743	rhizosphere	China	Citrus reticulata	non_saline_candidate		Bacillus altitudinis
+GCF_015845485.1	Bacillus amyloliquefaciens	Scaffold	current	3913845	29	SAMN03654318	soil	USA		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_015999565.1	Bacillus amyloliquefaciens	Complete Genome	current	3915550	1	SAMN16976109	soil	China:Qinghai		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_016767855.1	Bacillus altitudinis	Complete Genome	current	3741767	1	SAMN17313277	soil	China:Longyan		non_saline_candidate		Bacillus altitudinis
+GCF_017161205.1	Bacillus altitudinis	Complete Genome	current	3729040	1	SAMN16930279	Soil samples of chilli in Haidian Harbor Garden, Haikou city, Hainan Province, China	China: Haidian Harbor Garden, Haikou city, Hainan Province		non_saline_candidate		Bacillus altitudinis
+GCF_017815555.1	Bacillus amyloliquefaciens	Complete Genome	current	3929653	1	SAMN18579264	soil	South Korea		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_017948365.1	Bacillus altitudinis	Complete Genome	current	3804206	1	SAMN18642715	soil	China:Shandong		non_saline_candidate		Bacillus altitudinis
+GCF_017948535.1	Bacillus amyloliquefaciens	Scaffold	current	3979503	24	SAMN18092518	soil	China: Henan		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_018223605.1	Bacillus amyloliquefaciens	Complete Genome	current	3861210	1	SAMN18839283	soil	China:Yangling		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_018363035.1	Bacillus amyloliquefaciens	Complete Genome	current	3933788	1	SAMN19035411	soil	France: Gers		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_019164215.1	Bacillus altitudinis	Complete Genome	current	3763082	1	SAMN19072201	rice rhizosphere soil	China: Heilongjiang Province	missing	non_saline_candidate		Bacillus altitudinis
+GCF_022570695.1	Bacillus altitudinis	Complete Genome	current	3727518	1	SAMN26499422	Fertile soil	China: Shandong, Qingdao		non_saline_candidate		Bacillus altitudinis
+GCF_022700755.1	Bacillus altitudinis	Complete Genome	current	3937910	1	SAMN16580015	Soil in tiger area of zoo	China:zhengzhou		non_saline_candidate		Bacillus altitudinis
+GCF_022819205.1	Bacillus altitudinis	Chromosome	current	3767351	91	SAMN27065537	paddy rhizosphere	Malaysia		non_saline_candidate		Bacillus altitudinis
+GCF_023823755.1	Bacillus altitudinis	Complete Genome	current	3762948	1	SAMN22304396	soil	China		non_saline_candidate		Bacillus altitudinis
+GCF_024362715.1	Bacillus altitudinis	Complete Genome	current	3951520	1	SAMN29636746	diseased muskmelon fruit	China:Anhui	plant	non_saline_candidate		Bacillus altitudinis
+GCF_024380035.1	Bacillus altitudinis	Complete Genome	current	3825696	2	SAMN29751147	soil	USA:Tenesee		non_saline_candidate		Bacillus altitudinis
+GCF_024397295.1	Bacillus altitudinis	Complete Genome	current	3811827	1	SAMN29628484	TNT red soil	China: Gansu		non_saline_candidate		Bacillus altitudinis
+GCF_026786855.1	Bacillus altitudinis	Scaffold	current	3711784	40	SAMN25520139	soil	Canada: Grand Nord		non_saline_candidate		Bacillus altitudinis
+GCF_026787125.1	Bacillus altitudinis	Scaffold	current	3703009	92	SAMN25843195	soil	India		non_saline_candidate		Bacillus altitudinis
+GCF_026787145.1	Bacillus altitudinis	Scaffold	current	3721078	37	SAMN25843193	soil	India		non_saline_candidate		Bacillus altitudinis
+GCF_026787165.1	Bacillus altitudinis	Scaffold	current	3713340	55	SAMN25843194	soil	India		non_saline_candidate		Bacillus altitudinis
+GCF_026787185.1	Bacillus altitudinis	Scaffold	current	3702871	54	SAMN25843192	soil	France		non_saline_candidate		Bacillus altitudinis
+GCF_026787245.1	Bacillus altitudinis	Scaffold	current	3808571	91	SAMN25843188	soil	Greenland		non_saline_candidate		Bacillus altitudinis
+GCF_026787255.1	Bacillus altitudinis	Scaffold	current	3701442	112	SAMN25843187	soil	Greenland		non_saline_candidate		Bacillus altitudinis
+GCF_026787265.1	Bacillus altitudinis	Scaffold	current	3677418	150	SAMN25843189	soil	Greenland		non_saline_candidate		Bacillus altitudinis
+GCF_026787325.1	Bacillus altitudinis	Scaffold	current	3798571	110	SAMN25843183	soil	Greenland		non_saline_candidate		Bacillus altitudinis
+GCF_026787405.1	Bacillus altitudinis	Scaffold	current	3711755	62	SAMN25843180	soil	Canada		non_saline_candidate		Bacillus altitudinis
+GCF_026787485.1	Bacillus altitudinis	Scaffold	current	3667121	187	SAMN25843184	soil	Greenland		non_saline_candidate		Bacillus altitudinis
+GCF_026787755.1	Bacillus altitudinis	Scaffold	current	3866019	130	SAMN25843164	soil	Trinidad and Tobago: Trinidad		non_saline_candidate		Bacillus altitudinis
+GCF_026787805.1	Bacillus altitudinis	Scaffold	current	3702556	84	SAMN25843160	soil	Cote d'Ivoire: Africa		non_saline_candidate		Bacillus altitudinis
+GCF_026787845.1	Bacillus altitudinis	Scaffold	current	3699278	97	SAMN25843158	soil	Cote d'Ivoire: Africa		non_saline_candidate		Bacillus altitudinis
+GCF_026787895.1	Bacillus altitudinis	Scaffold	current	3699463	72	SAMN25843157	soil	Cote d'Ivoire: Africa		non_saline_candidate		Bacillus altitudinis
+GCF_026787965.1	Bacillus altitudinis	Scaffold	current	3695096	45	SAMN25843151	soil	France: Paris		non_saline_candidate		Bacillus altitudinis
+GCF_030011555.1	Bacillus altitudinis	Complete Genome	current	3950658	2	SAMN34046341	peat soil samples	Malaysia		non_saline_candidate		Bacillus altitudinis
+GCF_030123125.1	Bacillus altitudinis	Complete Genome	current	3797173	1	SAMN34374888	pine forrest soil between two spruce trees	Germany: near Munchenroda, Jena		non_saline_candidate		Bacillus altitudinis
+GCF_030271235.1	Bacillus altitudinis	Scaffold	current	3634564	17	SAMN35018716	soil	Morocco: Marrakech		non_saline_candidate		Bacillus altitudinis
+GCF_030291995.1	Bacillus altitudinis	Complete Genome	current	3919705	2	SAMN34374876	grassland soil	Denmark: Jaegersborg Dyrehave		non_saline_candidate		Bacillus altitudinis
+GCF_035580465.1	Bacillus altitudinis	Complete Genome	current	3807059	1	SAMN38087916	soil	Spain: Madrid		non_saline_candidate		Bacillus altitudinis
+GCF_035823535.1	Bacillus altitudinis	Scaffold	current	3725038	77	SAMN33940709	soil	Canada		non_saline_candidate		Bacillus altitudinis
+GCF_035823635.1	Bacillus altitudinis	Scaffold	current	3734265	99	SAMN33940705	soil	Grenada		non_saline_candidate		Bacillus altitudinis
+GCF_036211365.1	Bacillus altitudinis	Scaffold	current	3946813	170	SAMN32927306	soil	USA		non_saline_candidate		Bacillus altitudinis
+GCF_040716315.1	Bacillus altitudinis	Scaffold	current	3725829	13	SAMN36379393	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus altitudinis
+GCF_040716335.1	Bacillus altitudinis	Scaffold	current	3676229	33	SAMN36379392	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus altitudinis
+GCF_040716345.1	Bacillus altitudinis	Scaffold	current	3671005	16	SAMN36379391	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus altitudinis
+GCF_040716355.1	Bacillus altitudinis	Scaffold	current	3763491	47	SAMN36379390	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus altitudinis
+GCF_040716365.1	Bacillus altitudinis	Scaffold	current	3825304	13	SAMN36379389	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus altitudinis
+GCF_049949115.1	Bacillus altitudinis	Complete Genome	current	3679424	1	SAMN48073765	root system of maize	China:Shandong		non_saline_candidate		Bacillus altitudinis
+GCF_050368935.1	Bacillus altitudinis	Complete Genome	current	3799862	2	SAMN47865735	soil	China: Hubei		non_saline_candidate		Bacillus altitudinis
+GCF_055694145.1	Bacillus altitudinis	Complete Genome	current	3774239	1	SAMN54251676	soil	Italy		non_saline_candidate		Bacillus altitudinis
+GCF_056836605.1	Bacillus altitudinis	Complete Genome	current	3841571	1	SAMN57208094	soil	not provided		non_saline_candidate		Bacillus altitudinis
+GCF_977007675.1	Bacillus altitudinis	Complete Genome	current	3770392	1	SAMEA120226978	Petroleum hydrocarbon-degrading enrichment culture obtained through microcosm enrichment of a PHC-polluted soil: FR_PLO_05_A_M1	France		non_saline_candidate		Bacillus altitudinis
+GCF_018502525.1	Bacillus amyloliquefaciens	Complete Genome	current	3974408	1	SAMN19091683	Natural soil	China:Shanghai		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_019856555.1	Bacillus amyloliquefaciens	Complete Genome	current	4066277	1	SAMN20999035	soil	USA:California		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_019880425.1	Bacillus amyloliquefaciens	Complete Genome	current	4155652	1	SAMN21001928	soil	USA:California		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_020971785.1	Bacillus amyloliquefaciens	Complete Genome	current	3939411	1	SAMN23230624	soil	China:shouguang		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_023115375.1	Bacillus amyloliquefaciens	Complete Genome	current	3915550	1	SAMN27628424	rhizosphere soil	China: Nianbaoyuze Alpine meadow in Guoluo Prefecture, Qinghai	Carex myosuroides	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_024584765.1	Bacillus amyloliquefaciens	Complete Genome	current	3931131	2	SAMN18298926	soil	China: ShanDong		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_026786425.1	Bacillus amyloliquefaciens	Scaffold	current	3811666	33	SAMN25520157	soil	USA: Virginia		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_028895325.1	Bacillus amyloliquefaciens	Scaffold	current	3881964	187	SAMN10762342		China: Wuhan	plant	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_028993875.1	Bacillus amyloliquefaciens	Scaffold	current	4135865	18	SAMN33406553	soil	China: Shenyang		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_032918205.1	Bacillus amyloliquefaciens	Chromosome	current	3933863	2	SAMN37756264	Root rhizosphere	Trinidad and Tobago: Chaguanas		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_032930055.1	Bacillus amyloliquefaciens	Chromosome	current	3929978	4	SAMN37804249	soil rhizosphere	Trinidad and Tobago: Trinidad, Cunupia	missing	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_032933215.1	Bacillus amyloliquefaciens	Chromosome	current	3931318	3	SAMN37797355	soil rhizosphere	Trinidad and Tobago: Trinidad, Princes Town	missing	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_035600155.1	Bacillus amyloliquefaciens	Chromosome	current	4007389	2	SAMN39183109	soil	Serbia: Donje Vidovo		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_035822495.1	Bacillus amyloliquefaciens	Scaffold	current	3792584	18	SAMN33940737	soil	India		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_036347615.1	Bacillus amyloliquefaciens	Complete Genome	current	3887947	1	SAMN38562212	Cultivated soil	China:Anhui		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_039643455.1	Bacillus amyloliquefaciens	Complete Genome	current	3929792	1	SAMN23398842	soil	China		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_041947055.1	Bacillus amyloliquefaciens	Scaffold	current	3965760	33	SAMN43439316	roots	Russia: Stavropol Krai	Chenopodium album	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_041947065.1	Bacillus amyloliquefaciens	Scaffold	current	3871036	38	SAMN43440204	roots	Russia: Stavropol Krai	Alhagi maurorum	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_042937815.1	Bacillus amyloliquefaciens	Complete Genome	current	4105932	2	SAMN43929738	soil	USA: California, Fresno		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_042938425.1	Bacillus amyloliquefaciens	Complete Genome	current	4021214	1	SAMN43929736	soil	USA: California, Fresno		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_043950675.1	Bacillus amyloliquefaciens	Complete Genome	current	4021217	1	SAMN43929734	soil	USA: California, Fresno		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_043950685.1	Bacillus amyloliquefaciens	Complete Genome	current	4073729	2	SAMN43929735	soil	USA: California, Fresno		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_043950715.1	Bacillus amyloliquefaciens	Complete Genome	current	4032984	2	SAMN43929737	soil	USA: California, Fresno		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_046058975.1	Bacillus amyloliquefaciens	Complete Genome	current	3957046	1	SAMN45109269	soil	China:changchun	missing	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_046537695.1	Bacillus amyloliquefaciens	Scaffold	current	3917685	25	SAMN38191810	soils contaminated with PPN	Portugal: Mealhada		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_049537795.1	Bacillus amyloliquefaciens	Scaffold	current	3974535	14	SAMN47804572	Soils	China		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_049677765.1	Bacillus amyloliquefaciens	Complete Genome	current	4007020	1	SAMN47635298	soil	China	Rumex acetosa L.	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_050410745.1	Bacillus amyloliquefaciens	Complete Genome	current	3932140	1	SAMN48174638	Rhizosphere soil of Musa acuminata	China: Hainan Province	Musa acuminata	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_051122665.1	Bacillus amyloliquefaciens	Complete Genome	current	3929792	1	SAMN46764892	plant	China: Baoshan City, Yunnan Province		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_051225615.1	Bacillus amyloliquefaciens	Complete Genome	current	3997765	1	SAMN49556791	soil	Taiwan: Pingtung		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_053750095.1	Bacillus amyloliquefaciens	Complete Genome	current	4041589	1	SAMN50184179	rhizosphere soil	China:Nanjing	Tomato	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_054131895.1	Bacillus amyloliquefaciens	Complete Genome	current	3929780	1	SAMN22826121	soil	China: FuSong County	Panax ginseng	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_054816535.1	Bacillus amyloliquefaciens	Complete Genome	current	3980777	1	SAMN51803990	rhizosphere soil	China: Guizhou Province, Shibi County	Pseudostellaria heterophylla	non_saline_candidate		Bacillus amyloliquefaciens
+GCF_056312695.1	Bacillus amyloliquefaciens	Complete Genome	current	4006786	1	SAMN56523219	rhizosphere soil	China:Tianjin		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_056726145.1	Bacillus amyloliquefaciens	Complete Genome	current	3517983	1	SAMN52845224	soil	Turkey: Tekirdag		non_saline_candidate		Bacillus amyloliquefaciens
+GCF_000385965.2	Bacillus atrophaeus UCMB-5137	Chromosome	current	4064321	7	SAMN02471930	rhizosphere	Ukraine		non_saline_candidate		Bacillus atrophaeus
+GCF_001584335.1	Bacillus atrophaeus	Scaffold	current	4159686	24	SAMN04450411	soil	USA:Colorado		non_saline_candidate		Bacillus atrophaeus
+GCF_002998055.1	Bacillus atrophaeus	Scaffold	current	4153751	14	SAMN08633950	grass roots	China: Tibet, Nyingchi		non_saline_candidate		Bacillus atrophaeus
+GCF_002998075.1	Bacillus atrophaeus	Scaffold	current	4216459	15	SAMN08633986	soil	China: Tibet		non_saline_candidate		Bacillus atrophaeus
+GCF_002998135.1	Bacillus atrophaeus	Scaffold	current	4123307	19	SAMN08634001	grass roots	China: Tibet, Lhasa		non_saline_candidate		Bacillus atrophaeus
+GCF_016469025.1	Bacillus atrophaeus	Scaffold	current	4130740	92	SAMN16276680	soil	Antarctica		non_saline_candidate		Bacillus atrophaeus
+GCF_018140555.1	Bacillus atrophaeus	Complete Genome	current	4144521	1	SAMN18793431	soil	China:Shandong		non_saline_candidate		Bacillus atrophaeus
+GCF_019443725.1	Bacillus atrophaeus	Complete Genome	current	4148820	1	SAMN14466088	soil	Canada:Saskatoon		non_saline_candidate		Bacillus atrophaeus
+GCF_026793355.1	Bacillus atrophaeus	Scaffold	current	4195380	42	SAMN25999697	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793375.1	Bacillus atrophaeus	Scaffold	current	4272497	127	SAMN25999696	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793395.1	Bacillus atrophaeus	Scaffold	current	4281072	112	SAMN25999693	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793415.1	Bacillus atrophaeus	Scaffold	current	4279494	112	SAMN25999695	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793455.1	Bacillus atrophaeus	Scaffold	current	4281129	128	SAMN25999692	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793475.1	Bacillus atrophaeus	Scaffold	current	4122328	16	SAMN25999691	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793515.1	Bacillus atrophaeus	Scaffold	current	4110444	20	SAMN25999689	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793605.1	Bacillus atrophaeus	Scaffold	current	4083353	18	SAMN25999685	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793855.1	Bacillus atrophaeus	Scaffold	current	4186000	21	SAMN25999672	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793875.1	Bacillus atrophaeus	Scaffold	current	4227121	47	SAMN25999671	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793895.1	Bacillus atrophaeus	Scaffold	current	4002963	20	SAMN25999670	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026793905.1	Bacillus atrophaeus	Scaffold	current	4123455	31	SAMN25999668	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794315.1	Bacillus atrophaeus	Scaffold	current	4189282	91	SAMN25999664	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794335.1	Bacillus atrophaeus	Scaffold	current	4198129	29	SAMN25999665	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794355.1	Bacillus atrophaeus	Scaffold	current	4140457	14	SAMN25999663	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794375.1	Bacillus atrophaeus	Scaffold	current	4038042	20	SAMN25999662	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794405.1	Bacillus atrophaeus	Scaffold	current	4094803	21	SAMN25999659	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794435.1	Bacillus atrophaeus	Scaffold	current	4162365	16	SAMN25999660	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794455.1	Bacillus atrophaeus	Scaffold	current	4164398	14	SAMN25999658	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794475.1	Bacillus atrophaeus	Scaffold	current	4125339	22	SAMN25999656	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794485.1	Bacillus atrophaeus	Scaffold	current	4074827	27	SAMN25999654	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794575.1	Bacillus atrophaeus	Scaffold	current	4119323	25	SAMN25999652	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_026794605.1	Bacillus atrophaeus	Scaffold	current	4148902	66	SAMN25999651	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_029541525.1	Bacillus atrophaeus	Complete Genome	current	4155911	1	SAMN33774111	Cotton rhizosphere soil	China:Xinjiang Hutubi County cotton planting farm		non_saline_candidate		Bacillus atrophaeus
+GCF_032460565.1	Bacillus atrophaeus	Complete Genome	current	4288753	1	SAMN37144237	soil	China:qinghai	missing	non_saline_candidate		Bacillus atrophaeus
+GCF_035806495.1	Bacillus atrophaeus	Scaffold	current	4140876	18	SAMN33940236	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806615.1	Bacillus atrophaeus	Scaffold	current	4246831	63	SAMN33940231	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806675.1	Bacillus atrophaeus	Scaffold	current	4139093	21	SAMN33940228	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806755.1	Bacillus atrophaeus	Scaffold	current	4264905	25	SAMN33940225	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806795.1	Bacillus atrophaeus	Scaffold	current	4294733	22	SAMN33940222	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806895.1	Bacillus atrophaeus	Scaffold	current	4239286	33	SAMN33940217	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806915.1	Bacillus atrophaeus	Scaffold	current	4115263	18	SAMN33940216	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806935.1	Bacillus atrophaeus	Scaffold	current	4237758	36	SAMN33940215	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806955.1	Bacillus atrophaeus	Scaffold	current	4239266	35	SAMN33940214	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035806975.1	Bacillus atrophaeus	Scaffold	current	4239705	30	SAMN33940213	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035807255.1	Bacillus atrophaeus	Scaffold	current	4239518	28	SAMN33940198	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035807275.1	Bacillus atrophaeus	Scaffold	current	4010796	14	SAMN33940199	soil	not collected		non_saline_candidate		Bacillus atrophaeus
+GCF_035814155.1	Bacillus atrophaeus	Scaffold	current	4134396	49	SAMN33940342	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036209985.1	Bacillus atrophaeus	Scaffold	current	4052323	32	SAMN32927378	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus atrophaeus
+GCF_036210025.1	Bacillus atrophaeus	Scaffold	current	4097990	24	SAMN32927376	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus atrophaeus
+GCF_036210035.1	Bacillus atrophaeus	Scaffold	current	4081875	31	SAMN32927377	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus atrophaeus
+GCF_036210065.1	Bacillus atrophaeus	Scaffold	current	4715748	41	SAMN32927374	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus atrophaeus
+GCF_036210085.1	Bacillus atrophaeus	Scaffold	current	4082399	31	SAMN32927375	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus atrophaeus
+GCF_036224925.1	Bacillus atrophaeus	Scaffold	current	4195511	24	SAMN33941027	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036224965.1	Bacillus atrophaeus	Scaffold	current	4039138	22	SAMN33941024	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036224985.1	Bacillus atrophaeus	Scaffold	current	4089126	14	SAMN33941026	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225005.1	Bacillus atrophaeus	Scaffold	current	4131539	17	SAMN33941025	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225025.1	Bacillus atrophaeus	Scaffold	current	4189007	20	SAMN33941023	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225045.1	Bacillus atrophaeus	Scaffold	current	4239234	25	SAMN33941022	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225085.1	Bacillus atrophaeus	Scaffold	current	4155290	24	SAMN33941019	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225105.1	Bacillus atrophaeus	Scaffold	current	4145190	18	SAMN33941018	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225145.1	Bacillus atrophaeus	Scaffold	current	4223234	18	SAMN33941017	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_036225165.1	Bacillus atrophaeus	Scaffold	current	4369926	39	SAMN33941016	soil	USA		non_saline_candidate		Bacillus atrophaeus
+GCF_037997125.1	Bacillus atrophaeus	Complete Genome	current	4213034	1	SAMN38507101	Tibet Plateau soil	China:Tibet		non_saline_candidate		Bacillus atrophaeus
+GCF_039519175.1	Bacillus atrophaeus	Complete Genome	current	4292910	2	SAMN41078598	Wheat root	China: Henan		non_saline_candidate		Bacillus atrophaeus
+GCF_045276185.1	Bacillus atrophaeus	Complete Genome	current	4267134	3	SAMN43222669	Flowering plant	China: Shihezi	cotton	non_saline_candidate		Bacillus atrophaeus
+GCF_045278795.1	Bacillus atrophaeus subsp. globigii	Complete Genome	current	4083597	1	SAMN36965794	rhizosphere	China		non_saline_candidate		Bacillus atrophaeus
+GCF_050574115.1	Bacillus atrophaeus	Complete Genome	current	4155134	1	SAMN48580704	rhizosphere soil	China:Fujian	Pseudostellaria heterophylla	non_saline_candidate		Bacillus atrophaeus
+GCF_051425545.1	Bacillus atrophaeus	Complete Genome	current	4302183	2	SAMN49699283	chernozem soils	Russia: SFedU Botanical Garden		non_saline_candidate		Bacillus atrophaeus
+GCF_052665205.1	Bacillus atrophaeus	Scaffold	current	4170353	13	SAMN47595437	Salicornia europaea	China: Yancheng, Jiangsu province	Plants	non_saline_candidate		Bacillus atrophaeus
+GCF_001637525.1	Bacillus halotolerans	Scaffold	current	4090772	5	SAMN04544317	soil	Germany		non_saline_candidate		Bacillus halotolerans
+GCF_001642595.1	Bacillus licheniformis	Scaffold	current	4154962	28	SAMN04395482	soil	Czech Republic:Nerartovice		non_saline_candidate		Bacillus licheniformis
+GCF_001969855.1	Bacillus haynesii	Scaffold	current	4378519	77	SAMN06102002	soil	Israel: Evolution canyon, arroyo at canyon bottom		non_saline_candidate		Bacillus haynesii
+GCF_002998215.1	Bacillus halotolerans	Scaffold	current	4081660	35	SAMN08634194	soil	China: Tibet		non_saline_candidate		Bacillus halotolerans
+GCF_002998275.1	Bacillus halotolerans	Scaffold	current	4170205	26	SAMN08634207	soil	China: Tibet		non_saline_candidate		Bacillus halotolerans
+GCF_016093395.1	Bacillus halotolerans	Chromosome	current	4087194	2	SAMN17013070	Geothermal soil	USA: Wyoming	Pisolithus arhizus	non_saline_candidate		Bacillus halotolerans
+GCF_016767285.1	Bacillus halotolerans	Scaffold	current	4054787	11	SAMN16949413	roots, endophytic	Greece: Agricultural University of Athens	Nigella sativa	non_saline_candidate		Bacillus halotolerans
+GCF_019598985.1	Bacillus inaquosorum	Chromosome	current	4136264	1	SAMN20567150	Rhizospheric soil from Cenchrus ciliaris	Pakistan: Cholistan desert, Bahawalpur	Cenchrus ciliaris	non_saline_candidate		Bacillus inaquosorum
+GCF_024266605.1	Bacillus halotolerans	Complete Genome	current	4095140	1	SAMN29515135	soil	China:Beijing		non_saline_candidate		Bacillus halotolerans
+GCF_024266645.1	Bacillus halotolerans	Complete Genome	current	4280526	1	SAMN29515286	American ginseng Root	China:Shandong		non_saline_candidate		Bacillus halotolerans
+GCF_024510645.1	Bacillus halotolerans	Complete Genome	current	4141155	1	SAMN29930872	soil	China:Shandong		non_saline_candidate		Bacillus halotolerans
+GCF_026013885.1	Bacillus halotolerans	Complete Genome	current	4175808	1	SAMN31494998		China: Baoding	plant	non_saline_candidate		Bacillus halotolerans
+GCF_026793205.1	Bacillus inaquosorum	Scaffold	current	4175854	35	SAMN25999702	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793275.1	Bacillus inaquosorum	Scaffold	current	4149635	48	SAMN25999701	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793285.1	Bacillus inaquosorum	Scaffold	current	4340953	56	SAMN25999700	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793495.1	Bacillus inaquosorum	Scaffold	current	4215618	29	SAMN25999687	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793525.1	Bacillus inaquosorum	Scaffold	current	4209366	22	SAMN25999688	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793575.1	Bacillus inaquosorum	Scaffold	current	4161260	35	SAMN25999686	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793595.1	Bacillus inaquosorum	Scaffold	current	4181036	24	SAMN25999682	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793655.1	Bacillus inaquosorum	Scaffold	current	4148467	14	SAMN25999683	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026793695.1	Bacillus inaquosorum	Scaffold	current	4178786	26	SAMN25999680	soil	not collected		non_saline_candidate		Bacillus inaquosorum
+GCF_026794505.1	Bacillus halotolerans	Scaffold	current	4015135	82	SAMN25999655	soil	not collected		non_saline_candidate		Bacillus halotolerans
+GCF_026967595.1	Bacillus halotolerans	Complete Genome	current	4404030	2	SAMN32106085	Sweet potato rhizosphere soil	China:Shandong		non_saline_candidate		Bacillus halotolerans
+GCF_030123205.1	Bacillus halotolerans	Complete Genome	current	4252134	1	SAMN34374967	rhizosphere soil	China: Longnan, Gansu Province		non_saline_candidate		Bacillus halotolerans
+GCF_030128945.2	Bacillus inaquosorum	Complete Genome	current	4200707	1	SAMN35027563	soil	Mexico: Reynosa		non_saline_candidate		Bacillus inaquosorum
+GCF_030167075.1	Bacillus halotolerans	Complete Genome	current	4091749	1	SAMN34374898	semidesertic area with dry sandy soils, around 15 cm from the trunk of a peach tree (5 cm deep)	Mexico: Tehuacan, Puebla		non_saline_candidate		Bacillus halotolerans
+GCF_030292055.1	Bacillus halotolerans	Complete Genome	current	4223135	2	SAMN34374963	rhizosphere soil	China: Kaifeng, Henan Province		non_saline_candidate		Bacillus halotolerans
+GCF_032763365.1	Bacillus halotolerans	Complete Genome	current	4155130	1	SAMN37729246	endophyte from hree year continuous cropping of potato root	China: Inner Mongolia	potato	non_saline_candidate		Bacillus halotolerans
+GCF_033568485.1	Bacillus halotolerans	Complete Genome	current	4208811	1	SAMN36977584	soil	China: Inner Mongolia		non_saline_candidate		Bacillus halotolerans
+GCF_035804155.1	Bacillus halotolerans	Scaffold	current	4154375	41	SAMN32927361	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus halotolerans
+GCF_035804175.1	Bacillus halotolerans	Scaffold	current	4007909	24	SAMN32927356	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus halotolerans
+GCF_035809715.1	Bacillus haynesii	Scaffold	current	4373622	30	SAMN33940568	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809735.1	Bacillus haynesii	Scaffold	current	4367096	52	SAMN33940567	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809775.1	Bacillus haynesii	Scaffold	current	4505041	48	SAMN33940565	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809795.1	Bacillus haynesii	Scaffold	current	4343280	38	SAMN33940563	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809835.1	Bacillus haynesii	Scaffold	current	4429214	39	SAMN33940562	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809855.1	Bacillus haynesii	Scaffold	current	4270503	27	SAMN33940561	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809875.1	Bacillus haynesii	Scaffold	current	4205925	25	SAMN33940560	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809895.1	Bacillus haynesii	Scaffold	current	4251728	23	SAMN33940559	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809915.1	Bacillus haynesii	Scaffold	current	4329818	21	SAMN33940558	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809935.1	Bacillus haynesii	Scaffold	current	4205414	22	SAMN33940557	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809955.1	Bacillus haynesii	Scaffold	current	4367995	33	SAMN33940555	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035809975.1	Bacillus haynesii	Scaffold	current	4342338	21	SAMN33940556	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810015.1	Bacillus haynesii	Scaffold	current	4291832	27	SAMN33940554	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810455.1	Bacillus haynesii	Scaffold	current	4223925	22	SAMN33940530	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810475.1	Bacillus haynesii	Scaffold	current	4295028	28	SAMN33940531	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810495.1	Bacillus haynesii	Scaffold	current	4333688	54	SAMN33940529	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810535.1	Bacillus haynesii	Scaffold	current	4253588	28	SAMN33940528	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810555.1	Bacillus haynesii	Scaffold	current	4504050	23	SAMN33940527	soil	USA		non_saline_candidate		Bacillus haynesii
+GCF_035810695.1	Bacillus halotolerans	Scaffold	current	4263762	45	SAMN33940518	soil	USA		non_saline_candidate		Bacillus halotolerans
+GCF_035810705.1	Bacillus halotolerans	Scaffold	current	4079517	28	SAMN33940519	soil	USA		non_saline_candidate		Bacillus halotolerans
+GCF_035810855.1	Bacillus halotolerans	Scaffold	current	3988357	38	SAMN33940511	soil	Tunisia		non_saline_candidate		Bacillus halotolerans
+GCF_035811155.1	Bacillus halotolerans	Scaffold	current	4244191	45	SAMN33940496	soil	USA		non_saline_candidate		Bacillus halotolerans
+GCF_035822595.1	Bacillus halotolerans	Scaffold	current	4216228	31	SAMN33940736	soil	India		non_saline_candidate		Bacillus halotolerans
+GCF_035823075.1	Bacillus inaquosorum	Scaffold	current	4196007	35	SAMN33940724	soil	USA		non_saline_candidate		Bacillus inaquosorum
+GCF_036210455.1	Bacillus inaquosorum	Scaffold	current	4172692	23	SAMN32927353	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus inaquosorum
+GCF_040256795.1	Bacillus halotolerans	Chromosome	current	4214739	28	SAMN41599398	rhizosphere	Morocco	Olea europaea	non_saline_candidate		Bacillus halotolerans
+GCF_041222785.1	Bacillus halotolerans	Complete Genome	current	4220890	1	SAMN43028438	rhizosphere soil	China: Weinan town, Shaanxi Province		non_saline_candidate		Bacillus halotolerans
+GCF_047302545.1	Bacillus inaquosorum	Complete Genome	current	4245627	1	SAMN44627544	root	USA:Tucson	Lactuca serriola	non_saline_candidate		Bacillus inaquosorum
+GCF_050465465.1	Bacillus haynesii	Scaffold	current	4237536	24	SAMN41009149	soil	USA: Death Valley, California		non_saline_candidate		Bacillus haynesii
+GCF_050465925.1	Bacillus inaquosorum	Scaffold	current	4184892	31	SAMN41009136	soil	Not Collected		non_saline_candidate		Bacillus inaquosorum
+GCF_051788185.1	Bacillus halotolerans	Complete Genome	current	4194164	1	SAMN50046656	soil	China:Xinjiang		non_saline_candidate		Bacillus halotolerans
+GCF_056393665.1	Bacillus halotolerans	Complete Genome	current	4092381	19	SAMN53136408	Changbai Mountain, forest humus soil	China:Jilin		non_saline_candidate		Bacillus halotolerans
+GCF_056493705.1	Bacillus halotolerans	Complete Genome	current	4250820	1	SAMN56707214	soil	China: Xihe	environment	non_saline_candidate		Bacillus halotolerans
+GCF_056519215.1	Bacillus halotolerans	Complete Genome	current	4072052	1	SAMN56607861	rhizosphere	Russia: Tatarstan, Vysokogorsky region		non_saline_candidate		Bacillus halotolerans
+GCF_056833915.1	Bacillus halotolerans	Complete Genome	current	4223498	1	SAMN47806620	soil	China: Shandong, Zibo	Rhizopus	non_saline_candidate		Bacillus halotolerans
+GCF_007855455.1	Bacillus licheniformis	Complete Genome	current	4201713	1	SAMN12368592	soil	South Korea		non_saline_candidate		Bacillus licheniformis
+GCF_028532465.1	Bacillus licheniformis	Complete Genome	current	4252022	1	SAMN31807140	purple soil of Beibei District	China: Chongqing		non_saline_candidate		Bacillus licheniformis
+GCF_030284405.1	Bacillus licheniformis	Complete Genome	current	4238379	1	SAMN35669181	rhizosphere soil	China:Harbin		non_saline_candidate		Bacillus licheniformis
+GCF_030520185.1	Bacillus licheniformis	Complete Genome	current	4296212	1	SAMN36471627	soil	Russia: republic of Tatarstan		non_saline_candidate		Bacillus licheniformis
+GCF_035809655.1	Bacillus licheniformis	Scaffold	current	4171474	18	SAMN33940570	soil	USA		non_saline_candidate		Bacillus licheniformis
+GCF_035809695.1	Bacillus licheniformis	Scaffold	current	4181685	20	SAMN33940569	soil	USA		non_saline_candidate		Bacillus licheniformis
+GCF_035809755.1	Bacillus licheniformis	Scaffold	current	4076449	35	SAMN33940566	soil	USA		non_saline_candidate		Bacillus licheniformis
+GCF_035809815.1	Bacillus licheniformis	Scaffold	current	4164332	17	SAMN33940564	soil	USA		non_saline_candidate		Bacillus licheniformis
+GCF_035810415.1	Bacillus licheniformis	Scaffold	current	4076975	15	SAMN33940532	soil	USA		non_saline_candidate		Bacillus licheniformis
+GCF_035822515.1	Bacillus licheniformis	Scaffold	current	4380044	75	SAMN33940739	soil	Canada		non_saline_candidate		Bacillus licheniformis
+GCF_036210125.1	Bacillus licheniformis	Scaffold	current	4249726	43	SAMN32927371	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus licheniformis
+GCF_036210145.1	Bacillus licheniformis	Scaffold	current	4284016	48	SAMN32927372	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus licheniformis
+GCF_036210165.1	Bacillus licheniformis	Scaffold	current	4235440	40	SAMN32927369	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus licheniformis
+GCF_036210185.1	Bacillus licheniformis	Scaffold	current	4336611	40	SAMN32927370	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus licheniformis
+GCF_036210215.1	Bacillus licheniformis	Scaffold	current	4176370	27	SAMN32927366	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus licheniformis
+GCF_036210315.1	Bacillus licheniformis	Scaffold	current	4301114	45	SAMN32927362	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus licheniformis
+GCF_036212245.1	Bacillus licheniformis	Scaffold	current	4180214	25	SAMN32927262	soil	not collected		non_saline_candidate		Bacillus licheniformis
+GCF_046619435.1	Bacillus licheniformis	Complete Genome	current	4332882	1	SAMN45893318	leaf and root of endophyte	United Arab Emirates: Al Ain	Citrullus colocynthis	non_saline_candidate		Bacillus licheniformis
+GCF_046619505.1	Bacillus licheniformis	Complete Genome	current	4332882	1	SAMN45893311	root	United Arab Emirates: Al Ain	Citrullus colocynthis	non_saline_candidate		Bacillus licheniformis
+GCF_049990405.1	Bacillus licheniformis	Complete Genome	current	4294578	1	SAMN48073764	root system of maize	China:Shandong		non_saline_candidate		Bacillus licheniformis
+GCF_051810305.1	Bacillus licheniformis	Scaffold	current	4163385	40	SAMN50276522	plant root samples	China: Nanjing		non_saline_candidate		Bacillus licheniformis
+GCF_054182705.1	Bacillus licheniformis	Scaffold	current	4180775	19	SAMN54131381	rhizosphere	India	potato	non_saline_candidate		Bacillus licheniformis
+GCF_055181215.1	Bacillus licheniformis	Complete Genome	current	4388988	1	SAMN55039096	soil	USA: California		non_saline_candidate		Bacillus licheniformis
+GCF_056504695.1	Bacillus licheniformis	Complete Genome	current	4357622	1	SAMN56653603	Alkaline soil	China: Wuhan		non_saline_candidate		Bacillus licheniformis
+GCF_977007745.1	Bacillus licheniformis	Complete Genome	current	4438024	1	SAMEA120226970	Petroleum hydrocarbon-degrading enrichment culture obtained through microcosm enrichment of a PHC-polluted soil: FR_PLO_05_A_M1	France		non_saline_candidate		Bacillus licheniformis
+GCF_002068155.1	Bacillus paralicheniformis	Complete Genome	current	4352468	1	SAMN06605939	rhizosphere	China: Shandong	peony	non_saline_candidate		Bacillus paralicheniformis
+GCF_002849425.1	Bacillus paralicheniformis	Scaffold	current	4566040	60	SAMN06211261	Rice Root	India: IARI PUSA, New Delhi	Oryza sativa	non_saline_candidate		Bacillus paralicheniformis
+GCF_003171815.2	Bacillus paralicheniformis	Complete Genome	current	4317835	1	SAMN09203095	rhizosphere	India		non_saline_candidate		Bacillus paralicheniformis
+GCF_020042645.1	Bacillus paralicheniformis	Chromosome	current	4397844	1	SAMN13510061	soil	Pakistan: Karak		non_saline_candidate		Bacillus paralicheniformis
+GCF_025161175.1	Bacillus paralicheniformis	Chromosome	current	5174262	2	SAMN30648323	soil	Nigeria: Abeokuta		non_saline_candidate		Bacillus paralicheniformis
+GCF_029000405.1	Bacillus paralicheniformis	Complete Genome	current	4338611	1	SAMN33388128	purple soil of Beibei District	China: Chongqing	missing	non_saline_candidate		Bacillus paralicheniformis
+GCF_029590455.1	Bacillus paralicheniformis	Complete Genome	current	4288118	1	SAMN33788273	soil	China:Shandong		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808135.1	Bacillus paralicheniformis	Scaffold	current	4489393	83	SAMN33940659	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808155.1	Bacillus paralicheniformis	Scaffold	current	4381490	69	SAMN33940660	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808175.1	Bacillus paralicheniformis	Scaffold	current	4378969	78	SAMN33940658	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808195.1	Bacillus paralicheniformis	Scaffold	current	4388266	118	SAMN33940657	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808215.1	Bacillus paralicheniformis	Scaffold	current	4380066	75	SAMN33940656	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808235.1	Bacillus paralicheniformis	Scaffold	current	4375184	58	SAMN33940655	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808255.1	Bacillus paralicheniformis	Scaffold	current	4377114	87	SAMN33940654	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808275.1	Bacillus paralicheniformis	Scaffold	current	4378905	77	SAMN33940653	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808295.1	Bacillus paralicheniformis	Scaffold	current	4381118	72	SAMN33940652	soil	USA		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808315.1	Bacillus paralicheniformis	Scaffold	current	4369410	62	SAMN33940650	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808335.1	Bacillus paralicheniformis	Scaffold	current	4385801	77	SAMN33940651	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808355.1	Bacillus paralicheniformis	Scaffold	current	4374010	62	SAMN33940649	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808375.1	Bacillus paralicheniformis	Scaffold	current	4365904	143	SAMN33940648	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808395.1	Bacillus paralicheniformis	Scaffold	current	4385913	68	SAMN33940647	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808415.1	Bacillus paralicheniformis	Scaffold	current	4463259	81	SAMN33940646	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808435.1	Bacillus paralicheniformis	Scaffold	current	4458037	92	SAMN33940645	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808455.1	Bacillus paralicheniformis	Scaffold	current	4478682	78	SAMN33940644	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808475.1	Bacillus paralicheniformis	Scaffold	current	4463014	79	SAMN33940643	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808515.1	Bacillus paralicheniformis	Scaffold	current	4460604	92	SAMN33940641	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808535.1	Bacillus paralicheniformis	Scaffold	current	4461711	101	SAMN33940639	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808555.1	Bacillus paralicheniformis	Scaffold	current	4469210	70	SAMN33940638	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808575.1	Bacillus paralicheniformis	Scaffold	current	4453123	121	SAMN33940637	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808595.1	Bacillus paralicheniformis	Scaffold	current	4457105	87	SAMN33940640	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808635.1	Bacillus paralicheniformis	Scaffold	current	4466499	100	SAMN33940633	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808655.1	Bacillus paralicheniformis	Scaffold	current	4467782	101	SAMN33940632	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808665.1	Bacillus paralicheniformis	Scaffold	current	4464816	103	SAMN33940635	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808695.1	Bacillus paralicheniformis	Scaffold	current	4381392	64	SAMN33940634	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808715.1	Bacillus paralicheniformis	Scaffold	current	4467280	96	SAMN33940631	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808735.1	Bacillus paralicheniformis	Scaffold	current	4395234	76	SAMN33940628	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808775.1	Bacillus paralicheniformis	Scaffold	current	4467671	81	SAMN33940630	soil	USA		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808795.1	Bacillus paralicheniformis	Scaffold	current	4469870	79	SAMN33940629	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808815.1	Bacillus paralicheniformis	Scaffold	current	4480167	128	SAMN33940626	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808835.1	Bacillus paralicheniformis	Scaffold	current	4476260	97	SAMN33940625	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808855.1	Bacillus paralicheniformis	Scaffold	current	4478084	93	SAMN33940624	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808875.1	Bacillus paralicheniformis	Scaffold	current	4480085	84	SAMN33940623	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808895.1	Bacillus paralicheniformis	Scaffold	current	4488451	73	SAMN33940622	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808915.1	Bacillus paralicheniformis	Scaffold	current	4435126	161	SAMN33940621	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_035808935.1	Bacillus paralicheniformis	Scaffold	current	4459107	92	SAMN33940620	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_036009925.1	Bacillus paralicheniformis	Scaffold	current	4412750	72	SAMN33940619	soil	Antarctica		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210205.1	Bacillus paralicheniformis	Scaffold	current	4302128	39	SAMN32927365	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210285.1	Bacillus paralicheniformis	Scaffold	current	4313836	40	SAMN32927364	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210305.1	Bacillus paralicheniformis	Scaffold	current	4327416	28	SAMN32927360	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210345.1	Bacillus paralicheniformis	Scaffold	current	4376078	37	SAMN32927363	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210355.1	Bacillus paralicheniformis	Scaffold	current	4399718	39	SAMN32927359	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210385.1	Bacillus paralicheniformis	Scaffold	current	4337664	36	SAMN32927358	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210405.1	Bacillus paralicheniformis	Scaffold	current	4389508	42	SAMN32927357	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210425.1	Bacillus paralicheniformis	Scaffold	current	4319783	34	SAMN32927355	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210465.1	Bacillus paralicheniformis	Scaffold	current	4288210	32	SAMN32927354	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210505.1	Bacillus paralicheniformis	Scaffold	current	4486060	86	SAMN32927351	soil	Antarctica: Brown Bluff Island		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210515.1	Bacillus paralicheniformis	Scaffold	current	4392422	89	SAMN32927350	soil	Antarctica: Brown Bluff Island		non_saline_candidate		Bacillus paralicheniformis
+GCF_036210525.1	Bacillus paralicheniformis	Scaffold	current	4422866	93	SAMN32927349	soil	Antarctica: Paulet Island		non_saline_candidate		Bacillus paralicheniformis
+GCF_040965915.1	Bacillus paralicheniformis	Scaffold	current	4468621	20	SAMN42801616	roots	Russia: Rostov region	Oryza sativa L.	non_saline_candidate		Bacillus paralicheniformis
+GCF_044498105.1	Bacillus paralicheniformis	Chromosome	current	4376831	103	SAMN44485018	Olive rhizosphere	Morocco		non_saline_candidate		Bacillus paralicheniformis
+GCF_051225695.1	Bacillus paralicheniformis	Scaffold	current	4291478	102	SAMN49650144	soil	Algeria		non_saline_candidate		Bacillus paralicheniformis
+GCF_051941075.1	Bacillus paralicheniformis	Complete Genome	current	4410549	1	SAMN50433766	soil and rock	Viet Nam: Quang Ninh		non_saline_candidate		Bacillus paralicheniformis
+GCF_001578205.1	Bacillus pumilus	Complete Genome	current	3878815	2	SAMN03372270	sugar beet rhizosphere	Netherlands: Wageningen		non_saline_candidate		Bacillus pumilus
+GCF_002998335.1	Bacillus pumilus	Scaffold	current	3766320	22	SAMN08634680	Turnip soil	China: Tibet, Nyingchi		non_saline_candidate		Bacillus pumilus
+GCF_002998365.1	Bacillus pumilus	Scaffold	current	3697756	23	SAMN08634668	beet roots	China: Tibet, Nyingchi		non_saline_candidate		Bacillus pumilus
+GCF_002998415.1	Bacillus pumilus	Scaffold	current	3770927	16	SAMN08634856	soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus pumilus
+GCF_002998475.1	Bacillus pumilus	Scaffold	current	3798185	23	SAMN08634709	soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus pumilus
+GCF_003034105.1	Bacillus pumilus	Scaffold	current	3684250	31	SAMN06285022	Citrus rhizosphere	USA: Florida, Fort Pierce		non_saline_candidate		Bacillus pumilus
+GCF_004006455.1	Bacillus pumilus	Complete Genome	current	3640542	1	SAMN09215342		China	soil	non_saline_candidate		Bacillus pumilus
+GCF_009937765.1	Bacillus pumilus	Chromosome	current	3774709	1	SAMN13526181	soil	Pakistan: Karak		non_saline_candidate		Bacillus pumilus
+GCF_002998315.1	Bacillus safensis	Scaffold	current	3730128	14	SAMN08634633	pea roots	China: Tibet, Nyingchi		non_saline_candidate		Bacillus safensis
+GCF_012972765.1	Bacillus safensis	Scaffold	current	3860391	47	SAMN14613776	soil	Brazil: Pocon Pantanal		non_saline_candidate		Bacillus safensis
+GCF_020535425.1	Bacillus pumilus	Complete Genome	current	3821535	2	SAMN14228080	sod-podzolic soil	Belarus		non_saline_candidate		Bacillus pumilus
+GCF_020908045.1	Bacillus pumilus	Scaffold	current	3667574	41	SAMN16976349		China	seed of leguminous plant	non_saline_candidate		Bacillus pumilus
+GCF_021398835.1	Bacillus safensis	Complete Genome	current	3745092	1	SAMN24429176	soil	South Korea		non_saline_candidate		Bacillus safensis
+GCF_022758335.1	Bacillus pumilus	Scaffold	current	3640519	18	SAMN26871133	plant root	Pakistan: Lahore		non_saline_candidate		Bacillus pumilus
+GCF_023093895.1	Bacillus safensis	Complete Genome	current	3735476	1	SAMN27578315	soil	China: Nanjing		non_saline_candidate		Bacillus safensis
+GCF_023195455.1	Bacillus safensis	Scaffold	current	3747727	21	SAMN27670919	black pine root	China		non_saline_candidate		Bacillus safensis
+GCF_024498355.1	Bacillus pumilus	Complete Genome	current	3736781	2	SAMN29933354	soil	China:Inner Mongolia		non_saline_candidate		Bacillus pumilus
+GCF_025309755.1	Bacillus safensis	Complete Genome	current	3751152	1	SAMN30816007	Isolated from peanut rhizosphere soil	China: Guangxi,Nanning		non_saline_candidate		Bacillus safensis
+GCF_026786405.1	Bacillus safensis	Scaffold	current	3599723	160	SAMN25520158	soil	France: Paris		non_saline_candidate		Bacillus safensis
+GCF_026787025.1	Bacillus safensis	Scaffold	current	3766325	85	SAMN25843200	soil	France		non_saline_candidate		Bacillus safensis
+GCF_026787045.1	Bacillus pumilus	Scaffold	current	3824931	143	SAMN25843198	soil	France: Pyrenees		non_saline_candidate		Bacillus pumilus
+GCF_026787055.1	Bacillus pumilus	Scaffold	current	3875490	91	SAMN25843199	soil	France: Pyrenees		non_saline_candidate		Bacillus pumilus
+GCF_026787105.1	Bacillus safensis	Scaffold	current	3708524	180	SAMN25843196	soil	India: Orissa		non_saline_candidate		Bacillus safensis
+GCF_026787225.1	Bacillus safensis	Scaffold	current	3860972	90	SAMN25843190	soil	Greenland		non_saline_candidate		Bacillus safensis
+GCF_026787305.1	Bacillus safensis	Scaffold	current	3698105	189	SAMN25843186	soil	Greenland		non_saline_candidate		Bacillus safensis
+GCF_026787365.1	Bacillus safensis	Scaffold	current	3771918	28	SAMN25843185	soil	Greenland		non_saline_candidate		Bacillus safensis
+GCF_026787445.1	Bacillus pumilus	Scaffold	current	3622944	43	SAMN25843179	soil	Greenland		non_saline_candidate		Bacillus pumilus
+GCF_026787785.1	Bacillus pumilus	Scaffold	current	3886449	21	SAMN25843162	soil	France: Col du Grand Saint Bernard		non_saline_candidate		Bacillus pumilus
+GCF_026787815.1	Bacillus safensis	Scaffold	current	3752049	98	SAMN25843161	soil	Cote d'Ivoire: Africa		non_saline_candidate		Bacillus safensis
+GCF_027497635.1	Bacillus safensis	Scaffold	current	3798090	59	SAMN23574915	soil	Guatemala: Cubilhuitz		non_saline_candidate		Bacillus safensis
+GCF_028463885.1	Bacillus safensis	Complete Genome	current	3769976	1	SAMN32902172	soil	South Korea:Sunchang		non_saline_candidate		Bacillus safensis
+GCF_029211445.1	Bacillus safensis	Scaffold	current	3677242	14	SAMN32912879	soil, rose rhizosphere	USA: La Verne, California		non_saline_candidate		Bacillus safensis
+GCF_029634685.1	Bacillus pumilus	Complete Genome	current	3824664	1	SAMN26309570	soil	Germany		non_saline_candidate		Bacillus pumilus
+GCF_029857515.2	Bacillus pumilus	Complete Genome	current	3792642	2	SAMN33591697	soil	not applicable		non_saline_candidate		Bacillus pumilus
+GCF_030122825.1	Bacillus pumilus	Complete Genome	current	3892007	1	SAMN34374851	forest soil	Denmark: Jaegersborg Dyrehave		non_saline_candidate		Bacillus pumilus
+GCF_030167015.1	Bacillus pumilus	Complete Genome	current	3813964	1	SAMN34374891	soil in warm, humid forested area with dark clay soils (5 cm deep)	Mexico: Tepoztlan, Morelos		non_saline_candidate		Bacillus pumilus
+GCF_030292035.1	Bacillus safensis	Complete Genome	current	3677506	2	SAMN34374889	pine forrest soil between two spruce trees	Germany: near Munchenroda, Jena		non_saline_candidate		Bacillus safensis
+GCF_032911305.1	Bacillus safensis	Scaffold	current	3671999	23	SAMN37738838	plant	India: Kerala	Nerium oleander	non_saline_candidate		Bacillus safensis
+GCF_035818275.1	Bacillus pumilus	Scaffold	current	3654073	67	SAMN33940750	soil	Canada		non_saline_candidate		Bacillus pumilus
+GCF_035823575.1	Bacillus pumilus	Scaffold	current	3866169	79	SAMN33940710	soil	not collected		non_saline_candidate		Bacillus pumilus
+GCF_035823675.1	Bacillus safensis	Scaffold	current	3775522	53	SAMN33940704	soil	not collected		non_saline_candidate		Bacillus safensis
+GCF_036209295.1	Bacillus safensis	Scaffold	current	3757567	27	SAMN32927411	soil	Trinidad and Tobago: Trinidad, Talparo		non_saline_candidate		Bacillus safensis
+GCF_036210225.1	Bacillus pumilus	Scaffold	current	3728010	54	SAMN32927368	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus pumilus
+GCF_036222405.1	Bacillus pumilus	Scaffold	current	3779973	27	SAMN33941058	soil	USA		non_saline_candidate		Bacillus pumilus
+GCF_040829855.1	Bacillus pumilus	Scaffold	current	3821255	46	SAMN42518158	rhizosphere	Canada: Montreal	wheat	non_saline_candidate		Bacillus pumilus
+GCF_040893075.1	Bacillus pumilus	Complete Genome	current	3699913	1	SAMN42554341	rhizosphere of strawberry	Canada: Bouctouche, New-Brunswick		non_saline_candidate		Bacillus pumilus
+GCF_047424865.1	Bacillus pumilus	Complete Genome	current	3619818	2	SAMN45898837	soil	China		non_saline_candidate		Bacillus pumilus
+GCF_055597785.1	Bacillus pumilus	Complete Genome	current	3962614	1	SAMN55849006	sod-podzolic soil	Belarus: Gomel region		non_saline_candidate		Bacillus pumilus
+GCF_055694105.1	Bacillus pumilus	Complete Genome	current	3651153	1	SAMN54251678	soil	Italy		non_saline_candidate		Bacillus pumilus
+GCF_056237595.1	Bacillus pumilus	Complete Genome	current	3724538	1	SAMN50521516	soil	USA: Brookings, South Dakota	corn	non_saline_candidate		Bacillus pumilus
+GCF_056393465.1	Bacillus pumilus	Complete Genome	current	3657272	2	SAMN53076690	soil	China:Inner Mongolia		non_saline_candidate		Bacillus pumilus
+GCF_056781025.1	Bacillus pumilus	Complete Genome	current	3611834	1	SAMN56895992		China	soil	non_saline_candidate		Bacillus pumilus
+GCF_977007725.1	Bacillus pumilus	Complete Genome	current	3775567	1	SAMEA120226968	Petroleum hydrocarbon-degrading enrichment culture obtained through microcosm enrichment of a PHC-polluted soil: FR_PLO_05_A_M1	France		non_saline_candidate		Bacillus pumilus
+GCF_001679765.1	Bacillus sp. B25(2016b)	Chromosome	current	5113413	43	SAMN05256515	rhizospheric soil	Mexico: Sinaloa		non_saline_candidate		Bacillus sp.
+GCF_002550645.1	Bacillus sp. AFS094611	Scaffold	current	5592442	75	SAMN07598637	core	USA: NC	Plant	non_saline_candidate		Bacillus sp.
+GCF_002552175.1	Bacillus sp. AFS096315	Scaffold	current	5063370	81	SAMN07598668	soil	USA: IA		non_saline_candidate		Bacillus sp.
+GCF_002555445.1	Bacillus sp. AFS017336	Scaffold	current	5704478	166	SAMN07597464	soil	USA: NY		non_saline_candidate		Bacillus sp.
+GCF_002560985.1	Bacillus sp. AFS018417	Scaffold	current	4652556	159	SAMN07597482	soil	USA: IA		non_saline_candidate		Bacillus sp.
+GCF_002561455.1	Bacillus sp. AFS015802	Scaffold	current	4368902	76	SAMN07597442	soil	USA: NC		non_saline_candidate		Bacillus sp.
+GCF_002561875.1	Bacillus sp. AFS017274	Scaffold	current	5702307	90	SAMN07597463	root	USA: OH	Corn	non_saline_candidate		Bacillus sp.
+GCF_002566505.1	Bacillus sp. AFS077874	Scaffold	current	5055293	71	SAMN07598441	root	USA: IA	Corn	non_saline_candidate		Bacillus sp.
+GCF_002574545.1	Bacillus sp. AFS055030	Scaffold	current	4392053	93	SAMN07598124	plant root	USA: NC		non_saline_candidate		Bacillus sp.
+GCF_002577195.1	Bacillus sp. AFS041924	Scaffold	current	4634545	162	SAMN07597951	plant root	USA: NC		non_saline_candidate		Bacillus sp.
+GCF_002584635.1	Bacillus sp. AFS031507	Scaffold	current	6170817	142	SAMN07597818	root	USA: MN	Soybean	non_saline_candidate		Bacillus sp.
+GCF_002584985.1	Bacillus sp. AFS029637	Scaffold	current	5016247	107	SAMN07597780	soil	USA: NC		non_saline_candidate		Bacillus sp.
+GCF_002585125.1	Bacillus sp. AFS029533	Scaffold	current	5014565	92	SAMN07597777	soil	USA: IA		non_saline_candidate		Bacillus sp.
+GCF_002585305.1	Bacillus sp. AFS037270	Scaffold	current	6606966	161	SAMN07597887	soil	USA: IA		non_saline_candidate		Bacillus sp.
+GCF_006546985.1	Bacillus sp. 03113	Scaffold	current	4243931	44	SAMN11577514	rice soil	China	Oryza sativa	non_saline_candidate		Bacillus sp.
+GCF_007363175.1	Bacillus sp. BD59S	Complete Genome	current	5645291	3	SAMN10615492	soil	Bangladesh		non_saline_candidate		Bacillus sp.
+GCF_008042285.1	Bacillus sp. AR13-1	Scaffold	current	5940870	78	SAMN09370088	soil	Argentina: Buenos Aires, a tawn park		non_saline_candidate		Bacillus sp.
+GCF_008042345.1	Bacillus sp. AR8-1	Scaffold	current	5699974	101	SAMN09370081	soil	Argentina: Buenos Aires, a tawn park		non_saline_candidate		Bacillus sp.
+GCF_008042375.1	Bacillus sp. BF9-10	Scaffold	current	5567370	86	SAMN09370077	soil	Burkina Faso: Kouba, public road		non_saline_candidate		Bacillus sp.
+GCF_008274865.1	Bacillus sp. AR4-2	Complete Genome	current	5438461	3	SAMN09370080	soil	Argentina: Buenos Aires, a tawn park		non_saline_candidate		Bacillus sp.
+GCF_008368745.1	Bacillus sp. AY1-10	Scaffold	current	5612767	63	SAMN09370078	soil	Kazakhstan: Almaty, a town park		non_saline_candidate		Bacillus sp.
+GCF_008368755.1	Bacillus sp. AR2-1	Scaffold	current	6117091	75	SAMN09370071	soil	Argentina: Buenos Aires, a tawn park		non_saline_candidate		Bacillus sp.
+GCF_008368785.1	Bacillus sp. AY3-1	Scaffold	current	5360530	61	SAMN09370072	soil	Kazakhstan: Almaty, a town park		non_saline_candidate		Bacillus sp.
+GCF_008368795.1	Bacillus sp. BF2-3	Scaffold	current	5775243	85	SAMN09370082	soil	Burkina Faso: Kouba, public road		non_saline_candidate		Bacillus sp.
+GCF_008368805.1	Bacillus sp. BB56-3	Scaffold	current	6256096	132	SAMN09370086	soil	Poland: Biebrza National Park buffer zone		non_saline_candidate		Bacillus sp.
+GCF_008368845.1	Bacillus sp. BB51/4	Scaffold	current	5716405	51	SAMN09370074	soil	Poland: Biebrza National Park buffer zone		non_saline_candidate		Bacillus sp.
+GCF_008368895.1	Bacillus sp. BB081	Scaffold	current	5442865	165	SAMN09370075	soil	Poland: Biebrza National Park buffer zone		non_saline_candidate		Bacillus sp.
+GCF_009183765.1	Bacillus sp. B3-WWTP-C-10-D-3	Scaffold	current	5258704	52	SAMN12925047	waste water treatment plant, downstream	South Africa: North-West, Potchefstroom		non_saline_candidate		Bacillus sp.
+GCF_009183785.1	Bacillus sp. B4-WWTP-NA-D-NA-NA	Scaffold	current	5648013	133	SAMN12925048	waste water treatment plant	South Africa: North-West, Potchefstroom		non_saline_candidate		Bacillus sp.
+GCF_009183795.1	Bacillus sp. B1-WWTP-T-0.5-Post-4	Scaffold	current	5501654	65	SAMN12925045	waste water treatment plant, post chlorination	South Africa: North-West, Potchefstroom		non_saline_candidate		Bacillus sp.
+GCF_017161885.1	Bacillus sp. 3a	Chromosome	current	3721772	1	SAMN17221404	estuarine soil	Brazil: Regencia District, Espirito Santo State		non_saline_candidate		Bacillus sp.
+GCF_019464555.1	Bacillus sp. 7D3	Complete Genome	current	3812926	1	SAMN19821082	wheat field soil	China: Nanjing		non_saline_candidate		Bacillus sp.
+GCF_020783355.1	Bacillus sp. BC1-43	Complete Genome	current	4185798	2	SAMN22612658	soil	South Korea: Cheonan, Chungcheongnam-do		non_saline_candidate		Bacillus sp.
+GCF_024453785.1	Bacillus siamensis	Complete Genome	current	4020075	1	SAMN29759001	root tuber	China: Zhejiang	wenyujin	non_saline_candidate		Bacillus siamensis
+GCF_024722355.1	Bacillus sp. BAC	Complete Genome	current	4226888	1	SAMN30161627	soil	China:Gansu		non_saline_candidate		Bacillus sp.
+GCF_027497645.1	Bacillus siamensis	Scaffold	current	3916442	72	SAMN23574916	soil	Guatemala: San Vicente Pacaya		non_saline_candidate		Bacillus siamensis
+GCF_028401955.1	Bacillus sp. BP-3	Scaffold	current	5016350	80	SAMN32886131	paddy soil	China:Chenzhou		non_saline_candidate		Bacillus sp.
+GCF_029536185.1	Bacillus sp. B28	Complete Genome	current	4132583	1	SAMN33764126	peanut rhizosphere soil	China: Qingdao, Shandong province	missing	non_saline_candidate		Bacillus sp.
+GCF_030386235.1	Bacillus sp. B.PNR1	Scaffold	current	4113144	9	SAMN30608759	agricultural soil near extinct volcano	Thailand: Buriram, Panaom Rung		non_saline_candidate		Bacillus sp.
+GCF_030403765.1	Bacillus sp. B.PNR2	Scaffold	current	4112807	10	SAMN32746351	Agicultural soil	Thailand: Buriram		non_saline_candidate		Bacillus sp.
+GCF_035822615.1	Bacillus siamensis	Scaffold	current	3701307	28	SAMN33940735	soil	India		non_saline_candidate		Bacillus siamensis
+GCF_039134555.1	Bacillus sp. BR3(2024)	Complete Genome	current	6011357	6	SAMN40127310	soil	China:Guangxi		non_saline_candidate		Bacillus sp.
+GCF_040716265.1	Bacillus siamensis	Scaffold	current	3750285	13	SAMN36379395	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus siamensis
+GCF_040716295.1	Bacillus siamensis	Scaffold	current	3823780	13	SAMN36379394	Acid sulfate soil from rice cultivation	Viet Nam: Kien Giang province		non_saline_candidate		Bacillus siamensis
+GCF_045277205.1	Bacillus sp. A01H	Complete Genome	current	5910996	6	SAMN33196481	soil	China		non_saline_candidate		Bacillus sp.
+GCF_046245155.1	Bacillus safensis	Complete Genome	current	3793516	1	SAMN45812046		China: Guizhou	Soil	non_saline_candidate		Bacillus safensis
+GCF_046267945.1	Bacillus safensis	Complete Genome	current	3787572	1	SAMN45832065	soil	China: Bijie		non_saline_candidate		Bacillus safensis
+GCF_047305475.1	Bacillus sp. 3P20	Complete Genome	current	5544404	4	SAMN37669924	rhizosphere soil	Malaysia	Pteris vittata	non_saline_candidate		Bacillus sp.
+GCF_047307045.1	Bacillus sp. A31	Scaffold	current	3642156	29	SAMN38528114	soil	China: Anda	Salix	non_saline_candidate		Bacillus sp.
+GCF_049542595.1	Bacillus safensis	Scaffold	current	3686322	10	SAMN47542913	roots	India: Gujarat	Lantana camara	non_saline_candidate		Bacillus safensis
+GCF_051425535.1	Bacillus safensis	Complete Genome	current	3795137	1	SAMN49699285	chernozem soils	Russia: SFedU Botanical Garden		non_saline_candidate		Bacillus safensis
+GCF_052044605.1	Bacillus sp. 22483	Scaffold	current	3723718	43	SAMN50301473	rhizosphere soil	China:Shandong, Linqu		non_saline_candidate		Bacillus sp.
+GCF_052044835.1	Bacillus sp. 22475	Scaffold	current	6284914	130	SAMN50301471	rhizosphere soil	China:Shandong, Linqu		non_saline_candidate		Bacillus sp.
+GCF_052044955.1	Bacillus sp. 22446	Scaffold	current	3745450	40	SAMN50301464	rhizosphere soil	China:Shandong, Linqu		non_saline_candidate		Bacillus sp.
+GCF_052045225.1	Bacillus sp. 22293	Scaffold	current	4041503	36	SAMN50301448	rhizosphere soil	China:Guizhou, Bijie		non_saline_candidate		Bacillus sp.
+GCF_052045475.1	Bacillus sp. 22266	Scaffold	current	4041380	32	SAMN50301444	rhizosphere soil	China:Guizhou, Bijie		non_saline_candidate		Bacillus sp.
+GCF_052045575.1	Bacillus sp. 22190	Scaffold	current	3850320	61	SAMN50301436	rhizosphere soil	China:Henan, Biyang		non_saline_candidate		Bacillus sp.
+GCF_053291865.1	Bacillus safensis	Complete Genome	current	3663256	1	SAMN50033526	Cypress rhizosphere soil	China:Beijing		non_saline_candidate		Bacillus safensis
+GCF_053903065.1	Bacillus sp. AK031	Complete Genome	current	4310667	2	SAMN27610246	soil	Saudi Arabia: Thwual	Avicennia marina	non_saline_candidate		Bacillus sp.
+GCF_053903075.1	Bacillus sp. AK128	Complete Genome	current	4712946	1	SAMN27610249	Plant	Saudi Arabia: Thwual	Avicennia marina	non_saline_candidate		Bacillus sp.
+GCF_053903085.1	Bacillus sp. AK124	Complete Genome	current	4330884	1	SAMN27610248	Plant	Saudi Arabia: Thwual	Avicennia marina	non_saline_candidate		Bacillus sp.
+GCF_053903095.1	Bacillus sp. AK130	Complete Genome	current	4330942	1	SAMN27610250	Plant	Saudi Arabia: Thwual	Avicennia marina	non_saline_candidate		Bacillus sp.
+GCF_054343815.1	Bacillus safensis	Scaffold	current	3762819	35	SAMN52903209	soil	Uzbekistan: Tashkent		non_saline_candidate		Bacillus safensis
+GCF_054456595.1	Bacillus sp. BMG-18	Complete Genome	current	4126734	1	SAMN54312534	roots	China: Xi an Village, Lanying Township, Wuxi County, Chongqing	Fritillaria taipaiensis	non_saline_candidate		Bacillus sp.
+GCF_001183965.1	Bacillus sp. FJAT-27916	Scaffold	current	4154233	38	SAMN03840768	soil	China: Yunnan		non_saline_candidate		Bacillus sp.
+GCF_001183975.1	Bacillus sp. FJAT-27231	Scaffold	current	4332205	18	SAMN03840767	soil	China: Jinlin		non_saline_candidate		Bacillus sp.
+GCF_001184755.1	Bacillus sp. FJAT-27238	Scaffold	current	6134829	4	SAMN03840765	soil	China: Jilin		non_saline_candidate		Bacillus sp.
+GCF_001273925.1	Bacillus sp. FJAT-27251	Scaffold	current	5043950	81	SAMN03853466	soil	China: Jinlin		non_saline_candidate		Bacillus sp.
+GCF_001273955.1	Bacillus sp. FJAT-27245	Scaffold	current	4606627	22	SAMN03853470	soil	China: Jinlin		non_saline_candidate		Bacillus sp.
+GCF_001278755.1	Bacillus sp. FJAT-22090	Chromosome	current	4215291	2	SAMN04009131	soil	China:Jiangxi		non_saline_candidate		Bacillus sp.
+GCF_001278805.1	Bacillus sp. FJAT-18017	Chromosome	current	5265521	1	SAMN04009150	soil	China:Jiangxi		non_saline_candidate		Bacillus sp.
+GCF_001420605.1	Bacillus sp. FJAT-25509	Scaffold	current	5117549	43	SAMN04038045	soil	China: Sichuan		non_saline_candidate		Bacillus sp.
+GCF_001509555.1	Bacillus sp. FJAT-29937	Scaffold	current	4551322	44	SAMN04099166	soil	China: Fujian		non_saline_candidate		Bacillus sp.
+GCF_001510665.1	Bacillus sp. FJAT-27445	Scaffold	current	4588063	57	SAMN04102801	soil	China:Yunnan		non_saline_candidate		Bacillus sp.
+GCF_001510715.1	Bacillus sp. FJAT-29814	Scaffold	current	5888440	60	SAMN04102798	soil	China:Fujian		non_saline_candidate		Bacillus sp.
+GCF_001682855.1	Bacillus sp. FJAT-27264	Scaffold	current	6681755	40	SAMN05003917	soil	China: Yunnan		non_saline_candidate		Bacillus sp.
+GCF_001682865.1	Bacillus sp. FJAT-26390	Scaffold	current	7433303	43	SAMN04994729	soil	China: Xizang		non_saline_candidate		Bacillus sp.
+GCF_001719225.1	Bacillus sp. FJAT-14266	Complete Genome	current	4109356	1	SAMN04631804	soil	China:Fujian		non_saline_candidate		Bacillus sp.
+GCF_002335755.1	Bacillus sp. FJAT-45066	Scaffold	current	3899609	5	SAMN07212119	soil	China		non_saline_candidate		Bacillus sp.
+GCF_002335805.1	Bacillus sp. FJAT-45350	Scaffold	current	4301594	23	SAMN07212143	soil	China		non_saline_candidate		Bacillus sp.
+GCF_002797315.1	Bacillus sp. FJAT-44742	Scaffold	current	3989367	8	SAMN07249150	soil	China		non_saline_candidate		Bacillus sp.
+GCF_002797325.1	Bacillus sp. FJAT-45037	Scaffold	current	3373087	5	SAMN07212054	soil	China		non_saline_candidate		Bacillus sp.
+GCF_002797375.1	Bacillus sp. FJAT-42315	Scaffold	current	3708137	52	SAMN07249165	soil	China		non_saline_candidate		Bacillus sp.
+GCF_002998455.1	Bacillus sp. GBSC66	Scaffold	current	3570267	23	SAMN08634935	grass roots	China: Tibet, Nyingchi		non_saline_candidate		Bacillus sp.
+GCF_002998655.1	Bacillus sp. GBSW19	Scaffold	current	3618693	13	SAMN08637791	soil	China: Tibet		non_saline_candidate		Bacillus sp.
+GCF_002998675.1	Bacillus sp. GBSW2	Scaffold	current	3676222	19	SAMN08636683	pea roots	China: Tibet, Nyingchi		non_saline_candidate		Bacillus sp.
+GCF_003330965.1	Bacillus sp. DM2	Complete Genome	current	4322871	2	SAMN09630362	soil	China: Qinghai-Tibet Plateau		non_saline_candidate		Bacillus sp.
+GCF_003355115.1	Bacillus sp. COPE52	Chromosome	current	5806513	74	SAMN09462204	Root endosphere	Mexico: Los Reyes, Michoacan	Rubus ulmifolius	non_saline_candidate		Bacillus sp.
+GCF_003429225.1	Bacillus sp. E25	Chromosome	current	5915788	99	SAMN09461924	Tomato plant endosphere	Mexico: Zamora, Michoacan	Physalis ixocarpa	non_saline_candidate		Bacillus sp.
+GCF_003816055.1	Bacillus sp. FJAT-42376	Chromosome	current	4253348	1	SAMN07249159	soil	China		non_saline_candidate		Bacillus sp.
+GCF_008274905.1	Bacillus sp. JAS24-2	Complete Genome	current	6129653	3	SAMN09370087	soil	Poland: Jasienowka, farmland		non_saline_candidate		Bacillus sp.
+GCF_008368945.1	Bacillus sp. JAS102	Scaffold	current	5266143	59	SAMN09370079	soil	Poland: Jasienowka, farmland		non_saline_candidate		Bacillus sp.
+GCF_018139665.1	Bacillus sp. CCNWLCWHY013	Scaffold	current	4212765	23	SAMN18789873	soil	China:Luochuan		non_saline_candidate		Bacillus sp.
+GCF_018343515.1	Bacillus sp. FJAT-50079	Scaffold	current	4739423	21	SAMN19008749	rhizosphere soil	China:Zhangzhou	citrus	non_saline_candidate		Bacillus sp.
+GCF_018343615.1	Bacillus sp. FJAT-49736	Scaffold	current	4423788	24	SAMN19008744	rhizosphere soil	China:Zhangzhou	citrus	non_saline_candidate		Bacillus sp.
+GCF_018343715.1	Bacillus sp. FJAT-49711	Scaffold	current	4767936	27	SAMN19008741	rhizosphere soil	China:Zhangzhou	citrus	non_saline_candidate		Bacillus sp.
+GCF_019039175.1	Bacillus sp. FJAT-27001	Scaffold	current	4116982	83	SAMN05687775	soil	China:Yunnan		non_saline_candidate		Bacillus sp.
+GCF_019039215.1	Bacillus sp. FJAT-29790	Scaffold	current	4546172	129	SAMN05687774	root	China:Fujian		non_saline_candidate		Bacillus sp.
+GCF_020149975.1	Bacillus sp. CRB-7	Complete Genome	current	5264724	2	SAMN21211841	soil	China:Chengdu		non_saline_candidate		Bacillus sp.
+GCF_023823855.1	Bacillus sp. CMF12	Complete Genome	current	5298346	1	SAMN22304401	soil	China		non_saline_candidate		Bacillus sp.
+GCF_024398395.1	Bacillus sp. FS02	Complete Genome	current	3773439	1	SAMN18917214	soil	India: Palampur, HP		non_saline_candidate		Bacillus sp.
+GCF_030292155.1	Bacillus sp. DX3.1	Complete Genome	current	5688347	9	SAMN34510080	field soil	Germany: Heida		non_saline_candidate		Bacillus sp.
+GCF_037083485.1	Bacillus sp. CCNWLW147	Scaffold	current	6465501	80	SAMN39993313	soil	China:Shannxi		non_saline_candidate		Bacillus sp.
+GCF_037083625.1	Bacillus sp. CCNWLW75	Scaffold	current	6465981	81	SAMN39992840	soil	China:Shannxi		non_saline_candidate		Bacillus sp.
+GCF_037120585.1	Bacillus sp. CCNWLW194	Scaffold	current	6461468	78	SAMN40127321	soil	China:Shannxi		non_saline_candidate		Bacillus sp.
+GCF_046054275.1	Bacillus sp. GX	Scaffold	current	5739651	57	SAMN44828888	soil	China:Nanchong		non_saline_candidate		Bacillus sp.
+GCF_046351715.1	Bacillus sp. Bva_UNVM-123	Scaffold	current	5119099	173	SAMN18815149	soil	Argentina		non_saline_candidate		Bacillus sp.
+GCF_054570475.1	Bacillus sp. C1	Scaffold	current	5169516	44	SAMN54531316	rhizosphere, land salinization	China: Daqing		non_saline_candidate		Bacillus sp.
+GCF_056341055.1	Bacillus sp. HN03	Complete Genome	current	3983006	1	SAMN26816379	soil	China:Hainan		non_saline_candidate		Bacillus sp.
+GCF_000970445.1	Bacillus sp. TH008	Scaffold	current	4458714	135	SAMN03291350	soil	USA: Ohio, Columbus, banks of Olentangy River		non_saline_candidate		Bacillus sp.
+GCF_001429445.1	Bacillus sp. Root920	Scaffold	current	3676263	15	SAMN04155877		Germany:Cologne	Arabidopsis thaliana	non_saline_candidate		Bacillus sp.
+GCF_001429465.1	Bacillus sp. Root11	Scaffold	current	6621700	63	SAMN04155694		Germany:Cologne	Arabidopsis thaliana	non_saline_candidate		Bacillus sp.
+GCF_001429475.1	Bacillus sp. Root131	Scaffold	current	6523787	61	SAMN04155720		Germany:Cologne	Arabidopsis thaliana	non_saline_candidate		Bacillus sp.
+GCF_002209985.1	Bacillus sp. K2I17	Scaffold	current	6112111	147	SAMN07259826	soil	Chile: Antarctic territory		non_saline_candidate		Bacillus sp.
+GCF_002218325.1	Bacillus sp. M13(2017)	Scaffold	current	5873661	52	SAMN06323232	soil	China: Kanas Lake		non_saline_candidate		Bacillus sp.
+GCF_002993125.1	Bacillus sp. LLTC93	Scaffold	current	3802952	19	SAMN08628415	beet soil	China: Nyingchi		non_saline_candidate		Bacillus sp.
+GCF_002998085.1	Bacillus sp. NMCN1	Scaffold	current	3662514	12	SAMN08633934	Namtso Lake soil	China: Tibet, Lake Namtso, Nagqu		non_saline_candidate		Bacillus sp.
+GCF_002998465.1	Bacillus sp. NMCC46	Scaffold	current	3632907	19	SAMN08636320	grass root soil	China:Tibet, Lake Namtso, Nagqu		non_saline_candidate		Bacillus sp.
+GCF_002998555.1	Bacillus sp. NMCC4	Scaffold	current	3716705	23	SAMN08636338	soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus sp.
+GCF_002998575.1	Bacillus sp. LNXM65	Scaffold	current	3683458	20	SAMN08636368	soil	China: Tibet		non_saline_candidate		Bacillus sp.
+GCF_002998605.1	Bacillus sp. MZGC1	Scaffold	current	3804143	16	SAMN08636787	soil	China: Tibet		non_saline_candidate		Bacillus sp.
+GCF_002998615.1	Bacillus sp. LNXM10	Scaffold	current	3688268	18	SAMN08636686	wheat root soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus sp.
+GCF_002998735.1	Bacillus sp. NMTD17	Scaffold	current	3681961	14	SAMN08637800	barley roots soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus sp.
+GCF_003004355.1	Bacillus sp. LNXM12-2	Scaffold	current	3628483	14	SAMN08637793	wheat root soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus sp.
+GCF_003004375.1	Bacillus sp. LNXM12-1	Scaffold	current	3627244	12	SAMN08636788	soil	China: Tibet, Lhasa		non_saline_candidate		Bacillus sp.
+GCF_003676355.1	Bacillus sp. L75	Scaffold	current	3963508	104	SAMN10089063	soils	China	Homo sapiens	non_saline_candidate		Bacillus sp.
+GCF_004103875.1	Bacillus sp. WR11	Complete Genome	current	4202080	1	SAMN10225298	root	China	Triticum aestivum L.	non_saline_candidate		Bacillus sp.
+GCF_005154805.1	Bacillus sp. S3	Complete Genome	current	5677811	2	SAMN11475527	Contaminated Mine Soils	China: Hunan		non_saline_candidate		Bacillus sp.
+GCF_005937795.2	Bacillus sp. KBS0812	Complete Genome	current	4299846	2	SAMN11620959	soil	USA: Hickory Corners, MI		non_saline_candidate		Bacillus sp.
+GCF_008042405.1	Bacillus sp. SH7-1	Scaffold	current	5798572	85	SAMN09370073	soil	Kenya: Shimba Hills National Reserve, car-park		non_saline_candidate		Bacillus sp.
+GCF_008274885.1	Bacillus sp. SH8-8	Complete Genome	current	5439260	3	SAMN09370085	soil	Kenya: Shimba Hills National Reserve, car-park		non_saline_candidate		Bacillus sp.
+GCF_008368855.1	Bacillus sp. TE8-1	Scaffold	current	5909200	72	SAMN09370084	soil	Kenya: Tsavo East National Park, car-park		non_saline_candidate		Bacillus sp.
+GCF_008368905.1	Bacillus sp. SH5-2	Scaffold	current	5229578	57	SAMN09370090	soil	Kenya: Shimba Hills National Reserve, car-park		non_saline_candidate		Bacillus sp.
+GCF_014250375.1	Bacillus sp. PAMC26543	Complete Genome	current	4101852	1	SAMN15794337	soil	Antarctica		non_saline_candidate		Bacillus sp.
+GCF_014250415.1	Bacillus sp. PAMC28748	Complete Genome	current	4212838	1	SAMN15794283	soil	Antarctica		non_saline_candidate		Bacillus sp.
+GCF_014250435.1	Bacillus sp. PAMC28571	Complete Genome	current	3793123	1	SAMN15794281	soil	Antarctica		non_saline_candidate		Bacillus sp.
+GCF_014302175.1	Bacillus sp. PAMC22265	Complete Genome	current	3791266	1	SAMN15794277	soil	Antarctica		non_saline_candidate		Bacillus sp.
+GCF_016924995.1	Bacillus sp. LJBS06	Complete Genome	current	4237297	2	SAMN17766440	soil	China: Shanghai		non_saline_candidate		Bacillus sp.
+GCF_017797845.1	Bacillus sp. LJBV19	Complete Genome	current	3973013	1	SAMN18498952	soil	China: shanghai		non_saline_candidate		Bacillus sp.
+GCF_018861275.1	Bacillus sp. JNUCC-22	Complete Genome	current	3949366	1	SAMN19582019	soil	South Korea: Jeju, Baengnokdam Summit Crater Area, Mt. Halla		non_saline_candidate		Bacillus sp.
+GCF_018885385.1	Bacillus sp. JNUCC-24	Complete Genome	current	3835772	2	SAMN19582029	soil	South Korea: Baengnokdam Summit Crater Area, Mt. Halla, Jeju		non_saline_candidate		Bacillus sp.
+GCF_019334685.1	Bacillus sp. LJBS17	Complete Genome	current	4330013	3	SAMN20204829	soil	China: Shanghai		non_saline_candidate		Bacillus sp.
+GCF_020708615.1	Bacillus sp. LBG-1-113	Scaffold	current	4069186	30	SAMN22445230	root	China: Gansu	lily	non_saline_candidate		Bacillus sp.
+GCF_021729365.1	Bacillus sp. R45	Complete Genome	current	3924335	1	SAMN25210050	soil	China:Nanjing		non_saline_candidate		Bacillus sp.
+GCF_022637375.2	Bacillus sp. N5-665	Complete Genome	current	6035299	2	SAMN26520713	peat soil	Germany: long-term fertilization experiment Paulinenaue		non_saline_candidate		Bacillus sp.
+GCF_022701035.1	Bacillus sp. N447-1	Complete Genome	current	5500489	2	SAMN16579498		China:zhengzhou	Zoo anteater area soil	non_saline_candidate		Bacillus sp.
+GCF_030284525.1	Bacillus sp. L381	Complete Genome	current	3861105	1	SAMN31018855	root	China:Guangzhou	Oryza meridionalis	non_saline_candidate		Bacillus sp.
+GCF_030851295.1	Bacillus sp. WR13	Scaffold	current	4009084	15	SAMN30058691	root	China: Zhoukou	Triticum aestivum	non_saline_candidate		Bacillus sp.
+GCF_032465855.1	Bacillus sp. TSA-4	Complete Genome	current	4068985	1	SAMN37639057	soil	China		non_saline_candidate		Bacillus sp.
+GCF_033449965.1	Bacillus sp. T3	Complete Genome	current	4606419	2	SAMN37270868	Rhizosphere soil of pepper	South Korea: Daegu		non_saline_candidate		Bacillus sp.
+GCF_034259245.1	Bacillus sp. RA(2023)	Complete Genome	current	5889210	4	SAMN38441019	soil	China: Shandong Dongying		non_saline_candidate		Bacillus sp.
+GCF_041222765.1	Bacillus sp. JNUCC-21	Complete Genome	current	4199467	1	SAMN42956505	Baengnokdam Summit Crater Area, Mt. Halla	South Korea: Jeju Island	soil	non_saline_candidate		Bacillus sp.
+GCF_041360755.1	Bacillus sp. RCC_6_1	Scaffold	current	6105564	63	SAMN42017410	root	USA: Angelo Coast Range Reserve	Brachypodium distachyon	non_saline_candidate		Bacillus sp.
+GCF_049059285.1	Bacillus sp. YIM B13449	Scaffold	current	3846041	15	SAMN43971604	rhizosphere soil	China: Yunnan Province	tobacco	non_saline_candidate		Bacillus sp.
+GCF_050864245.1	Bacillus sp. XT-4	Scaffold	current	3711965	42	SAMN48882079	cadmium-contaminated soil	China: Xiangtan, Hunan province		non_saline_candidate		Bacillus sp.
+GCF_051131815.1	Bacillus sp. PM5	Chromosome	current	5263753	1	SAMN47806251		China: Nanjing	Soil	non_saline_candidate		Bacillus sp.
+GCF_051131825.1	Bacillus sp. PM43	Chromosome	current	4051346	2	SAMN47806259		China: Nanjing	Soil	non_saline_candidate		Bacillus sp.
+GCF_052600175.1	Bacillus sp. M.A.Huq-78	Scaffold	current	5196555	146	SAMN50892729	soil	South Korea		non_saline_candidate		Bacillus sp.
+GCF_052805735.1	Bacillus sp. N6	Complete Genome	current	5471967	4	SAMN51432599	tea garden soil	China: Wuyishan		non_saline_candidate		Bacillus sp.
+GCF_053557995.1	Bacillus sp. XB1	Scaffold	current	5327894	34	SAMN45866699	soil	China: Zhejiang		non_saline_candidate		Bacillus sp.
+GCF_053903125.1	Bacillus sp. JZ105	Complete Genome	current	3773681	1	SAMN27610177	Plant	Saudi Arabia: Jizan	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_053903135.1	Bacillus sp. JZ109	Complete Genome	current	4103390	1	SAMN27610178	Plant	Saudi Arabia: Jizan	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_053903145.1	Bacillus sp. JZ39	Complete Genome	current	4007146	1	SAMN27610179	Plant	Saudi Arabia: Jizan	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_053903155.1	Bacillus sp. JZ76	Complete Genome	current	4103388	1	SAMN27610200	Plant	Saudi Arabia: Jizan	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_053903185.1	Bacillus sp. JZ142	Complete Genome	current	3773654	1	SAMN27610204	Plant	Saudi Arabia: Jizan	Euphorbia granulata	non_saline_candidate		Bacillus sp.
+GCF_053903195.1	Bacillus sp. JZ33	Complete Genome	current	3773699	1	SAMN27610205	Plant	Saudi Arabia: Jizan	Euphorbia granulata	non_saline_candidate		Bacillus sp.
+GCF_053903205.1	Bacillus sp. JZ34	Complete Genome	current	4397370	1	SAMN27610206	Plant	Saudi Arabia: Jizan	Euphorbia granulata	non_saline_candidate		Bacillus sp.
+GCF_053903215.1	Bacillus sp. JZ35	Complete Genome	current	3773699	1	SAMN27610207	Plant	Saudi Arabia: Jizan	Euphorbia granulata	non_saline_candidate		Bacillus sp.
+GCF_053903235.1	Bacillus sp. JZ71	Complete Genome	current	3781119	2	SAMN27610209	Plant	Saudi Arabia: Thweal	Euphorbia granulata	non_saline_candidate		Bacillus sp.
+GCF_053903245.1	Bacillus sp. K7	Complete Genome	current	3889512	1	SAMN27610210	Plant	Saudi Arabia: Thweal	Dactyloctenium aristatum	non_saline_candidate		Bacillus sp.
+GCF_054161355.1	Bacillus sp. PK3-037	Complete Genome	current	4128071	1	SAMN27610215	Plant	Pakistan: Thar desert	Janochloa antidotale	non_saline_candidate		Bacillus sp.
+GCF_054161375.1	Bacillus sp. PK3-130	Complete Genome	current	4128155	1	SAMN27610219	Plant	Pakistan: Thar desert	Janochloa antidotale	non_saline_candidate		Bacillus sp.
+GCF_054161385.1	Bacillus sp. PK3-136	Complete Genome	current	4128070	1	SAMN27610220	Plant	Pakistan: Thar desert	Janochloa antidotale	non_saline_candidate		Bacillus sp.
+GCF_054161395.1	Bacillus sp. PK3-137	Complete Genome	current	3736950	1	SAMN27610221	Plant	Pakistan: Thar desert	Janochloa antidotale	non_saline_candidate		Bacillus sp.
+GCF_054161405.1	Bacillus sp. PK5-004	Complete Genome	current	3736957	1	SAMN27610223	Plant	Pakistan: Thar desert	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_054161415.1	Bacillus sp. PK5-006	Complete Genome	current	3736907	1	SAMN27610224	Plant	Pakistan: Thar desert	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_054161425.1	Bacillus sp. PK5-009	Complete Genome	current	3736920	1	SAMN27610225	Plant	Pakistan: Thar desert	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_054161435.1	Bacillus sp. PK5-050	Complete Genome	current	3736916	1	SAMN27610228	Plant	Pakistan: Thar desert	Tribulus terrestris	non_saline_candidate		Bacillus sp.
+GCF_054161445.1	Bacillus sp. PK6-013	Complete Genome	current	4287170	1	SAMN27610229	Plant	Pakistan: Thar desert	Tetraena simplex	non_saline_candidate		Bacillus sp.
+GCF_054161455.1	Bacillus sp. PK6-026	Complete Genome	current	4370689	1	SAMN27610231	Plant	Pakistan: Thar desert	Tetraena simplex	non_saline_candidate		Bacillus sp.
+GCF_054792375.1	Bacillus sp. SA116	Complete Genome	current	4230722	2	SAMN27610185	Plant	Saudi Arabia: Jizan	Indigofera argentea Burm.f.	non_saline_candidate		Bacillus sp.
+GCF_056530265.1	Bacillus sp. PK6-025	Complete Genome	current	4423395	2	SAMN27610230	Plant	Pakistan: Thar desert	Tetraena simplex	non_saline_candidate		Bacillus sp.
+GCF_056530295.1	Bacillus sp. PK6-16	Complete Genome	current	5667521	2	SAMN27610232	Plant	Pakistan: Thar desert	Tetraena simplex	non_saline_candidate		Bacillus sp.
+GCF_056738645.1	Bacillus sp. PK3-067	Complete Genome	current	5869396	5	SAMN27610218	Plant	Pakistan: Thar desert	Janochloa antidotale	non_saline_candidate		Bacillus sp.
+GCF_056838025.1	Bacillus sp. MC1252	Complete Genome	current	3678855	1	SAMN54756743		China: Aksu Prefecture, Xinjiang Uygur Autonomous Region	soil	non_saline_candidate		Bacillus sp.
+GCF_001278955.1	Bacillus subtilis	Scaffold	current	4038551	44	SAMN03835251	soil	China		non_saline_candidate		Bacillus subtilis
+GCF_001890405.1	Bacillus subtilis	Complete Genome	current	4212430	2	SAMN06060088	soil	China: Tianjin		non_saline_candidate		Bacillus subtilis
+GCF_002072735.1	Bacillus subtilis	Complete Genome	current	4072961	1	SAMN06618433	rhizosphere	China:Zhongning,Ningxia	Lycium barbarum L.	non_saline_candidate		Bacillus subtilis
+GCF_002142595.1	Bacillus subtilis	Complete Genome	current	3923177	1	SAMN06808294	rhizospheric soil	Algeria: Tlemcen		non_saline_candidate		Bacillus subtilis
+GCF_002205435.1	Bacillus subtilis	Chromosome	current	4093698	130	SAMN07187745	soil	India: Assam, Sivasagar		non_saline_candidate		Bacillus subtilis
+GCF_002277775.1	Bacillus subtilis	Scaffold	current	4271280	21	SAMN07285925	potato rhizosphere	Russia: Republic of Tatarstan		non_saline_candidate		Bacillus subtilis
+GCF_003148355.1	Bacillus subtilis	Complete Genome	current	4120380	1	SAMN09212889	soil	China: Hainan province		non_saline_candidate		Bacillus subtilis
+GCF_003265645.1	Bacillus subtilis	Scaffold	current	4161805	13	SAMN02714223	soil	China: Yantai, Shandong		non_saline_candidate		Bacillus subtilis
+GCF_004101945.1	Bacillus subtilis	Complete Genome	current	4110138	1	SAMN07460133	soil	France		non_saline_candidate		Bacillus subtilis
+GCF_004103895.1	Bacillus subtilis	Scaffold	current	3980593	32	SAMN06445278	rhizospheric soil	India:Uttar Pradesh		non_saline_candidate		Bacillus subtilis
+GCF_004294565.1	Bacillus subtilis	Scaffold	current	4060396	23	SAMN10786851	Maize rhizosphere	South Africa: Mafikeng	Soil	non_saline_candidate		Bacillus subtilis
+GCF_005849145.1	Bacillus subtilis	Complete Genome	current	4073059	1	SAMN11535052	Tobacco rhizosphere soil	China:Hunan Province		non_saline_candidate		Bacillus subtilis
+GCF_007995205.1	Bacillus subtilis	Scaffold	current	4138034	56	SAMN06167145	Soil from decomposing logs of textile industry	India: Gujarat, Surat		non_saline_candidate		Bacillus subtilis
+GCF_009665145.1	Bacillus subtilis	Complete Genome	current	4015360	1	SAMN13155133	soil	China: Chengde		non_saline_candidate		Bacillus subtilis
+GCF_009857115.1	Bacillus subtilis	Complete Genome	current	4119195	1	SAMN13715497	soil	South Korea: Gotjawal in Jeju island		non_saline_candidate		Bacillus subtilis
+GCF_009937745.1	Bacillus subtilis	Chromosome	current	4457201	1	SAMN13510061	soil	Pakistan: Karak		non_saline_candidate		Bacillus subtilis
+GCF_010634645.1	Bacillus subtilis	Scaffold	current	4236139	85	SAMN06643048	healthy plant	India	Crocus sativus (saffron)	non_saline_candidate		Bacillus subtilis
+GCF_011765645.1	Bacillus subtilis	Chromosome	current	4142132	26	SAMN12697602	Plant tissue	India:Manipur	Oryza sativa	non_saline_candidate		Bacillus subtilis
+GCF_013285325.1	Bacillus subtilis	Complete Genome	current	4101682	1	SAMN15069579	soil	China:Najing province		non_saline_candidate		Bacillus subtilis
+GCF_013342875.1	Bacillus subtilis	Scaffold	current	4248244	24	SAMN15042623	soil	China		non_saline_candidate		Bacillus subtilis
+GCF_014879275.1	Bacillus subtilis	Complete Genome	current	4200880	1	SAMN16330026	Bat guano from cave soil	Brazil: Para, Altamira		non_saline_candidate		Bacillus subtilis
+GCF_015535655.1	Bacillus subtilis	Complete Genome	current	4105857	1	SAMN13503695	Dendrobium	China:Guangzhou	plant	non_saline_candidate		Bacillus subtilis
+GCF_015602625.1	Bacillus subtilis	Complete Genome	current	4186822	1	SAMN13503694	Dendrobium	China:Guangzhou	plant	non_saline_candidate		Bacillus subtilis
+GCF_015844635.1	Bacillus subtilis	Scaffold	current	4094982	22	SAMN03654031	maybe soil	China		non_saline_candidate		Bacillus subtilis
+GCF_015844655.1	Bacillus subtilis	Scaffold	current	4227600	102	SAMN03654030	maybe soil	China		non_saline_candidate		Bacillus subtilis
+GCF_015880865.1	Bacillus subtilis	Scaffold	current	4081556	29	SAMN03651926	maybe soil	China		non_saline_candidate		Bacillus subtilis
+GCF_016894165.1	Bacillus subtilis	Complete Genome	current	4080024	1	SAMN17832981	soil	Belarus:Novopolotsk		non_saline_candidate		Bacillus subtilis
+GCF_017599395.1	Bacillus subtilis	Scaffold	current	4143274	124	SAMN18386051	soil	Pakistan: Thal Desert		non_saline_candidate		Bacillus subtilis
+GCF_017817855.1	Bacillus subtilis	Scaffold	current	4064901	29	SAMN18155319	soil	Brazil		non_saline_candidate		Bacillus subtilis
+GCF_018223525.1	Bacillus subtilis	Scaffold	current	4061509	23	SAMN18839106	soil	China:Beijing, Haidian District, Zhongguancunnandajie, Chinese Agricultral of Academy Sciences		non_saline_candidate		Bacillus subtilis
+GCF_018394175.1	Bacillus subtilis	Complete Genome	current	4030791	1	SAMN19091144	soil	China: Mount Tai		non_saline_candidate		Bacillus subtilis
+GCF_018530835.1	Bacillus subtilis	Scaffold	current	4037732	11	SAMN19238141	soil	China:Beijing, Haidian District, Zhongguancunnandajie, Chinese Agricultral of Academy Sciences		non_saline_candidate		Bacillus subtilis
+GCF_019931715.1	Bacillus subtilis	Complete Genome	current	4299840	2	SAMN21220196	soil	China		non_saline_candidate		Bacillus subtilis
+GCF_020859605.1	Bacillus subtilis	Scaffold	current	4125559	22	SAMN22603050	activated sludge from wastewater treatment plant	China: Fuzhou		non_saline_candidate		Bacillus subtilis
+GCF_021498185.1	Bacillus subtilis	Chromosome	current	4138018	14	SAMN14911298	Local soil sample	India		non_saline_candidate		Bacillus subtilis
+GCF_022370975.1	Bacillus subtilis	Complete Genome	current	4264477	1	SAMN25982035	soil	China: Shandong		non_saline_candidate		Bacillus subtilis
+GCF_022654795.1	Bacillus subtilis	Complete Genome	current	4160635	1	SAMN26533862	tea soil	China: Guiyang		non_saline_candidate		Bacillus subtilis
+GCF_022700935.1	Bacillus subtilis	Complete Genome	current	4215560	1	SAMN16585340	Soil of Dajian Mountain Forest Farm	China:Shanxi qinshui		non_saline_candidate		Bacillus subtilis
+GCF_022809835.2	Bacillus sp. ZJS3	Complete Genome	current	5756387	3	SAMN26863310	biological soil crust	China:Tengger Desert		non_saline_candidate		Bacillus sp.
+GCF_023369715.1	Bacillus subtilis	Complete Genome	current	4058498	1	SAMN28044975		China: Hebei	soil	non_saline_candidate		Bacillus subtilis
+GCF_024220155.1	Bacillus subtilis	Complete Genome	current	4030831	1	SAMN29498062	soil	China:Beijing		non_saline_candidate		Bacillus subtilis
+GCF_025460705.1	Bacillus subtilis	Scaffold	current	4152216	23	SAMN28928350	petroleum contaminated soil	China: Maoming		non_saline_candidate		Bacillus subtilis
+GCF_025502505.1	Bacillus subtilis	Complete Genome	current	4175498	2	SAMN30959807	soil	South Korea:Buyeo		non_saline_candidate		Bacillus subtilis
+GCF_025502545.1	Bacillus subtilis	Complete Genome	current	4175500	2	SAMN30959580	soil	South Korea:Buyeo		non_saline_candidate		Bacillus subtilis
+GCF_025767725.1	Bacillus subtilis	Chromosome	current	4204770	1	SAMN09662699	soil	India: Maharashtra		non_saline_candidate		Bacillus subtilis
+GCF_025914075.1	Bacillus subtilis	Complete Genome	current	4049856	1	SAMN18642587	soil	China:Nanjing		non_saline_candidate		Bacillus subtilis
+GCF_026639155.1	Bacillus subtilis	Complete Genome	current	4060823	1	SAMN31746991	soil	China		non_saline_candidate		Bacillus subtilis
+GCF_026793955.1	Bacillus subtilis	Scaffold	current	4064771	25	SAMN25999666	soil	not collected		non_saline_candidate		Bacillus subtilis
+GCF_035822295.1	Bacillus stercoris	Scaffold	current	4042839	19	SAMN33940744	soil	Trinidad and Tobago: Trinidad		non_saline_candidate		Bacillus stercoris
+GCF_028462485.1	Bacillus subtilis	Scaffold	current	4063891	69	SAMN32946340	soil	not applicable		non_saline_candidate		Bacillus subtilis
+GCF_028463925.1	Bacillus subtilis	Complete Genome	current	4110203	1	SAMN32902171	soil	South Korea:Sunchang		non_saline_candidate		Bacillus subtilis
+GCF_029027845.1	Bacillus subtilis	Complete Genome	current	4295123	2	SAMN26811691	soil	China: Shenzhen		non_saline_candidate		Bacillus subtilis
+GCF_029537155.2	Bacillus subtilis	Complete Genome	current	4140514	1	SAMN33591691	soil	not applicable		non_saline_candidate		Bacillus subtilis
+GCF_030122865.1	Bacillus subtilis	Complete Genome	current	4090469	1	SAMN34374854	grassland soil	Denmark: Gentofte		non_saline_candidate		Bacillus subtilis
+GCF_030122885.1	Bacillus subtilis	Complete Genome	current	4090469	1	SAMN34374855	grassland soil	Denmark: Gentofte		non_saline_candidate		Bacillus subtilis
+GCF_030123085.1	Bacillus subtilis	Complete Genome	current	4085814	1	SAMN34374884	pine forrest soil between two spruce trees	Germany: near Munchenroda, Jena		non_saline_candidate		Bacillus subtilis
+GCF_030123145.1	Bacillus subtilis	Complete Genome	current	4237328	1	SAMN34375013	rhizosphere soil	China: Kaifeng, Henan Province		non_saline_candidate		Bacillus subtilis
+GCF_030273385.1	Bacillus subtilis	Chromosome	current	4149783	30	SAMN23670471	rice garden soil	India: Jorhat, Assam		non_saline_candidate		Bacillus subtilis
+GCF_030643845.1	Bacillus subtilis	Complete Genome	current	4227198	1	SAMN32775247	Starch plant	China: Guangxi		non_saline_candidate		Bacillus subtilis
+GCF_030863625.1	Bacillus subtilis	Complete Genome	current	3908079	1	SAMN30451247	rhizosphere soil	China:Shaanxi	missing	non_saline_candidate		Bacillus subtilis
+GCF_031326005.1	Bacillus subtilis	Complete Genome	current	4092273	2	SAMN37220582	soil sample	South Korea: Jeju Island		non_saline_candidate		Bacillus subtilis
+GCF_031326045.1	Bacillus subtilis	Complete Genome	current	4059376	1	SAMN37220456	soil sample	South Korea: Busan		non_saline_candidate		Bacillus subtilis
+GCF_033100155.1	Bacillus subtilis	Chromosome	current	4093049	2	SAMN37735702	Soil adhered to the roots	Trinidad and Tobago: Trinidad	Wild Sorghum	non_saline_candidate		Bacillus subtilis
+GCF_035808095.1	Bacillus subtilis	Scaffold	current	4243171	34	SAMN33940662	soil	Austria		non_saline_candidate		Bacillus subtilis
+GCF_035809035.1	Bacillus subtilis	Scaffold	current	4048165	18	SAMN33940602	soil	Russia		non_saline_candidate		Bacillus subtilis
+GCF_035809065.1	Bacillus subtilis	Scaffold	current	4043088	23	SAMN33940604	soil	Russia		non_saline_candidate		Bacillus subtilis
+GCF_035810155.1	Bacillus subtilis	Scaffold	current	4064812	20	SAMN33940544	soil	USA		non_saline_candidate		Bacillus subtilis
+GCF_035810195.1	Bacillus subtilis	Scaffold	current	3980630	18	SAMN33940546	soil	USA		non_saline_candidate		Bacillus subtilis
+GCF_035810235.1	Bacillus subtilis	Scaffold	current	4083521	14	SAMN33940542	soil	USA		non_saline_candidate		Bacillus subtilis
+GCF_035810255.1	Bacillus subtilis	Scaffold	current	4091815	17	SAMN33940541	soil	USA		non_saline_candidate		Bacillus subtilis
+GCF_035811795.1	Bacillus subtilis	Scaffold	current	3974430	13	SAMN33940465	soil	India		non_saline_candidate		Bacillus subtilis
+GCF_035822435.1	Bacillus subtilis	Scaffold	current	4133452	16	SAMN33940740	soil	Canada		non_saline_candidate		Bacillus subtilis
+GCF_035822575.1	Bacillus subtilis	Scaffold	current	4060878	19	SAMN33940738	soil	Canada		non_saline_candidate		Bacillus subtilis
+GCF_035822815.1	Bacillus subtilis	Scaffold	current	4180663	97	SAMN33940730	soil	Greenland		non_saline_candidate		Bacillus subtilis
+GCF_035823135.1	Bacillus subtilis	Scaffold	current	4209091	20	SAMN33940722	soil	not collected		non_saline_candidate		Bacillus subtilis
+GCF_035823895.1	Bacillus subtilis	Scaffold	current	4114275	28	SAMN31780099	soil	Poland		non_saline_candidate		Bacillus subtilis
+GCF_036512515.1	Bacillus subtilis	Complete Genome	current	4035612	3	SAMD00650365	soil	Japan:Tokyo		non_saline_candidate		Bacillus subtilis
+GCF_037164265.1	Bacillus subtilis	Scaffold	current	4084542	92	SAMN39645117	soil	China: Beijing		non_saline_candidate		Bacillus subtilis
+GCF_037997165.1	Bacillus subtilis	Complete Genome	current	4215642	1	SAMN40517433	Healthy cucumber rhizosphere soil.	China: Beiwang Village, Luolong District, Luoyang City, Henan Province	Cucumis sativus L.	non_saline_candidate		Bacillus subtilis
+GCF_038442665.1	Bacillus subtilis	Complete Genome	current	4215643	1	SAMN40979683	wheat rhizospheric soil	China: a field at the Henan Academy of Agricultural Sciences in Xinxiang, Henan		non_saline_candidate		Bacillus subtilis
+GCF_038594285.1	Bacillus subtilis	Scaffold	current	4278314	30	SAMN40732643	soil	Russia: Republic of Tatarstan, Kazan		non_saline_candidate		Bacillus subtilis
+GCF_041153445.1	Bacillus subtilis	Scaffold	current	4004109	12	SAMN41837374	root	Thailand: Surat Thani	rice	non_saline_candidate		Bacillus subtilis
+GCF_041514415.1	Bacillus subtilis	Complete Genome	current	4083451	1	SAMN26302293	Rhizosphere soil of cucumber, cucumber field of the experimental farm of the School of Agriculture and Biology, Shanghai Jiaotong University	China: Shanghai		non_saline_candidate		Bacillus subtilis
+GCF_045001865.1	Bacillus subtilis	Complete Genome	current	4030855	1	SAMN38026925	soil	China: Henan		non_saline_candidate		Bacillus subtilis
+GCF_045277765.1	Bacillus subtilis	Chromosome	current	4168801	80	SAMN35344861	root of tea	India: Jalpaiguri, West Bengal	Camellia sinensis	non_saline_candidate		Bacillus subtilis
+GCF_046267835.1	Bacillus subtilis	Complete Genome	current	4425418	2	SAMN43911274	plant	China:Shangqiu		non_saline_candidate		Bacillus subtilis
+GCF_047302535.1	Bacillus subtilis	Complete Genome	current	4117990	1	SAMN44627545	root	USA:Tucson	Lactuca serriola	non_saline_candidate		Bacillus subtilis
+GCF_047782775.1	Bacillus subtilis	Complete Genome	current	4120051	1	SAMN45886785	soil sample	India: Rubber Estate, Kerala		non_saline_candidate		Bacillus subtilis
+GCF_050051215.1	Bacillus subtilis	Scaffold	current	4282130	24	SAMN48054950	soil	Brazil: Ceara, Ocara		non_saline_candidate		Bacillus subtilis
+GCF_050051235.1	Bacillus subtilis	Scaffold	current	4088418	17	SAMN48054949	soil	Brazil: Ceara, Pedra Branca		non_saline_candidate		Bacillus subtilis
+GCF_050884255.1	Bacillus subtilis	Complete Genome	current	4089051	1	SAMN48388340	soil	China:Taizhou		non_saline_candidate		Bacillus subtilis
+GCF_051192595.1	Bacillus subtilis	Scaffold	current	4074393	25	SAMN49650439	potato rhizosphere	Russia:Tatarstan, Kazan		non_saline_candidate		Bacillus subtilis
+GCF_051904005.1	Bacillus subtilis	Complete Genome	current	4572713	1	SAMN28462502	Rhizosheric soil	India: Tamil Nadu, Coimbatore, TNAU		non_saline_candidate		Bacillus subtilis
+GCF_051908735.1	Bacillus subtilis	Complete Genome	current	4137114	2	SAMN50429499	plant leaves	China: Changsha		non_saline_candidate		Bacillus subtilis
+GCF_052806295.1	Bacillus subtilis	Scaffold	current	4168299	50	SAMN48096595	soil	Spain		non_saline_candidate		Bacillus subtilis
+GCF_053291885.1	Bacillus subtilis	Complete Genome	current	4217970	1	SAMN50033525	Cypress rhizosphere soil	China:Beijing		non_saline_candidate		Bacillus subtilis
+GCF_053786015.1	Bacillus subtilis	Complete Genome	current	4091710	1	SAMN53403215	soil	China: Qingzhou		non_saline_candidate		Bacillus subtilis
+GCF_054408555.1	Bacillus subtilis	Complete Genome	current	4156860	3	SAMN46066456	soil	China: Shandong		non_saline_candidate		Bacillus subtilis
+GCF_000227485.1	Bacillus subtilis subsp. subtilis str. RO-NN-1	Complete Genome	current	4011949	1	SAMN02603351	soil			non_saline_candidate		Bacillus subtilis
+GCF_001565875.1	Bacillus subtilis subsp. natto	Complete Genome	current	4193748	3	SAMN04437026	soil	missing	missing	non_saline_candidate		Bacillus subtilis
+GCF_002009095.1	Bacillus subtilis subsp. subtilis str. 168	Chromosome	current	4215398	3	SAMN06268574		missing	soil	non_saline_candidate		Bacillus subtilis
+GCF_002009135.1	Bacillus subtilis subsp. subtilis str. 168	Chromosome	current	4215385	2	SAMN06268590		missing	soil	non_saline_candidate		Bacillus subtilis
+GCF_002998755.1	Bacillus subtilis subsp. subtilis	Scaffold	current	4074495	18	SAMN08637871	soil	China: Tibet		non_saline_candidate		Bacillus subtilis
+GCF_002998795.1	Bacillus subtilis subsp. subtilis	Scaffold	current	4072574	14	SAMN08637881	soil	China: Tibet		non_saline_candidate		Bacillus subtilis
+GCF_011800745.1	Bacillus subtilis subsp. subtilis	Scaffold	current	4090640	26	SAMN09761081	rhizosphere	Colombia: Uraba	Musa acuminata AAA Group	non_saline_candidate		Bacillus subtilis
+GCF_012648205.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4059834	1	SAMN14479758	cotton plant surface sterilized stem	Tajikistan:Dushanbe		non_saline_candidate		Bacillus subtilis
+GCF_018454405.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4215114	1	SAMN19136531	beach soil	India:Midalam beach in Tamil Nadu		non_saline_candidate		Bacillus subtilis
+GCF_029916985.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4163183	2	SAMN34231589	soil	China:Wuhan		non_saline_candidate		Bacillus subtilis
+GCF_039619305.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4086124	1	SAMN41076884	Wheat root	China: Henan		non_saline_candidate		Bacillus subtilis
+GCF_041023695.1	Bacillus subtilis subsp. subtilis	Scaffold	current	4071622	16	SAMN42877911	tomato roots	Russia		non_saline_candidate		Bacillus subtilis
+GCF_047823005.1	Bacillus subtilis subsp. subtilis	Scaffold	current	4047995	17	SAMN46714633	Wastewater from the tannery treatment plant	Colombia: Quindio		non_saline_candidate		Bacillus subtilis
+GCF_049860545.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4295485	2	SAMN48002405	Plant rhizosphere	China: Nanjing		non_saline_candidate		Bacillus subtilis
+GCF_051912515.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4147866	1	SAMN50219890	soil sample	Mexico: Guanajuato, Valle de Santiago, Las Siete Luminarias Nature Reserve	Metarhizium robertsii	non_saline_candidate		Bacillus subtilis
+GCF_055690685.1	Bacillus subtilis	Complete Genome	current	4177895	1	SAMN54376224	Root of Leucas aspera	Bangladesh: Biral, Dinajpur	Leucas aspera	non_saline_candidate		Bacillus subtilis
+GCF_055801795.1	Bacillus subtilis	Complete Genome	current	4123886	1	SAMN54937985	Ginkgo biloba rhizosphere soil	China:Qiannan Buyi and Miao Autonomous Prefecture		non_saline_candidate		Bacillus subtilis
+GCF_905310985.2	Bacillus subtilis	Complete Genome	current	4096107	1	SAMEA8103426	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905310995.2	Bacillus subtilis	Complete Genome	current	4264553	1	SAMEA8103427	community garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905311035.2	Bacillus subtilis	Chromosome	current	4312183	5	SAMEA8103425	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905311385.2	Bacillus subtilis	Complete Genome	current	4371489	2	SAMEA8103433	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905311405.2	Bacillus subtilis	Complete Genome	current	4166364	2	SAMEA8103429	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905311425.2	Bacillus subtilis	Complete Genome	current	4090679	1	SAMEA8103428	community garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905315045.2	Bacillus subtilis	Complete Genome	current	4226657	1	SAMEA8103437	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905315055.2	Bacillus subtilis	Complete Genome	current	4001615	1	SAMEA8103438	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905315685.2	Bacillus subtilis	Complete Genome	current	4169376	2	SAMEA8103444	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905315705.2	Bacillus subtilis	Complete Genome	current	4215744	1	SAMEA8103446	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905315715.2	Bacillus subtilis	Complete Genome	current	4224542	1	SAMEA8103447	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905318255.2	Bacillus subtilis	Complete Genome	current	4275379	2	SAMEA8103449	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905319135.2	Bacillus subtilis	Complete Genome	current	4324000	2	SAMEA8103452	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905319155.2	Bacillus subtilis	Complete Genome	current	4256610	1	SAMEA8103450	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905319545.2	Bacillus subtilis	Complete Genome	current	4096109	1	SAMEA8103453	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_905319565.2	Bacillus subtilis	Complete Genome	current	4169161	2	SAMEA8103454	garden soil	United Kingdom		non_saline_candidate		Bacillus subtilis
+GCF_000740715.1	Bacillus velezensis	Scaffold	current	3951956	96	SAMN02947774	soil	China: Ranzhuang Tunnel, Hebei Province		non_saline_candidate		Bacillus velezensis
+GCF_000786145.2	Bacillus velezensis	Scaffold	current	3986274	64	SAMN03106920	flowers from a wild plant	Spain: mediterranean nord-east coast		non_saline_candidate		Bacillus velezensis
+GCF_000875875.2	Bacillus velezensis	Chromosome	current	4006441	6	SAMN03271888	Cotton Plant Rhizosphere	USA		non_saline_candidate		Bacillus velezensis
+GCF_000973485.1	Bacillus velezensis	Complete Genome	current	3903017	1	SAMN03470201	soil	China	-	non_saline_candidate		Bacillus velezensis
+GCF_001023595.1	Bacillus velezensis	Complete Genome	current	4009746	1	SAMN03733934	4-year-old roots of Korean ginseng	South Korea: Cheongju		non_saline_candidate		Bacillus velezensis
+GCF_001685645.1	Bacillus velezensis	Complete Genome	current	3929772	1	SAMN04816858	Cucumber rhizosphere soil	China: Tangshan city, Hebei province		non_saline_candidate		Bacillus velezensis
+GCF_002005345.1	Bacillus velezensis	Complete Genome	current	4143608	2	SAMN06196402	rice paddy soil	Korea: Goheung		non_saline_candidate		Bacillus velezensis
+GCF_002057535.1	Bacillus velezensis	Complete Genome	current	3926520	1	SAMN05949245	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_002105595.1	Bacillus velezensis	Complete Genome	current	3963726	1	SAMN06711603	rhizosphere	Canada: Delhi	Potato	non_saline_candidate		Bacillus velezensis
+GCF_002117165.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN03571282	rice rhizosphere soil	South Korea: Cheongwon		non_saline_candidate		Bacillus velezensis
+GCF_002192235.1	Bacillus velezensis	Complete Genome	current	3929760	1	SAMN06231161	Lycium barbarum L. rhizosphere	China: Zhongning, Ningxia		non_saline_candidate		Bacillus velezensis
+GCF_002204665.1	Bacillus velezensis	Scaffold	current	3905592	65	SAMN07174738	maize rhizosphere	South Africa: North West		non_saline_candidate		Bacillus velezensis
+GCF_002205715.1	Bacillus velezensis	Complete Genome	current	3900066	2	SAMN07248583	Root endosphere	South Korea: Yecheon	Solanum lycopersicum	non_saline_candidate		Bacillus velezensis
+GCF_002237515.1	Bacillus velezensis	Complete Genome	current	3979382	1	SAMN07371515		China: Xiqing district of Tianjin city	soil	non_saline_candidate		Bacillus velezensis
+GCF_002238395.1	Bacillus velezensis	Complete Genome	current	3872560	3	SAMN07371516	field soil	China		non_saline_candidate		Bacillus velezensis
+GCF_002688525.1	Bacillus velezensis	Complete Genome	current	4090582	1	SAMN07768195	soil	China: pear germplasm repository of the Institute of Pomology, Chinese Academy of Agricultural Sciences, Xingcheng		non_saline_candidate		Bacillus velezensis
+GCF_002741705.1	Bacillus velezensis	Complete Genome	current	4197217	1	SAMN07836906	rare dormant volcanic soils	China: Changbai Mountain in Jilin Province		non_saline_candidate		Bacillus velezensis
+GCF_002761535.1	Bacillus velezensis	Complete Genome	current	4006746	1	SAMN05980781		China: Shandong	soil microorganism	non_saline_candidate		Bacillus velezensis
+GCF_002763675.1	Bacillus velezensis	Complete Genome	current	4024750	2	SAMN07840093	soil	China: Taian		non_saline_candidate		Bacillus velezensis
+GCF_002764075.1	Bacillus velezensis	Complete Genome	current	4061552	1	SAMN07977821	soil	China: tianjin		non_saline_candidate		Bacillus velezensis
+GCF_002844125.1	Bacillus velezensis	Complete Genome	current	4246605	1	SAMN08158236	soil	China: Dezhou		non_saline_candidate		Bacillus velezensis
+GCF_002916875.1	Bacillus velezensis	Scaffold	current	3879012	36	SAMN06628691	soil used for soybean agriculture	China: Heilongjiang, Harbin	not applicable	non_saline_candidate		Bacillus velezensis
+GCF_002968415.1	Bacillus velezensis	Complete Genome	current	4385679	2	SAMN08450108	bamboo forest soil	China:Tianmu Mountain		non_saline_candidate		Bacillus velezensis
+GCF_002998915.1	Bacillus velezensis	Scaffold	current	3851762	28	SAMN08639691	soil	China: Tibet		non_saline_candidate		Bacillus velezensis
+GCF_003045165.1	Bacillus velezensis	Complete Genome	current	3929794	1	SAMN08826799	soil	South Korea: Daejeon		non_saline_candidate		Bacillus velezensis
+GCF_003047005.1	Bacillus velezensis	Complete Genome	current	3893072	1	SAMN08826801	soil	Korea: Daejeon		non_saline_candidate		Bacillus velezensis
+GCF_003047025.1	Bacillus velezensis	Complete Genome	current	3893071	1	SAMN08826800	soil	Korea: Daejeon		non_saline_candidate		Bacillus velezensis
+GCF_003047045.1	Bacillus velezensis	Complete Genome	current	3893029	1	SAMN08826802	soil	Korea: Daejeon		non_saline_candidate		Bacillus velezensis
+GCF_003071465.1	Bacillus velezensis	Complete Genome	current	3975084	1	SAMN06759344	Pepper plant	Korea: Gwangyang Province		non_saline_candidate		Bacillus velezensis
+GCF_003150855.1	Bacillus velezensis	Complete Genome	current	3913872	1	SAMN09212893	banana rhizosphere soil	China: Hainan province		non_saline_candidate		Bacillus velezensis
+GCF_003285085.1	Bacillus velezensis	Complete Genome	current	4321463	2	SAMN09354865	rhizosphere soil	China		non_saline_candidate		Bacillus velezensis
+GCF_003390415.1	Bacillus velezensis	Complete Genome	current	3919798	1	SAMN09759669		China	plant	non_saline_candidate		Bacillus velezensis
+GCF_003431885.1	Bacillus velezensis	Complete Genome	current	3929745	1	SAMN04419262	rhizosphere soil of field-grown rice	South Korea: Cheongwon		non_saline_candidate		Bacillus velezensis
+GCF_003441635.1	Bacillus velezensis	Chromosome	current	4009999	3	SAMN09856379	soil	USA		non_saline_candidate		Bacillus velezensis
+GCF_003546955.1	Bacillus velezensis	Complete Genome	current	3978954	1	SAMN09951221	soil	Belarus: Vileyka District		non_saline_candidate		Bacillus velezensis
+GCF_003854915.1	Bacillus velezensis	Complete Genome	current	4141063	1	SAMN10437817	potato rhizosphere	Canada:Delhi		non_saline_candidate		Bacillus velezensis
+GCF_003860445.1	Bacillus velezensis	Complete Genome	current	4118468	1	SAMN09475269	rhizosphere soil	China		non_saline_candidate		Bacillus velezensis
+GCF_004009895.1	Bacillus velezensis	Scaffold	current	3878921	2	SAMN10491987	root	China:Zhengzhou	Vitis labrusca x Vitis vinifera	non_saline_candidate		Bacillus velezensis
+GCF_004101805.1	Bacillus velezensis	Complete Genome	current	3997902	1	SAMN10268423	Mango Ochard	Mexico: Sinaloa	plants	non_saline_candidate		Bacillus velezensis
+GCF_004116955.1	Bacillus vallismortis	Complete Genome	current	4286362	1	SAMN08222596	soil	USA		non_saline_candidate		Bacillus vallismortis
+GCF_004331895.1	Bacillus velezensis	Chromosome	current	3715675	8	SAMN11037194	soil	Iran		non_saline_candidate		Bacillus velezensis
+GCF_004799565.1	Bacillus velezensis	Complete Genome	current	3947206	1	SAMN11397814	soil	Brazil: Mato Grosso		non_saline_candidate		Bacillus velezensis
+GCF_006489235.1	Bacillus velezensis	Complete Genome	current	3983303	1	SAMN12015793	inner tissues of cotton plant (Gossypium sp.)	Tajikistan: Dushanbe		non_saline_candidate		Bacillus velezensis
+GCF_006965525.1	Bacillus velezensis	Complete Genome	current	4063541	1	SAMN08142170	soil of root	China	rice	non_saline_candidate		Bacillus velezensis
+GCF_008367895.1	Bacillus velezensis	Complete Genome	current	3915550	1	SAMN12671280	rhizospheric soil of Panax notogensing	China: Yunnan Province		non_saline_candidate		Bacillus velezensis
+GCF_008727675.1	Bacillus velezensis	Complete Genome	current	3995978	1	SAMN12784817	soil	China	Bacillus	non_saline_candidate		Bacillus velezensis
+GCF_009362235.1	Bacillus velezensis	Complete Genome	current	3929791	1	SAMN12990507	soil	China		non_saline_candidate		Bacillus velezensis
+GCF_009738165.1	Bacillus velezensis	Complete Genome	current	4004056	1	SAMN13164714	soil	China:baoding		non_saline_candidate		Bacillus velezensis
+GCF_009931675.1	Bacillus velezensis	Complete Genome	current	4050296	1	SAMN13885683	soil	South Korea:Jeong-si		non_saline_candidate		Bacillus velezensis
+GCF_010671715.1	Bacillus velezensis	Scaffold	current	3960516	74	SAMN14074146	rhizosphere	Pakistan	Triticum aestivum	non_saline_candidate		Bacillus velezensis
+GCF_011100445.1	Bacillus velezensis	Complete Genome	current	3929583	1	SAMN14253886	Citrus rhizosphere soil	China: Jiangxi	soil	non_saline_candidate		Bacillus velezensis
+GCF_011769925.1	Bacillus velezensis	Complete Genome	current	3929585	1	SAMN14422846	soil	Belarus		non_saline_candidate		Bacillus velezensis
+GCF_012972775.1	Bacillus velezensis	Scaffold	current	4148778	59	SAMN14613775	soil	Brazil: Pocon Pantanal		non_saline_candidate		Bacillus velezensis
+GCF_013201135.1	Bacillus velezensis	Complete Genome	current	3929218	1	SAMN14912738	Farmland soils	China: Shenyang, Liaoning		non_saline_candidate		Bacillus velezensis
+GCF_013201465.1	Bacillus velezensis	Complete Genome	current	3908940	1	SAMN14978898	Casuarina equisetifolia rhizosphere	China: Zhejiang		non_saline_candidate		Bacillus velezensis
+GCF_023920485.1	Bacillus vallismortis	Chromosome	current	4115091	15	SAMN26182612	root	Russia	Artemisia	non_saline_candidate		Bacillus vallismortis
+GCF_035808955.1	Bacillus vallismortis	Scaffold	current	4084459	56	SAMN33940618	soil	Argentina		non_saline_candidate		Bacillus vallismortis
+GCF_035810575.1	Bacillus vallismortis	Scaffold	current	3950718	57	SAMN33940525	soil	USA		non_saline_candidate		Bacillus vallismortis
+GCF_035810595.1	Bacillus vallismortis	Scaffold	current	3818239	44	SAMN33940524	soil	USA		non_saline_candidate		Bacillus vallismortis
+GCF_040784915.1	Bacillus vallismortis	Complete Genome	current	4251766	1	SAMN42317403	soil	China: Shangdong		non_saline_candidate		Bacillus vallismortis
+GCF_013285085.2	Bacillus velezensis	Complete Genome	current	3916868	1	SAMN15012571	black pepper plant root	Viet Nam: Chu Se, Gia Lai	black pepper plant	non_saline_candidate		Bacillus velezensis
+GCF_013401395.2	Bacillus velezensis	Complete Genome	current	4003884	2	SAMN13256649	soil	Brazil: Parana		non_saline_candidate		Bacillus velezensis
+GCF_013694265.1	Bacillus velezensis	Complete Genome	current	3917533	1	SAMN15484393	Amazonic soil	Brazil: Roraima		non_saline_candidate		Bacillus velezensis
+GCF_013701805.1	Bacillus velezensis	Complete Genome	current	3927799	1	SAMN15293208	soil	China: Xingtai, Hebei		non_saline_candidate		Bacillus velezensis
+GCF_014180705.2	Bacillus velezensis	Complete Genome	current	4141240	1	SAMN15395675	soil	South Korea:Yangyang-gun		non_saline_candidate		Bacillus velezensis
+GCF_014211995.1	Bacillus velezensis	Complete Genome	current	3894648	1	SAMN15755127	rhizosphere of cotton	China:Xinjiang Province		non_saline_candidate		Bacillus velezensis
+GCF_014495825.1	Bacillus velezensis	Complete Genome	current	4068479	1	SAMN15947555	rhizosphere soil	China: Beijing		non_saline_candidate		Bacillus velezensis
+GCF_014622705.1	Bacillus velezensis	Complete Genome	current	3929800	1	SAMN15944840	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_014706595.1	Bacillus velezensis	Complete Genome	current	3969447	1	SAMN13111910	soil	South Korea	ginseng	non_saline_candidate		Bacillus velezensis
+GCF_016766595.1	Bacillus velezensis	Complete Genome	current	3940023	1	SAMN17306585	rhizosphere soil	China: Guizhou	tobacco	non_saline_candidate		Bacillus velezensis
+GCF_016772025.1	Bacillus velezensis	Scaffold	current	4047570	8	SAMN16949412	roots, endophytic	Greece: Spata	Salvia fruticosa	non_saline_candidate		Bacillus velezensis
+GCF_016834435.1	Bacillus velezensis	Complete Genome	current	4011788	1	SAMN17620320	rhizosphere soil	China: Guizhou	pepper	non_saline_candidate		Bacillus velezensis
+GCF_017599365.1	Bacillus velezensis	Scaffold	current	4113266	24	SAMN18386958	soil	Pakistan: Thal Desert		non_saline_candidate		Bacillus velezensis
+GCF_018143035.1	Bacillus velezensis	Scaffold	current	3878197	37	SAMN06628692	soil used for soybean agriculture	China: Heilongjiang, Harbin	not applicable	non_saline_candidate		Bacillus velezensis
+GCF_018223705.1	Bacillus velezensis	Complete Genome	current	3914314	1	SAMN18838141		China:Chifeng	soil	non_saline_candidate		Bacillus velezensis
+GCF_018732185.1	Bacillus velezensis	Complete Genome	current	4085407	1	SAMN19471376	soil	China:Inner Mongolia		non_saline_candidate		Bacillus velezensis
+GCF_018771665.1	Bacillus velezensis	Complete Genome	current	4182261	1	SAMN19489369	soil	Iran: Hamedan	Solanum tuberosum	non_saline_candidate		Bacillus velezensis
+GCF_018771705.1	Bacillus velezensis	Complete Genome	current	4132553	2	SAMN19490066	soil	Iran	Solanum lycopersicum	non_saline_candidate		Bacillus velezensis
+GCF_019163475.1	Bacillus velezensis	Complete Genome	current	3973236	1	SAMN19079027	tomato rhizosphere soil	China: Heilongjiang Province	missing	non_saline_candidate		Bacillus velezensis
+GCF_019222745.1	Bacillus velezensis	Complete Genome	current	3929791	1	SAMN20060704	soil crust	China: Yinchuan		non_saline_candidate		Bacillus velezensis
+GCF_019334525.1	Bacillus velezensis	Complete Genome	current	4053089	1	SAMN20201267	Atlantic forest soil	Brazil: Parana		non_saline_candidate		Bacillus velezensis
+GCF_019449395.1	Bacillus velezensis	Complete Genome	current	4030799	1	SAMN18614933	soil	China		non_saline_candidate		Bacillus velezensis
+GCF_019464595.1	Bacillus velezensis	Complete Genome	current	3896799	1	SAMN19519143	watermelon rhizosphere soil	China: Heilongjiang Province	watermelon	non_saline_candidate		Bacillus velezensis
+GCF_019754015.1	Bacillus velezensis	Complete Genome	current	3973236	1	SAMN20821524	soil sample	China:Qiqihar	watermelon	non_saline_candidate		Bacillus velezensis
+GCF_019880485.1	Bacillus velezensis	Complete Genome	current	4223782	4	SAMN20709964	soil	Belarus:Barysaw District		non_saline_candidate		Bacillus velezensis
+GCF_020084885.1	Bacillus velezensis	Complete Genome	current	3926914	1	SAMN19822038	soil	China: Chongqing		non_saline_candidate		Bacillus velezensis
+GCF_020162235.1	Bacillus velezensis	Complete Genome	current	4088756	1	SAMN21540783	garden soil	USA:California		non_saline_candidate		Bacillus velezensis
+GCF_020995365.1	Bacillus velezensis	Complete Genome	current	4067009	1	SAMN23076874	soils	China: HUNAN		non_saline_candidate		Bacillus velezensis
+GCF_021184205.1	Bacillus velezensis	Complete Genome	current	4121848	1	SAMN23765541	soil	China: Jinan, Shandong Province	grape	non_saline_candidate		Bacillus velezensis
+GCF_021245705.1	Bacillus velezensis	Scaffold	current	3912339	51	SAMN23139090	tea garden soil	China: Zhejiang, Hangzhou		non_saline_candidate		Bacillus velezensis
+GCF_021390055.1	Bacillus velezensis	Complete Genome	current	3929552	1	SAMN24147913	soil	China: Weinan,Shaanxi Province		non_saline_candidate		Bacillus velezensis
+GCF_021650855.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN25145124	soil	South Korea: Jeonju		non_saline_candidate		Bacillus velezensis
+GCF_021892375.1	Bacillus velezensis	Scaffold	current	3939663	47	SAMN25352221	soil	Russia		non_saline_candidate		Bacillus velezensis
+GCF_022344025.1	Bacillus velezensis	Complete Genome	current	4033884	1	SAMN25893642	soil	South Korea: Yangpyeong	Lettuce	non_saline_candidate		Bacillus velezensis
+GCF_022370935.1	Bacillus velezensis	Complete Genome	current	3932768	3	SAMN21927082	rhizosphere soil of stock	China: Hainan	tomato	non_saline_candidate		Bacillus velezensis
+GCF_022371095.1	Bacillus velezensis	Complete Genome	current	4081758	1	SAMN25982136	soil	China: Haikou city, Hainan province		non_saline_candidate		Bacillus velezensis
+GCF_022385235.1	Bacillus velezensis	Complete Genome	current	3914377	2	SAMN25963216	rhizosphere soil	China:Xiyang Village, Youxi County, Sanming City, Fujian Province		non_saline_candidate		Bacillus velezensis
+GCF_022488425.1	Bacillus velezensis	Complete Genome	current	4005132	1	SAMN26182808	rhizosphere soil	not applicable		non_saline_candidate		Bacillus velezensis
+GCF_023093915.1	Bacillus velezensis	Complete Genome	current	3918461	1	SAMN27578326	soil	China: Nanjing		non_saline_candidate		Bacillus velezensis
+GCF_023278305.1	Bacillus velezensis	Complete Genome	current	3962671	1	SAMN18451302	plant	China: shandong		non_saline_candidate		Bacillus velezensis
+GCF_023516155.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN28187200	soil	China:Wuhan		non_saline_candidate		Bacillus velezensis
+GCF_023516195.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN28200750	soil	China		non_saline_candidate		Bacillus velezensis
+GCF_023586825.4	Bacillus velezensis	Complete Genome	current	4184031	4	SAMN25898145	Rizosphere soil sample	Russia: Krasnodar region		non_saline_candidate		Bacillus velezensis
+GCF_023586845.4	Bacillus velezensis	Complete Genome	current	4184250	4	SAMN25898146	Rizosphere soil sample	Russia: Krasnodar region		non_saline_candidate		Bacillus velezensis
+GCF_023823715.1	Bacillus velezensis	Complete Genome	current	3963345	2	SAMN22304394	soil	China		non_saline_candidate		Bacillus velezensis
+GCF_023823735.1	Bacillus velezensis	Complete Genome	current	3963155	1	SAMN22304395	soil	China		non_saline_candidate		Bacillus velezensis
+GCF_023921085.1	Bacillus velezensis	Complete Genome	current	3980135	1	SAMN29096890	soil	Brazil: Italva, Rio de Janeiro		non_saline_candidate		Bacillus velezensis
+GCF_024508215.1	Bacillus velezensis	Complete Genome	current	4099109	1	SAMN29961780	soil	China:Xuchang city, Henan province	tobacco	non_saline_candidate		Bacillus velezensis
+GCF_024666145.1	Bacillus velezensis	Chromosome	current	3970959	7	SAMN30168657	Soil from rainforest	Brazil: Parana		non_saline_candidate		Bacillus velezensis
+GCF_024917135.1	Bacillus velezensis	Complete Genome	current	3929846	1	SAMN30502274	rhizosphere soil	China: Guizhou	Sophora tonkinensis Radix	non_saline_candidate		Bacillus velezensis
+GCF_024919095.1	Bacillus velezensis	Complete Genome	current	4010225	1	SAMN30473216	Commercial plant nursery	Viet Nam: Da Lat		non_saline_candidate		Bacillus velezensis
+GCF_024925505.1	Bacillus velezensis	Complete Genome	current	4192280	1	SAMN30456206	soil	South Korea:Buyeo		non_saline_candidate		Bacillus velezensis
+GCF_025857215.1	Bacillus velezensis	Complete Genome	current	4035016	1	SAMN30498090	Isolation from the rhizosphere of bok choy	China: Hangzhou		non_saline_candidate		Bacillus velezensis
+GCF_025914055.1	Bacillus velezensis	Complete Genome	current	3929791	1	SAMN31309488	soil	China:Guangzhou		non_saline_candidate		Bacillus velezensis
+GCF_026210635.1	Bacillus velezensis	Complete Genome	current	3929247	1	SAMN29059448	soil	China: Beijing, Yanqing District		non_saline_candidate		Bacillus velezensis
+GCF_026240675.1	Bacillus velezensis	Complete Genome	current	3929781	1	SAMN31269340	soil	China:Shanghai		non_saline_candidate		Bacillus velezensis
+GCF_026241745.1	Bacillus velezensis	Scaffold	current	4016820	45	SAMN31675477	Navel orange rhizosphere soil	China:JiangXi		non_saline_candidate		Bacillus velezensis
+GCF_026787705.1	Bacillus velezensis	Scaffold	current	4101015	48	SAMN25843163	soil	France: Col du Grand Saint Bernard		non_saline_candidate		Bacillus velezensis
+GCF_029282585.1	Bacillus velezensis	Complete Genome	current	4296610	1	SAMN33451486	rhizosphere soil of corn crops	Mexico		non_saline_candidate		Bacillus velezensis
+GCF_029688985.1	Bacillus velezensis	Scaffold	current	3891665	11	SAMN34089981	soil	China: Shenyang		non_saline_candidate		Bacillus velezensis
+GCF_029834585.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN34066145	soil	China:Hubei		non_saline_candidate		Bacillus velezensis
+GCF_029846455.1	Bacillus velezensis	Scaffold	current	4071225	43	SAMN34136143	muskmelon rhizosphere	China: JiangSu		non_saline_candidate		Bacillus velezensis
+GCF_030028255.1	Bacillus velezensis	Complete Genome	current	3858300	1	SAMN35003787	rhizosphere	China: Yunnan province	maize	non_saline_candidate		Bacillus velezensis
+GCF_030028335.1	Bacillus velezensis	Complete Genome	current	4078641	1	SAMN35005763	soil	China:hainan		non_saline_candidate		Bacillus velezensis
+GCF_030053815.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN35054919	soil	China:Harbin		non_saline_candidate		Bacillus velezensis
+GCF_030123285.1	Bacillus velezensis	Complete Genome	current	4002233	1	SAMN34374909	grassland soil attached to a mushroom	Denmark: Birkeroed		non_saline_candidate		Bacillus velezensis
+GCF_030123305.1	Bacillus velezensis	Complete Genome	current	3929586	1	SAMN34375025	rhizosphere soil	China: Neijiang, Sichuan Province		non_saline_candidate		Bacillus velezensis
+GCF_030252385.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN35566365	rhizosphere	China: Jiangsu		non_saline_candidate		Bacillus velezensis
+GCF_030284665.1	Bacillus velezensis	Scaffold	current	4081504	16	SAMN35683875	rhizosphere	Bulgaria	Oryza sativa	non_saline_candidate		Bacillus velezensis
+GCF_030291255.1	Bacillus velezensis	Complete Genome	current	3954988	1	SAMN29376856	soil	Brazil: Italva, Rio de Janeiro		non_saline_candidate		Bacillus velezensis
+GCF_030378485.1	Bacillus velezensis	Complete Genome	current	4181346	1	SAMN35788485	Healthy tobacco rhizosphere soil	China:Lijiang	Tobacco	non_saline_candidate		Bacillus velezensis
+GCF_030444515.1	Bacillus velezensis	Complete Genome	current	3891780	1	SAMN33285327	Humic Soil	not collected	missing	non_saline_candidate		Bacillus velezensis
+GCF_030518635.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN36459674	soil	China: Nanchang		non_saline_candidate		Bacillus velezensis
+GCF_030704265.1	Bacillus velezensis	Complete Genome	current	3980773	1	SAMN36797137	healthy cucumber rhizosphere soil.	China: Beiwang Village, Luolong District, Luoyang City, Henan Province	Cucumis sativus L.	non_saline_candidate		Bacillus velezensis
+GCF_031118725.1	Bacillus velezensis	Scaffold	current	3919106	13	SAMN37190764	rhizosphere soil	South Africa	Zea mays	non_saline_candidate		Bacillus velezensis
+GCF_031118995.1	Bacillus velezensis	Scaffold	current	3892069	12	SAMN37190995	soil	China: Altay City, Xinjiang Uygur Autonomous Region		non_saline_candidate		Bacillus velezensis
+GCF_031308755.1	Bacillus velezensis	Complete Genome	current	3929698	1	SAMN36005331	soil	China:Hebei		non_saline_candidate		Bacillus velezensis
+GCF_031344975.1	Bacillus velezensis	Complete Genome	current	4237216	1	SAMN37277514	soil metagenome	China:Guizhou	Ginger	non_saline_candidate		Bacillus velezensis
+GCF_031460235.1	Bacillus velezensis	Scaffold	current	3935018	24	SAMN37321166	rhizosphere soil	South Africa	Zea mays	non_saline_candidate		Bacillus velezensis
+GCF_031883715.1	Bacillus velezensis	Complete Genome	current	4116231	1	SAMN37176097	rhizosphere of rice, pepper, cucumber, tomato	South Korea	missing	non_saline_candidate		Bacillus velezensis
+GCF_032291985.1	Bacillus velezensis	Complete Genome	current	4143654	2	SAMN37527114	root	South Korea	Ipomoea batatas	non_saline_candidate		Bacillus velezensis
+GCF_032686825.1	Bacillus velezensis	Scaffold	current	3891724	12	SAMN37688149	soil	China		non_saline_candidate		Bacillus velezensis
+GCF_033170175.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN37883768	orchard soil	China		non_saline_candidate		Bacillus velezensis
+GCF_033547055.1	Bacillus velezensis	Complete Genome	current	4283756	1	SAMN38103670	soil	China:Taian		non_saline_candidate		Bacillus velezensis
+GCF_033798645.1	Bacillus velezensis	Chromosome	current	4027139	1	SAMN38145391	Potato rhizosphere	Colombia:Cundinamarca		non_saline_candidate		Bacillus velezensis
+GCF_033808435.1	Bacillus velezensis	Complete Genome	current	4064612	1	SAMN38171755	soil	South Korea: Gyeongsangbuk-do, Sangju-si		non_saline_candidate		Bacillus velezensis
+GCF_034060585.1	Bacillus velezensis	Complete Genome	current	3984866	1	SAMN38257321	rhizosphere soil of schefflera heptaphylla	China:Yunnan		non_saline_candidate		Bacillus velezensis
+GCF_034061945.1	Bacillus velezensis	Complete Genome	current	4046066	1	SAMN38258329	rhizosphere soil of schefflera heptaphylla	China:Yunnan		non_saline_candidate		Bacillus velezensis
+GCF_034554755.1	Bacillus velezensis	Complete Genome	current	4043200	1	SAMN38583043	soil	China:Lijiang	Tobacco	non_saline_candidate		Bacillus velezensis
+GCF_035808035.1	Bacillus velezensis	Scaffold	current	3956781	29	SAMN33940666	agave root	India		non_saline_candidate		Bacillus velezensis
+GCF_035808075.1	Bacillus velezensis	Scaffold	current	3892229	12	SAMN33940664	Rice rhisosphere soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_035813315.1	Bacillus velezensis	Scaffold	current	4115982	37	SAMN33940384	soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_035813375.1	Bacillus velezensis	Scaffold	current	3961798	64	SAMN33940382	soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_035823195.1	Bacillus velezensis	Scaffold	current	4126432	64	SAMN33940723	soil	Trinidad and Tobago: Trinidad		non_saline_candidate		Bacillus velezensis
+GCF_035823275.1	Bacillus velezensis	Scaffold	current	3902798	80	SAMN33940719	soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_035823295.1	Bacillus velezensis	Scaffold	current	3938825	103	SAMN33940720	soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_035823345.1	Bacillus velezensis	Scaffold	current	3870270	23	SAMN33940718	soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_035823435.1	Bacillus velezensis	Scaffold	current	3875017	25	SAMN33940716	soil	not collected		non_saline_candidate		Bacillus velezensis
+GCF_036216805.1	Bacillus velezensis	Scaffold	current	4004456	25	SAMN32974838	soil	Israel: Evolution Canyon		non_saline_candidate		Bacillus velezensis
+GCF_000262385.1	Bacillus velezensis YAU B9601-Y2	Complete Genome	current	4238624	1	SAMN02603232	wheat rhizosphere			non_saline_candidate		Bacillus velezensis
+GCF_000341875.1	Bacillus velezensis UCMB5036	Complete Genome	current	3910324	1	SAMEA2272633	cotton plant	Ukraine		non_saline_candidate		Bacillus velezensis
+GCF_037889395.1	Bacillus velezensis	Scaffold	current	4007168	26	SAMN40597287	soil	China: Guangdong, Zhanjiang		non_saline_candidate		Bacillus velezensis
+GCF_038442215.1	Bacillus velezensis	Complete Genome	current	4036959	1	SAMN38777322	plantation	Spain:Malaga	cucumber	non_saline_candidate		Bacillus velezensis
+GCF_038594295.1	Bacillus velezensis	Scaffold	current	3891934	33	SAMN40732503	soil	Russia: Republic of Tatarstan, Kazan		non_saline_candidate		Bacillus velezensis
+GCF_039851945.1	Bacillus velezensis	Complete Genome	current	3929757	1	SAMN41432343		China: Inter-root soil of Panax pseudoginseng in Wenshan, Yunnan Province, China	inter-root soil	non_saline_candidate		Bacillus velezensis
+GCF_039851955.1	Bacillus velezensis	Complete Genome	current	4217652	2	SAMN41431953		China: Inter-root soil of Panax pseudoginseng in Wenshan, Yunnan Province, China	inter-root soil	non_saline_candidate		Bacillus velezensis
+GCF_039871465.1	Bacillus velezensis	Scaffold	current	3888046	17	SAMN41455680	landfill soil	China: Yichang City, Hubei Province		non_saline_candidate		Bacillus velezensis
+GCF_040105115.1	Bacillus velezensis	Complete Genome	current	3929789	1	SAMN41610859	soil	China: Taizhou City, Zhejiang Province		non_saline_candidate		Bacillus velezensis
+GCF_040492855.1	Bacillus velezensis	Scaffold	current	3966101	33	SAMN37160999	oil-contaminated soil samples	Brazil: Porto Alegre		non_saline_candidate		Bacillus velezensis
+GCF_040571435.1	Bacillus velezensis	Complete Genome	current	4030990	2	SAMN41704946	soil	China	missing	non_saline_candidate		Bacillus velezensis
+GCF_040712045.1	Bacillus velezensis	Complete Genome	current	4240609	1	SAMN40001992	root	USA: Alabama	corn	non_saline_candidate		Bacillus velezensis
+GCF_040712055.1	Bacillus velezensis	Complete Genome	current	3952550	1	SAMN40001991	root	USA: Alabama	corn	non_saline_candidate		Bacillus velezensis
+GCF_040712065.1	Bacillus velezensis	Complete Genome	current	4155876	1	SAMN40001990	root	USA: Alabama	corn	non_saline_candidate		Bacillus velezensis
+GCF_040733995.1	Bacillus velezensis	Complete Genome	current	3857531	1	SAMN27304311	soil	China:Liaoning		non_saline_candidate		Bacillus velezensis
+GCF_041879335.1	Bacillus velezensis	Complete Genome	current	4143656	2	SAMN23669287	soil for turfgrass	South Korea: Hwasun		non_saline_candidate		Bacillus velezensis
+GCF_041950415.1	Bacillus velezensis	Complete Genome	current	3887713	1	SAMN43541410	soil	China: Wuhan		non_saline_candidate		Bacillus velezensis
+GCF_041950455.1	Bacillus velezensis	Complete Genome	current	3907782	1	SAMN43537412	soil	China: Wuhan		non_saline_candidate		Bacillus velezensis
+GCF_042019205.1	Bacillus velezensis	Complete Genome	current	4242144	1	SAMN43392604	soil	Democratic Republic of the Congo:Kabare		non_saline_candidate		Bacillus velezensis
+GCF_042465255.1	Bacillus velezensis	Complete Genome	current	3952541	1	SAMN40001993	root	USA: Alabama	corn	non_saline_candidate		Bacillus velezensis
+GCF_042936585.1	Bacillus velezensis	Complete Genome	current	3997931	1	SAMN43929739	soil	USA: California, Fresno		non_saline_candidate		Bacillus velezensis
+GCF_043754615.1	Bacillus velezensis	Complete Genome	current	3973405	1	SAMN44270593	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_044183005.1	Bacillus velezensis	Complete Genome	current	4189575	3	SAMN44353042	soil	China: Shandong		non_saline_candidate		Bacillus velezensis
+GCF_044357845.1	Bacillus velezensis	Complete Genome	current	3913640	1	SAMN16784690	soil	Russia: Krasnodar region		non_saline_candidate		Bacillus velezensis
+GCF_044357885.1	Bacillus velezensis	Complete Genome	current	3913613	1	SAMN16784691	wheat root	Russia: Krasnodar region		non_saline_candidate		Bacillus velezensis
+GCF_044905085.1	Bacillus velezensis	Complete Genome	current	4186033	1	SAMN42181623	rhizosphere soil	China: chongqing		non_saline_candidate		Bacillus velezensis
+GCF_045011655.1	Bacillus velezensis	Complete Genome	current	4077080	1	SAMN34573110	soil	China:Hainan		non_saline_candidate		Bacillus velezensis
+GCF_045257725.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN44774774	soil	China: Shanghai		non_saline_candidate		Bacillus velezensis
+GCF_045344285.1	Bacillus velezensis	Complete Genome	current	3895561	1	SAMN44786005	soil	China: Hunan		non_saline_candidate		Bacillus velezensis
+GCF_045345805.1	Bacillus velezensis	Complete Genome	current	4087900	1	SAMN40506564	potato soil; fields without fungicides or pesticides	China: Inner Mongolia		non_saline_candidate		Bacillus velezensis
+GCF_045348085.1	Bacillus velezensis	Complete Genome	current	4074379	1	SAMN40623256	soil	China:hunan		non_saline_candidate		Bacillus velezensis
+GCF_046097725.1	Bacillus velezensis	Scaffold	current	3886917	41	SAMN45221904	soil	China: HeBei	peanut	non_saline_candidate		Bacillus velezensis
+GCF_047121265.1	Bacillus velezensis	Complete Genome	current	4137489	2	SAMN37691131		China:Luan	soil	non_saline_candidate		Bacillus velezensis
+GCF_047220225.1	Bacillus velezensis	Complete Genome	current	4020451	1	SAMN46257578	soil	China:Huaian		non_saline_candidate		Bacillus velezensis
+GCF_047300865.1	Bacillus velezensis	Complete Genome	current	3939798	1	SAMN45677237	rhizosphere soil	China:Guiyang, Guizhou Province	kiwifruit	non_saline_candidate		Bacillus velezensis
+GCF_047302555.1	Bacillus velezensis	Complete Genome	current	4044968	2	SAMN44627543	root	USA:Tucson	Lactuca serriola	non_saline_candidate		Bacillus velezensis
+GCF_047947075.1	Bacillus velezensis	Complete Genome	current	4032063	1	SAMN37473040	soil from an orchard	China: Haikou City	missing	non_saline_candidate		Bacillus velezensis
+GCF_048013385.1	Bacillus velezensis	Complete Genome	current	4073650	1	SAMN46800756	root	China:Hefei	missing	non_saline_candidate		Bacillus velezensis
+GCF_048288325.1	Bacillus velezensis	Complete Genome	current	3968904	1	SAMN37071267	Potato rhizosphere soil	China:Qujing		non_saline_candidate		Bacillus velezensis
+GCF_048288335.1	Bacillus velezensis	Complete Genome	current	3980669	1	SAMN37119131	Potato rhizosphere soil	China:Zhaotong		non_saline_candidate		Bacillus velezensis
+GCF_048585455.1	Bacillus velezensis	Complete Genome	current	3980613	1	SAMN46764200	soil	China: Deep in Wuzhishan	none	non_saline_candidate		Bacillus velezensis
+GCF_049354995.1	Bacillus velezensis	Complete Genome	current	3907381	1	SAMN40450121	soil	China: Guangxi Zhuang Autonomous Region		non_saline_candidate		Bacillus velezensis
+GCF_049434535.1	Bacillus velezensis	Complete Genome	current	3929585	1	SAMN47749806	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_049537935.1	Bacillus velezensis	Scaffold	current	3976009	14	SAMN47803716	onion rhizospheric soils	Saudi Arabia	onion	non_saline_candidate		Bacillus velezensis
+GCF_049544895.1	Bacillus velezensis	Complete Genome	current	3935130	1	SAMN47784587	rhizosphere	China: Yunnan	missing	non_saline_candidate		Bacillus velezensis
+GCF_049561815.1	Bacillus velezensis	Complete Genome	current	4139342	1	SAMN47808659	soil	Italy: Lecce		non_saline_candidate		Bacillus velezensis
+GCF_049727685.1	Bacillus velezensis	Scaffold	current	3899610	19	SAMN42836843	soil	China: Ili city	Vickifunkia tianschanica	non_saline_candidate		Bacillus velezensis
+GCF_049810365.1	Bacillus velezensis	Complete Genome	current	3929585	1	SAMN47922244	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_049810375.1	Bacillus velezensis	Complete Genome	current	3929585	1	SAMN47922265	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_049810385.1	Bacillus velezensis	Complete Genome	current	4068475	1	SAMN47925986	Rhizosphere Soil of Poplar Forests in Tibet	China:Tibet		non_saline_candidate		Bacillus velezensis
+GCF_049810395.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN47927596	soil	China:Beijing		non_saline_candidate		Bacillus velezensis
+GCF_049819585.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN47424389	rhizosphere	China: Quzhou Experimental Station	missing	non_saline_candidate		Bacillus velezensis
+GCF_049913295.1	Bacillus velezensis	Complete Genome	current	3976484	1	SAMN47200792	bulk field soil	USA: Iowa State University Marsden Farm, Boone, Co., Iowa		non_saline_candidate		Bacillus velezensis
+GCF_050051255.1	Bacillus velezensis	Scaffold	current	3892311	20	SAMN48054947	soil	Brazil: Ceara, Taua		non_saline_candidate		Bacillus velezensis
+GCF_050051275.1	Bacillus velezensis	Scaffold	current	3984279	24	SAMN48054946	soil	Brazil: Ceara, Caninde		non_saline_candidate		Bacillus velezensis
+GCF_050516485.1	Bacillus velezensis	Complete Genome	current	4045692	1	SAMN48399771	Paju city	South Korea: Paju city	soil	non_saline_candidate		Bacillus velezensis
+GCF_050821995.1	Bacillus velezensis	Complete Genome	current	3929750	1	SAMN21891625	tomato root	China	Tomato	non_saline_candidate		Bacillus velezensis
+GCF_050908125.1	Bacillus velezensis	Chromosome	current	4000437	25	SAMN48721967	rhizosphere soil	Morocco: BenGuerir	Chenopodium quinoa	non_saline_candidate		Bacillus velezensis
+GCF_050909115.1	Bacillus velezensis	Complete Genome	current	3964992	1	SAMN17167596	tobacco rhizosphere soil	China:Shandong		non_saline_candidate		Bacillus velezensis
+GCF_051131645.1	Bacillus velezensis	Chromosome	current	3914087	19	SAMN44265031	soil	Thailand		non_saline_candidate		Bacillus velezensis
+GCF_051131655.1	Bacillus velezensis	Chromosome	current	3846276	19	SAMN44265067	soil	Thailand		non_saline_candidate		Bacillus velezensis
+GCF_051131835.1	Bacillus velezensis	Complete Genome	current	4014208	1	SAMN48027165	soil	China	missing	non_saline_candidate		Bacillus velezensis
+GCF_051175615.1	Bacillus velezensis	Complete Genome	current	3935735	1	SAMN49388841	rhizosphere soil	China: Jishou	kiwifruit	non_saline_candidate		Bacillus velezensis
+GCF_051311115.1	Bacillus velezensis	Scaffold	current	3949687	34	SAMN44234332	plant	Canada: Hamilton, Ontario	not applicable	non_saline_candidate		Bacillus velezensis
+GCF_051354325.1	Bacillus velezensis	Chromosome	current	3871148	1	SAMN49556792	soil	Taiwan: Pingtung		non_saline_candidate		Bacillus velezensis
+GCF_051359705.1	Bacillus velezensis	Complete Genome	current	4017243	4	SAMN49751265	soil	China: Changbaishan		non_saline_candidate		Bacillus velezensis
+GCF_051472655.1	Bacillus velezensis	Complete Genome	current	3931880	1	SAMN49520446	rhizospheric soil of healthy Aconitum carmichaelii plants	China: Mianyang		non_saline_candidate		Bacillus velezensis
+GCF_051549775.1	Bacillus velezensis	Complete Genome	current	3908054	2	SAMN49914656		China:Hainan	Rubber tree roots	non_saline_candidate		Bacillus velezensis
+GCF_051801825.1	Bacillus velezensis	Complete Genome	current	3972125	1	SAMN49716296	soil	China: JiLin Province		non_saline_candidate		Bacillus velezensis
+GCF_051935925.1	Bacillus velezensis	Complete Genome	current	3929790	1	SAMN33575007	Watermelon root	China:Qiqihar		non_saline_candidate		Bacillus velezensis
+GCF_052076155.1	Bacillus velezensis	Complete Genome	current	3935130	1	SAMN50512876	rhizosphere	China	Amorphophallus muelleri	non_saline_candidate		Bacillus velezensis
+GCF_052161765.1	Bacillus velezensis	Complete Genome	current	3972125	1	SAMN50449900	soil	China:JiLin Province		non_saline_candidate		Bacillus velezensis
+GCF_052229975.1	Bacillus velezensis	Complete Genome	current	3948495	1	SAMN50632453	rhizosphere soil	China:Chongqing	Lonicera macranthoides	non_saline_candidate		Bacillus velezensis
+GCF_052535915.1	Bacillus velezensis	Scaffold	current	3889832	12	SAMN50932918	rhizosphere soil	China:Hubei		non_saline_candidate		Bacillus velezensis
+GCF_052568205.1	Bacillus velezensis	Complete Genome	current	3940719	1	SAMN50784600	rhizosphere soil	China: Ningxia	potato	non_saline_candidate		Bacillus velezensis
+GCF_052692685.1	Bacillus velezensis	Complete Genome	current	4263267	1	SAMN50547684	Plant tissue	India: Cumbum		non_saline_candidate		Bacillus velezensis
+GCF_053750075.1	Bacillus velezensis	Complete Genome	current	3919829	1	SAMN50184178	rhizosphere soil	China:Nanjing	Tomato	non_saline_candidate		Bacillus velezensis
+GCF_054187945.1	Bacillus velezensis	Complete Genome	current	3918694	1	SAMN52734726	soil	China:Qinghai		non_saline_candidate		Bacillus velezensis
+GCF_054189265.1	Bacillus velezensis	Complete Genome	current	3972829	1	SAMN53864870	Oily Soils	China: Shandong		non_saline_candidate		Bacillus velezensis
+GCF_054509705.1	Bacillus velezensis	Scaffold	current	3975832	15	SAMN52864958	soil	China: Huangshan	Rhizopus	non_saline_candidate		Bacillus velezensis
+GCF_054889405.1	Bacillus velezensis	Chromosome	current	3931236	32	SAMN53034370	soil isolate	Brazil: Parana	soil	non_saline_candidate		Bacillus velezensis
+GCF_054889435.1	Bacillus velezensis	Complete Genome	current	4104031	3	SAMN53065547	rhizosphere soil	China		non_saline_candidate		Bacillus velezensis
+GCF_054901335.1	Bacillus velezensis	Scaffold	current	3901259	14	SAMN46794513	soil sample	Viet Nam: Khanhhoa		non_saline_candidate		Bacillus velezensis
+GCF_054966515.1	Bacillus velezensis	Scaffold	current	3886856	23	SAMN55205697	rhizosphere soil	China: Gansu, Min County		non_saline_candidate		Bacillus velezensis
+GCF_055640595.1	Bacillus velezensis	Complete Genome	current	4371976	1	SAMN55903773	soil	China: Hainan		non_saline_candidate		Bacillus velezensis
+GCF_055690665.1	Bacillus velezensis	Complete Genome	current	4062997	1	SAMN54376225	Root of Leucas aspera	Bangladesh: Biral, Dinajpur	Leucas aspera	non_saline_candidate		Bacillus velezensis
+GCF_055702905.1	Bacillus velezensis	Scaffold	current	4015221	25	SAMN55951487	soil	Brazil		non_saline_candidate		Bacillus velezensis
+GCF_055824785.1	Bacillus velezensis	Complete Genome	current	4173552	2	SAMN52586569	Soil of wheatland	China: Tianmen, Hubei		non_saline_candidate		Bacillus velezensis
+GCF_056113205.1	Bacillus velezensis	Complete Genome	current	3929791	1	SAMN54771379	farmland soil	China: Qinghai Province		non_saline_candidate		Bacillus velezensis
+GCF_056135895.1	Bacillus velezensis	Complete Genome	current	4059411	1	SAMN56447411	soil	China: Hunan province, Yongshun County	rhizosphere	non_saline_candidate		Bacillus velezensis
+GCF_056393645.1	Bacillus velezensis	Scaffold	current	3905739	49	SAMN53128743	Soil from vegetable field	Viet Nam: Bien Hoa, Dong Nai Province		non_saline_candidate		Bacillus velezensis
+GCF_056437605.1	Bacillus velezensis	Complete Genome	current	3929791	1	SAMN55412797	rhizospheric soil	China: Hebei	apple tree	non_saline_candidate		Bacillus velezensis
+GCF_056502285.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN31793111	soil	China:Hohhot		non_saline_candidate		Bacillus velezensis

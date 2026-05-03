@@ -1,0 +1,31 @@
+# Hormone / stress modulation
+K01505	acdS	ACC deaminase
+K04103	ipdC	indolepyruvate decarboxylase
+
+# Phosphorus acquisition / phosphate regulation
+K01077	phoA	alkaline phosphatase
+K01113	phoD	alkaline phosphatase D
+K07657	phoR	phosphate regulon sensor histidine kinase
+K07636	phoP	phosphate regulon response regulator
+K00117	gcd	glucose dehydrogenase
+
+# Iron acquisition / siderophore bacillibactin
+K03833	dhbA	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+K03834	dhbB	isochorismatase
+K03835	dhbC	isochorismate synthase
+K03836	dhbE	2,3-dihydroxybenzoate-AMP ligase
+K03837	dhbF	bacillibactin synthetase
+
+# Nitrogen assimilation
+K01915	glnA	glutamine synthetase
+K00372	nasA	assimilatory nitrate reductase
+K00366	nirA	ferredoxin-nitrite reductase
+
+# Biofilm / colonization
+K16531	spo0A	stage 0 sporulation protein A
+K06390	flgB	flagellar basal-body rod protein
+K02406	fliC	flagellin
+K02556	motA	flagellar motor protein MotA
+K02557	motB	flagellar motor protein MotB
+K03407	cheA	chemotaxis protein CheA
+K03413	cheY	chemotaxis protein CheY

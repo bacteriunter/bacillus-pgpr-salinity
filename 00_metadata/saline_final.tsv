@@ -1,0 +1,55 @@
+Assembly Accession	Organism Name	Assembly Level	Assembly Status	Assembly Stats Total Sequence Length	Assembly Stats Number of Contigs	Assembly BioSample Accession	Assembly BioSample Isolation source	Assembly BioSample Geographic location	Assembly BioSample Host	candidate_group	keyword_hits	species_clean
+GCF_001457015.1	Bacillus altitudinis	Scaffold	current	3615064	26	SAMN04263913	marine sediment	India: Chora Island		saline_candidate	marine sediment	Bacillus altitudinis
+GCF_002024555.1	Bacillus amyloliquefaciens	Scaffold	current	4016659	19	SAMN06190352	salt lake	Algeria: Ain Baida-Ouargla		saline_candidate	salt;salt lake	Bacillus amyloliquefaciens
+GCF_024262145.1	Bacillus altitudinis	Scaffold	current	3714049	13	SAMN29198483	mangrove soil	Philippines: Palawan		saline_candidate	mangrove	Bacillus altitudinis
+GCF_003003625.1	Bacillus atrophaeus	Scaffold	current	4102978	11	SAMN08647223	soil from salt lake	China: Qinghai, Qinghai lake		saline_candidate	salt;salt lake	Bacillus atrophaeus
+GCF_003003645.1	Bacillus atrophaeus	Scaffold	current	4281282	13	SAMN08647208	soil from salt lake	China: Qinghai, Qinghai lake		saline_candidate	salt;salt lake	Bacillus atrophaeus
+GCF_037104725.1	Bacillus bruguierae	Scaffold	current	5096950	50	SAMN39644991	marine sediment	China: Fujian		saline_candidate	marine sediment	Bacillus bruguierae
+GCF_027706145.1	Bacillus changyiensis	Scaffold	current	3712035	27	SAMN32210672	coastal deposit	China:Changyi		saline_candidate	coastal	Bacillus changyiensis
+GCF_003003575.1	Bacillus halotolerans	Scaffold	current	3739092	20	SAMN08648019	salt lake	China: Qinghai, Qinghai lake		saline_candidate	salt;salt lake	Bacillus halotolerans
+GCF_004006435.1	Bacillus halotolerans	Complete Genome	current	4154245	1	SAMN09095924	dry salty rhizosphere soil of maize	China: Inner Mongolia		saline_candidate	salt	Bacillus halotolerans
+GCF_012955605.1	Bacillus fonticola	Complete Genome	current	3159449	1	SAMN14639288	marine sediments	China: South China Sea		saline_candidate	marine sediment	Bacillus fonticola
+GCF_013347105.1	Bacillus halotolerans	Complete Genome	current	4248134	1	SAMN15143341	saline-alkali rhizosphere soil of Androsace umbellata in Hoh Xil	China:Qinghai		saline_candidate	saline;saline-alkali	Bacillus halotolerans
+GCF_014042035.1	Bacillus haynesii	Complete Genome	current	4235749	1	SAMN15637804	Saline-alkali environment	China: Kashgar	Populus euphratica Oliv	saline_candidate	saline;saline-alkali	Bacillus haynesii
+GCF_034427495.1	Bacillus inaquosorum	Scaffold	current	4191974	23	SAMN38703111	coastal mudflats	China: Jiaozhou Bay		saline_candidate	coastal	Bacillus inaquosorum
+GCF_037201805.1	Bacillus kandeliae	Chromosome	current	3740334	3	SAMN39644993	marine sediment	China: Fujian	sediment	saline_candidate	marine sediment	Bacillus kandeliae
+GCF_000258125.2	Bacillus licheniformis WX-02	Chromosome	current	4286821	3	SAMN02469900	soil from Yingcheng Salt Mine	China: Hubei Province		saline_candidate	salt	Bacillus licheniformis
+GCF_002966955.1	Bacillus licheniformis	Complete Genome	current	4332232	1	SAMN08455836	High-salt fermented soybean	South Korea: Suwon		saline_candidate	salt	Bacillus licheniformis
+GCF_014673515.1	Bacillus licheniformis	Chromosome	current	4222597	126	SAMN15866867	Crude salt from Camalti Saltern	Turkey: Izmir		saline_candidate	salt;saltern	Bacillus licheniformis
+GCF_017338795.1	Bacillus licheniformis	Complete Genome	current	4316909	1	SAMN14217608	seawater	South Korea: 86, Jungnim 3-ro, Gwangdo-myeon, Tongyeong-si, Gyeongsangnam-do		saline_candidate	seawater	Bacillus licheniformis
+GCF_022808645.1	Bacillus litorisediminis	Scaffold	current	4479585	131	SAMN26329877	mangrove sediments	China		saline_candidate	mangrove	Bacillus litorisediminis
+GCF_022808785.1	Bacillus litorisediminis	Scaffold	current	4541765	121	SAMN26329906	mangrove sediments	China		saline_candidate	mangrove	Bacillus litorisediminis
+GCF_041225435.1	Bacillus manliponensis	Complete Genome	current	4286476	1	SAMN42622381	coastal soil	South Korea: Jeju		saline_candidate	coastal	Bacillus manliponensis
+GCF_002026335.1	Bacillus paralicheniformis	Scaffold	current	4028325	120	SAMN06190353	water-salt lake	Algeria: Ain Baida-Ouargla		saline_candidate	salt;salt lake	Bacillus paralicheniformis
+GCF_002393225.1	Bacillus paralicheniformis	Complete Genome	current	4535069	1	SAMN07594137	Doejnang (High-salt fermented soybean)	South Korea: Suwon		saline_candidate	salt	Bacillus paralicheniformis
+GCF_002993945.1	Bacillus paralicheniformis	Complete Genome	current	4464381	1	SAMN07701715	Red Sea lagoons-Mangrove mud	Saudi Arabia:Rabigh harbor lagoon		saline_candidate	mangrove	Bacillus paralicheniformis
+GCF_035985545.1	Bacillus paralicheniformis	Complete Genome	current	4458487	1	SAMN39409197	Seawater sediment	China:Qingdao	missing	saline_candidate	seawater	Bacillus paralicheniformis
+GCF_002077215.1	Bacillus safensis	Complete Genome	current	3740842	1	SAMN06030516	mangrove soil	Brazil: Paranagua		saline_candidate	mangrove	Bacillus safensis
+GCF_030717805.1	Bacillus pumilus	Complete Genome	current	3769799	1	SAMN36823470	salt spring sediment	USA:Kentucky		saline_candidate	salt	Bacillus pumilus
+GCF_041431275.1	Bacillus pumilus	Scaffold	current	3693865	24	SAMN35056143	Arctic surface microlayer seawater	Arctic Ocean:North of Greenland		saline_candidate	seawater	Bacillus pumilus
+GCF_001742425.1	Bacillus solimangrovi	Scaffold	current	3844017	65	SAMN05526266		South Korea	mangrove soil	saline_candidate	mangrove	Bacillus solimangrovi
+GCF_052976745.1	Bacillus safensis	Complete Genome	current	3688707	1	SAMN52032428	Deep seawater	China:Qingdao		saline_candidate	seawater	Bacillus safensis
+GCF_055475255.1	Bacillus siamensis	Complete Genome	current	3856933	1	SAMN31526309	stem	China	Mangrove	saline_candidate	mangrove	Bacillus siamensis
+GCF_005234095.1	Bacillus subtilis	Complete Genome	current	4063004	1	SAMN11519450	seawater	China: Shanghai, The East China Sea		saline_candidate	seawater	Bacillus subtilis
+GCF_008831405.1	Bacillus subtilis	Complete Genome	current	4126713	1	SAMN12669139	Mangrove habitat samples	China: Chiu-lung River		saline_candidate	mangrove	Bacillus subtilis
+GCF_024262185.1	Bacillus subtilis	Scaffold	current	4229972	11	SAMN29198484	mangrove soil	Philippines: Palawan		saline_candidate	mangrove	Bacillus subtilis
+GCF_025426155.1	Bacillus subtilis	Complete Genome	current	4030869	1	SAMN30914362	marine sediments	Pacific Ocean: Western Pacific Ocean		saline_candidate	marine sediment	Bacillus subtilis
+GCF_025837035.1	Bacillus subtilis	Chromosome	current	4061384	15	SAMN31159204	marine sediment	Tanzania: Bagamoyo		saline_candidate	marine sediment	Bacillus subtilis
+GCF_052373815.1	Bacillus stercoris	Scaffold	current	4234980	22	SAMN50765508	digestive tract of Litopenaeus vannamei (approximately 10 g in body weight), collected from a coastal pond	Indonesia: Sumatra, Suak, Lampung	Penaeus vannamei	saline_candidate	coastal	Bacillus stercoris
+GCF_050908195.1	Bacillus subtilis	Complete Genome	current	4143087	1	SAMN48800047	bottom sediment samples (0-5 cm depth) from the lower Don River	Russia:near the Southern Scientific Centre RAS coastal research base		saline_candidate	coastal	Bacillus subtilis
+GCF_050908245.1	Bacillus subtilis	Complete Genome	current	4143098	1	SAMN48800046	bottom sediment samples (0-5 cm depth) from the lower Don River	Russia:near the Southern Scientific Centre RAS coastal research base		saline_candidate	coastal	Bacillus subtilis
+GCF_004328925.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4216133	1	SAMN09273200	seawater samples were obtained by a Remotely Operated Vehicle (ROV) equipped on the KEXUE vessel during the cruise of April 2014; sample derived site was high hydrostatic pressure, low temperature, darkness, and close to hydrothermal vent field.	China: East China Sea	missing	saline_candidate	seawater	Bacillus subtilis
+GCF_002811125.1	Bacillus vallismortis	Scaffold	current	3912114	46	SAMN07692404	saltern sediments	India: Tuticorin, Tamilnadu		saline_candidate	salt;saltern	Bacillus vallismortis
+GCF_003667745.1	Bacillus velezensis	Complete Genome	current	4234898	2	SAMN10146799	Red Sea lagoons-Mangrove Mud	Saudi Arabia:Rabigh harbor lagoon		saline_candidate	mangrove	Bacillus velezensis
+GCF_004378445.1	Bacillus velezensis	Scaffold	current	3986840	38	SAMN11157971	seawater	China: Haikou		saline_candidate	seawater	Bacillus velezensis
+GCF_013348705.1	Bacillus velezensis	Complete Genome	current	3922134	1	SAMN15205599	Phragmites communis rhizosphere in Keke Saltworks	China:Qinghai		saline_candidate	salt	Bacillus velezensis
+GCF_014842935.1	Bacillus velezensis	Scaffold	current	3932777	71	SAMN16277191	sea water	China: Xiamen		saline_candidate	sea water	Bacillus velezensis
+GCF_015732475.1	Bacillus velezensis	Complete Genome	current	4178550	3	SAMN16207084	sea water	Indian Ocean		saline_candidate	sea water	Bacillus velezensis
+GCF_016904925.1	Bacillus velezensis	Complete Genome	current	4131713	2	SAMN17825431	saltpan	Botswana: Makadikadi Basin		saline_candidate	salt	Bacillus velezensis
+GCF_019285615.1	Bacillus velezensis	Complete Genome	current	4279775	4	SAMN20058722	mangrove sediments	China: Mangrove National Nature Reserve, Zhangjiangkou		saline_candidate	mangrove	Bacillus velezensis
+GCF_020149955.1	Bacillus velezensis	Complete Genome	current	4157945	1	SAMN21448512	Doenjang, high-salt fermented soybean paste	South Korea		saline_candidate	salt	Bacillus velezensis
+GCF_029691445.1	Bacillus velezensis	Complete Genome	current	3976514	1	SAMN34073820	Mangrove Sea	China:Qinzhou		saline_candidate	mangrove	Bacillus velezensis
+GCF_030517005.1	Bacillus velezensis	Complete Genome	current	3929791	1	SAMN29325373		South Korea: Jeju island, Hamdeok beach	Seawater	saline_candidate	seawater	Bacillus velezensis
+GCF_030517045.1	Bacillus velezensis	Complete Genome	current	3929788	1	SAMN29325374		South Korea: Jeju island, Hamdeok beach	Seawater	saline_candidate	seawater	Bacillus velezensis
+GCF_045760535.1	Bacillus velezensis	Scaffold	current	3954070	13	SAMN44597093	mangrove plants	China: Zhanjiang		saline_candidate	mangrove	Bacillus velezensis
+GCF_052783145.1	Bacillus velezensis	Complete Genome	current	3945352	1	SAMN51286908	salt lake	China: Shanxi, Yuncheng		saline_candidate	salt;salt lake	Bacillus velezensis

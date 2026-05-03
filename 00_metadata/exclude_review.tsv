@@ -1,0 +1,1157 @@
+Assembly Accession	Organism Name	Assembly Level	Assembly Status	Assembly Stats Total Sequence Length	Assembly Stats Number of Contigs	Assembly BioSample Accession	Assembly BioSample Isolation source	Assembly BioSample Geographic location	Assembly BioSample Host	candidate_group	keyword_hits
+GCF_002173635.1	Bacillus amyloliquefaciens	Complete Genome	current	4088240	2	SAMN07125918	food	South Korea		exclude_review	food
+GCF_004421045.1	Bacillus amyloliquefaciens	Complete Genome	current	4240930	1	SAMN10862242	Food processing environment	USA:MD		exclude_review	food
+GCF_012844145.1	Bacillus altitudinis	Contig	current	3868742	34	SAMN14558242	feces	Germany	Sus scrofa domesticus	exclude_review	feces
+GCF_018916635.1	Bacillus albus	Contig	current	6043853	64	SAMN19374087	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_023502445.1	Bacillus altitudinis	Contig	current	3788883	17	SAMN24804914	feces	China: Yunnan	bat	exclude_review	feces
+GCF_027568435.1	Bacillus altitudinis	Contig	current	3788883	17	SAMN30158603	feces	China	bat	exclude_review	feces
+GCF_039581685.1	Bacillus aerius	Contig	current	3718211	16	SAMN41074328	dairy milk	Canada: Quebec	bovine	exclude_review	milk
+GCF_042137835.1	Bacillus albus	Contig	current	5762246	66	SAMN43781995	food: Sesame seeds	Switzerland		exclude_review	food
+GCF_046563895.1	Bacillus altitudinis	Contig	current	3761771	24	SAMN32990826	milk sample	India: Gujarat	Homo sapiens	exclude_review	milk
+GCF_050563305.1	Bacillus albus	Contig	current	5816246	106	SAMN48388847	food: frozen berries	Switzerland		exclude_review	food
+GCF_051965915.1	Bacillus altitudinis	Scaffold	current	3767042	47	SAMN48968268	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966095.1	Bacillus altitudinis	Scaffold	current	3854586	65	SAMN48968262	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966175.1	Bacillus altitudinis	Scaffold	current	3722417	38	SAMN48968259	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966325.1	Bacillus altitudinis	Contig	current	3811748	34	SAMN48968258	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967535.1	Bacillus altitudinis	Scaffold	current	3686358	21	SAMN48968222	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_000832445.1	Bacillus anthracis	Complete Genome	current	5506626	3	SAMN03010433	human	USA		exclude_review	human
+GCF_000832465.1	Bacillus anthracis	Complete Genome	current	5504993	3	SAMN03010428	human	South Africa		exclude_review	human
+GCF_000832725.1	Bacillus anthracis	Complete Genome	current	5487255	3	SAMN03010427	human	South Africa		exclude_review	human
+GCF_001277955.1	Bacillus anthracis	Chromosome	current	5503288	4	SAMN03765650	blood	Greece	Ovis	exclude_review	blood
+GCF_002019425.1	Bacillus anthracis	Contig	current	5366662	70	SAMN05511433	Patient ulcer	Georgia	Homo sapiens	exclude_review	patient
+GCF_002025265.1	Bacillus anthracis	Contig	current	5366425	71	SAMN05511418	Patient ulcer	Georgia	Homo sapiens	exclude_review	patient
+GCF_002025345.1	Bacillus anthracis	Contig	current	5460424	71	SAMN05511398	Patient ulcer	Georgia	Homo sapiens	exclude_review	patient
+GCF_002025415.1	Bacillus anthracis	Contig	current	5459580	71	SAMN05511399	Patient ulcer	Georgia	Homo sapiens	exclude_review	patient
+GCF_002025435.1	Bacillus anthracis	Contig	current	5461970	77	SAMN05511254	Patient ulcer	Georgia	Homo sapiens	exclude_review	patient
+GCF_002025455.1	Bacillus anthracis	Contig	current	5461431	82	SAMN05511380	Patient ulcer	Georgia	Homo sapiens	exclude_review	patient
+GCF_002980615.3	Bacillus anthracis	Complete Genome	current	5229731	1	SAMN08627228	laboratory strain	Russia: Saratov	missing	exclude_review	laboratory
+GCF_003045745.2	Bacillus anthracis	Scaffold	current	5461108	56	SAMN07644999	Blood from dead animal from fresh cut	India: Maharashtra	Ovis aries	exclude_review	blood
+GCF_003335125.1	Bacillus anthracis	Contig	current	5366275	33	SAMN09635715	laboratory stock culture	Germany		exclude_review	laboratory
+GCF_014249775.1	Bacillus anthracis	Chromosome	current	5503926	8	SAMN15770451	blood	India:Kanchipuram	Bovine	exclude_review	blood
+GCF_021014295.1	Bacillus anthracis	Scaffold	current	5524913	145	SAMN19613164	Soil contaminated with the blood from the dead animal	India: Vellore, Tamil Nadu	Bos indicus	exclude_review	blood
+GCF_023920185.1	Bacillus amyloliquefaciens	Complete Genome	current	3997876	2	SAMN23798686	feces	China:Nyingchi	Sus scrofa	exclude_review	feces
+GCF_029278325.1	Bacillus amyloliquefaciens	Complete Genome	current	3942038	1	SAMN33693476	feces	China:Qingdao	Mink	exclude_review	feces
+GCF_030269725.1	Bacillus amyloliquefaciens	Scaffold	current	4063154	24	SAMD00542300	Feces of giant panda	Japan		exclude_review	feces
+GCF_035812755.1	Bacillus amyloliquefaciens	Scaffold	current	3942207	25	SAMN33940414	mutant	not collected		exclude_review	mutant
+GCF_035812795.1	Bacillus amyloliquefaciens	Scaffold	current	3942111	59	SAMN33940413	mutant	not collected		exclude_review	mutant
+GCF_036945645.1	Bacillus amyloliquefaciens	Scaffold	current	4386154	47	SAMN32638682	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945665.1	Bacillus amyloliquefaciens	Scaffold	current	3871229	18	SAMN32638680	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945745.1	Bacillus amyloliquefaciens	Scaffold	current	3871029	20	SAMN32638679	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945825.1	Bacillus amyloliquefaciens	Scaffold	current	4387068	36	SAMN32638675	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945845.1	Bacillus amyloliquefaciens	Scaffold	current	3870805	16	SAMN32638676	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945885.1	Bacillus amyloliquefaciens	Scaffold	current	4387105	37	SAMN32638673	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945945.1	Bacillus amyloliquefaciens	Scaffold	current	3871688	18	SAMN32638670	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945985.1	Bacillus amyloliquefaciens	Scaffold	current	3871538	19	SAMN32638665	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036946005.1	Bacillus amyloliquefaciens	Scaffold	current	4384420	44	SAMN32638668	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036946025.1	Bacillus amyloliquefaciens	Scaffold	current	4385006	44	SAMN32638663	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036946045.1	Bacillus amyloliquefaciens	Scaffold	current	3870411	18	SAMN32638666	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036946065.1	Bacillus amyloliquefaciens	Scaffold	current	3874687	17	SAMN32638662	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036946085.1	Bacillus amyloliquefaciens	Scaffold	current	3871671	19	SAMN32638664	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_000258885.1	Bacillus anthracis str. H9401	Complete Genome	current	5495471	3	SAMN02603474	cutaneous anthrax patient	South Korea	Homo sapiens	exclude_review	patient
+GCF_000518025.1	Bacillus cereus	Contig	current	5633049	106	SAMN02597354	pasteurized milk	USA		exclude_review	milk
+GCF_000833275.1	Bacillus anthracis str. Turkey32	Complete Genome	current	5505298	3	SAMN03010432	human skin	Turkey: Yozgat		exclude_review	human
+GCF_001044585.1	Bacillus cereus	Scaffold	current	5226364	322	SAMN03325935	Milk powder	Germany	missing	exclude_review	milk
+GCF_001044645.1	Bacillus cereus	Scaffold	current	5714965	66	SAMN03325932	feces	missing	Homo sapiens	exclude_review	feces
+GCF_001044955.1	Bacillus cereus	Scaffold	current	6764924	180	SAMN03325926	feces	missing	Homo sapiens	exclude_review	feces
+GCF_001583685.1	Bacillus cereus	Contig	current	5725783	87	SAMN03800018	Laboratory Heat Treated Raw Milk	USA: New York		exclude_review	milk;laboratory
+GCF_001583805.1	Bacillus cereus	Contig	current	5790900	182	SAMN03800028	Raw liquid milk and whey perm	USA: New York		exclude_review	milk
+GCF_001583855.1	Bacillus cereus	Contig	current	5663643	204	SAMN03800034	Liquid skim milk CLT	USA: New York state		exclude_review	milk
+GCF_001583865.1	Bacillus cereus	Contig	current	5882215	169	SAMN03800033	Finished RTE food product	USA: New York state		exclude_review	food
+GCF_001583875.1	Bacillus cereus	Contig	current	5860633	198	SAMN03800032	Skim milk CLT	USA: New York state		exclude_review	milk
+GCF_001583935.1	Bacillus cereus	Contig	current	6864976	301	SAMN03800021	Laboratory Heat Treated Raw Milk	USA: New York		exclude_review	milk;laboratory
+GCF_001583975.1	Bacillus cereus	Contig	current	5920010	185	SAMN03800023	Laboratory Heat Treated Raw Milk	USA: New York		exclude_review	milk;laboratory
+GCF_001584105.1	Bacillus cereus	Contig	current	5590151	158	SAMN03800029	Raw liquid milk silo	USA: New York		exclude_review	milk
+GCF_001619285.1	Bacillus cereus	Scaffold	current	5503020	89	SAMN04046440	food	Netherlands		exclude_review	food
+GCF_001619355.1	Bacillus cereus	Scaffold	current	6432609	151	SAMN04046449	food	Netherlands		exclude_review	food
+GCF_001619395.1	Bacillus cereus	Scaffold	current	5662632	85	SAMN04046540	food	Netherlands		exclude_review	food
+GCF_001619405.1	Bacillus cereus	Scaffold	current	5591458	94	SAMN04046541	food	Netherlands		exclude_review	food
+GCF_001619425.1	Bacillus cereus	Scaffold	current	5717535	91	SAMN04046441	food	Netherlands		exclude_review	food
+GCF_001619445.1	Bacillus cereus	Scaffold	current	5338004	63	SAMN04046443	food	Netherlands		exclude_review	food
+GCF_001619525.1	Bacillus cereus	Scaffold	current	5213247	71	SAMN04046539	food	Netherlands		exclude_review	food
+GCF_001635995.1	Bacillus cereus	Complete Genome	current	5980834	3	SAMN03457175	vomit of food poisoning patient	China		exclude_review	patient;food
+GCF_001677965.1	Bacillus cereus	Contig	current	5453060	36	SAMN05194404	feces	USA: Fresno County	Gallus gallus	exclude_review	feces
+GCF_002173495.1	Bacillus atrophaeus	Complete Genome	current	4180819	1	SAMN07125920	food	South Korea		exclude_review	food
+GCF_018916725.1	Bacillus atrophaeus	Contig	current	4309679	21	SAMN19374082	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_035802955.1	Bacillus anthracis	Scaffold	current	5797601	55	SAMN33769535	raw buffalo milk	Egypt		exclude_review	milk
+GCF_035812415.1	Bacillus anthracis	Scaffold	current	5813786	105	SAMN33940432	raw buffalo milk	Egypt		exclude_review	milk
+GCF_035988905.1	Bacillus anthracis	Scaffold	current	5109679	68	SAMN33769607	Industrial waste water	China: Guangdong		exclude_review	industrial
+GCF_041900855.1	Bacillus anthracis	Contig	current	5446775	33	SAMN43423730	blood	USA: Virgin Islands ex Haiti	Homo sapiens	exclude_review	blood
+GCF_044751505.1	Bacillus anthracis	Contig	current	5457771	27	SAMN43361332	blood	China: Wenshui County, Shanxi Province	bovine	exclude_review	blood
+GCF_047289895.1	Bacillus anthracis	Contig	current	5448943	42	SAMN46368087	blood stained soil	Pakistan: Bajour	cow	exclude_review	blood
+GCF_047289935.1	Bacillus anthracis	Contig	current	5473188	81	SAMN46368086	blood stained soil	Pakistan: Bajour	cow	exclude_review	blood
+GCF_047289945.1	Bacillus anthracis	Contig	current	5449542	40	SAMN46368085	blood stained soil	Pakistan: Bajour	cow	exclude_review	blood
+GCF_047291435.1	Bacillus anthracis	Contig	current	5451289	34	SAMN46368078	blood stained soil	Pakistan: Zhob	goat	exclude_review	blood
+GCF_047291445.1	Bacillus anthracis	Contig	current	5450311	34	SAMN46368082	blood stained soil	Pakistan: Zhob	sheep	exclude_review	blood
+GCF_047291455.1	Bacillus anthracis	Contig	current	5470281	71	SAMN46368083	blood stained soil	Pakistan: Zhob	sheep	exclude_review	blood
+GCF_047291485.1	Bacillus anthracis	Contig	current	5467150	68	SAMN46368084	blood stained soil	Pakistan: Bajour	cow	exclude_review	blood
+GCF_047291555.1	Bacillus anthracis	Contig	current	5451512	33	SAMN46368079	blood stained soil	Pakistan: Zhob	goat	exclude_review	blood
+GCF_047291565.1	Bacillus anthracis	Contig	current	5451517	37	SAMN46368081	blood stained soil	Pakistan: Zhob	cow	exclude_review	blood
+GCF_047291615.1	Bacillus anthracis	Contig	current	5450793	35	SAMN46368080	blood stained soil	Pakistan: Zhob	cow	exclude_review	blood
+GCF_050478945.1	Bacillus anthracis	Contig	current	5601045	87	SAMN41009716	blood culture	not collected		exclude_review	blood
+GCF_050482705.1	Bacillus atrophaeus	Contig	current	4079933	23	SAMN41009541	contaminant on milk agar plate	not collected		exclude_review	milk
+GCF_050482745.1	Bacillus anthracis	Contig	current	5450625	33	SAMN41009539	heart blood	not collected	mouse	exclude_review	blood
+GCF_056033965.1	Bacillus anthracis	Complete Genome	current	5505950	3	SAMN50683810	blood	Ukraine:Ternopil	Equus caballus	exclude_review	blood
+GCF_056156805.1	Bacillus anthracis	Contig	current	5505383	167	SAMN46830249	blood	India	cattle	exclude_review	blood
+GCF_056156845.1	Bacillus anthracis	Contig	current	5459205	50	SAMN46830315	blood	India	sheep	exclude_review	blood
+GCF_001895235.1	Bacillus cereus	Scaffold	current	5310142	114	SAMN05907188	Breast milk	France: Paris Ile-de-France Lactarium	Homo sapiens	exclude_review	milk
+GCF_002014485.1	Bacillus cereus	Contig	current	5132411	91	SAMN06242082	pasteurized milk	USA		exclude_review	milk
+GCF_002014575.1	Bacillus cereus	Contig	current	5668335	314	SAMN06242076	raw milk	USA		exclude_review	milk
+GCF_002014705.1	Bacillus cereus	Contig	current	6469365	530	SAMN05953541	condensed milk	USA		exclude_review	milk
+GCF_002014895.1	Bacillus cereus	Contig	current	5659188	215	SAMN06242079	pasteurized milk	USA		exclude_review	milk
+GCF_002200055.1	Bacillus cereus	Scaffold	current	6314530	278	SAMN07205618	food product	USA: MD	missing	exclude_review	food
+GCF_002200085.1	Bacillus cereus	Contig	current	5992149	93	SAMN07205610	food product	USA: MD	missing	exclude_review	food
+GCF_002200175.1	Bacillus cereus	Scaffold	current	6417642	309	SAMN07205609	food product	USA: MD	missing	exclude_review	food
+GCF_002214705.1	Bacillus cereus	Complete Genome	current	5369104	1	SAMN05300203	Korean fermented food	South Korea		exclude_review	food
+GCF_002215175.1	Bacillus cereus	Complete Genome	current	5721108	3	SAMN05300204	Korean fermented food	South Korea		exclude_review	food
+GCF_002216125.1	Bacillus cereus	Complete Genome	current	5600741	4	SAMN05300194	Korean fermented food	South Korea		exclude_review	food
+GCF_003568565.1	Bacillus cereus	Complete Genome	current	6029077	2	SAMN07515795	air in Laboratory	China: Baoding	bacteria	exclude_review	laboratory
+GCF_015071065.1	Bacillus cereus	Contig	current	5797289	111	SAMN12511981	Dairy Farm Milk Chiller	Australia:Tasmania, Dairy Farm		exclude_review	milk
+GCF_015071115.1	Bacillus cereus	Contig	current	6000813	173	SAMN12512001	Dairy Farm Milk Chiller	Australia:Tasmania, Dairy Farm		exclude_review	milk
+GCF_015645275.1	Bacillus cereus	Contig	current	5955252	101	SAMN16679758	blood	Taiwan	Homo sapiens	exclude_review	blood
+GCF_016757815.1	Bacillus cereus	Contig	current	5766138	108	SAMN16604393	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016757835.1	Bacillus cereus	Contig	current	5768350	104	SAMN16604392	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016757865.1	Bacillus cereus	Contig	current	5548098	76	SAMN16604395	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016757895.1	Bacillus cereus	Contig	current	5794764	114	SAMN16604389	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016757935.1	Bacillus cereus	Contig	current	5424202	79	SAMN16604382	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758415.1	Bacillus cereus	Contig	current	5768051	113	SAMN16604396	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758475.1	Bacillus cereus	Contig	current	5877440	78	SAMN16604391	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758515.1	Bacillus cereus	Contig	current	5550389	75	SAMN16604394	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758535.1	Bacillus cereus	Contig	current	5781352	324	SAMN16604388	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758545.1	Bacillus cereus	Contig	current	5621680	90	SAMN16604386	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758575.1	Bacillus cereus	Contig	current	5575710	65	SAMN16604385	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_016758645.1	Bacillus cereus	Contig	current	5918943	79	SAMN16604381	blood culture	Italy: Apulia	Homo sapiens	exclude_review	blood
+GCF_018221445.1	Bacillus cereus	Contig	current	5726216	38	SAMN08094758	food remnant	United Kingdom: London		exclude_review	food
+GCF_018221565.1	Bacillus cereus	Contig	current	5269502	20	SAMN08094763	poisoned food	missing		exclude_review	food
+GCF_019734275.1	Bacillus cereus	Scaffold	current	5904711	39	SAMN14389527	feces	China	Homo sapiens	exclude_review	feces
+GCF_021014445.1	Bacillus cereus	Contig	current	5582797	5	SAMN18108455	blood culture	France: Certeil	Homo sapiens	exclude_review	blood
+GCF_021043245.1	Bacillus cereus	Contig	current	6185599	5	SAMN23416006	feces	Mexico	Homo sapiens	exclude_review	feces
+GCF_022509785.1	Bacillus cereus	Scaffold	current	5442449	30	SAMN25182253	feces	Poland	Testudo horsfieldii	exclude_review	feces
+GCF_022509825.1	Bacillus cereus	Scaffold	current	5866545	104	SAMN25182250	feces	Poland	Testudo hermanni	exclude_review	feces
+GCF_022808405.1	Bacillus cereus	Contig	current	5763557	45	SAMN12777282	intraocular	China: Wenzhou, Eye hospital		exclude_review	hospital
+GCF_023969475.1	Bacillus cereus	Contig	current	5279040	35	SAMN18917998	food	Thailand:Pathumthani		exclude_review	food
+GCF_029477005.1	Bacillus cereus	Contig	current	5894977	64	SAMN33794208	feces	Slovenia		exclude_review	feces
+GCF_029477025.1	Bacillus cereus	Contig	current	5760656	49	SAMN33794211	feces	Slovenia		exclude_review	feces
+GCF_029477125.1	Bacillus cereus	Contig	current	5965703	338	SAMN33794209	feces	Slovenia		exclude_review	feces
+GCF_029477365.1	Bacillus cereus	Contig	current	5337444	42	SAMN33794242	Cottage cheese	Slovenia		exclude_review	cheese
+GCF_029477395.1	Bacillus cereus	Contig	current	5713945	436	SAMN33794217	Wound smear	Slovenia		exclude_review	wound
+GCF_029477525.1	Bacillus cereus	Contig	current	5913121	587	SAMN33794243	Milk from the udder of a cow with mastitis	Slovenia		exclude_review	milk
+GCF_029477605.1	Bacillus cereus	Contig	current	5913047	64	SAMN33794250	UHT milk	Slovenia		exclude_review	milk
+GCF_029477615.1	Bacillus cereus	Contig	current	5668660	136	SAMN33794248	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029477625.1	Bacillus cereus	Contig	current	5254407	94	SAMN33794226	blood	Slovenia		exclude_review	blood
+GCF_029477705.1	Bacillus cereus	Contig	current	5942026	102	SAMN33794231	feces	Slovenia		exclude_review	feces
+GCF_029477715.1	Bacillus cereus	Contig	current	5341713	43	SAMN33794228	feces	Slovenia		exclude_review	feces
+GCF_029477885.1	Bacillus cereus	Contig	current	6313163	90	SAMN33794229	feces	Slovenia		exclude_review	feces
+GCF_029478935.1	Bacillus cereus	Contig	current	5978238	152	SAMN33794271	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029479035.1	Bacillus cereus	Contig	current	5978797	148	SAMN33794258	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029479275.1	Bacillus cereus	Contig	current	5963197	114	SAMN33794245	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029479355.1	Bacillus cereus	Contig	current	6124807	66	SAMN33794240	Pasteurized milk	Slovenia		exclude_review	milk
+GCF_029479465.1	Bacillus cereus	Contig	current	5240612	432	SAMN33794218	Wound smear	Slovenia		exclude_review	wound
+GCF_029537515.1	Bacillus cereus	Contig	current	5721601	161	SAMN33794268	feces	Slovenia		exclude_review	feces
+GCF_029537545.1	Bacillus cereus	Contig	current	5709214	145	SAMN33794269	Pasteurized milk	Slovenia		exclude_review	milk
+GCF_029537665.1	Bacillus cereus	Contig	current	6103480	324	SAMN33794227	feces	Slovenia		exclude_review	feces
+GCF_029537695.1	Bacillus cereus	Contig	current	5577839	150	SAMN33794241	Pasteurized milk	Slovenia		exclude_review	milk
+GCF_030064245.1	Bacillus cereus	Complete Genome	current	5702443	1	SAMN31100431	Food Waste	Hong Kong: Institute for Bioresource and Agriculture, Hong Kong Baptist University		exclude_review	food
+GCF_030222585.1	Bacillus cereus	Contig	current	5524149	47	SAMN31810241	Vitamin B2 food additive	Belgium		exclude_review	food
+GCF_030222595.1	Bacillus cereus	Contig	current	5529837	54	SAMN31810240	Vitamin B2 food additive	Belgium		exclude_review	food
+GCF_030270005.1	Bacillus cereus	Contig	current	5572927	5	SAMD00593297	blood	Japan:Tokyo, Hongo	Homo sapiens	exclude_review	blood
+GCF_036851375.1	Bacillus cereus	Contig	current	5629630	4	SAMN18108451	blood culture	France: Nimes	Homo sapiens	exclude_review	blood
+GCF_036851395.1	Bacillus cereus	Contig	current	5931487	4	SAMN18108453	blood culture	France: Bordeaux	Homo sapiens	exclude_review	blood
+GCF_036851495.1	Bacillus cereus	Contig	current	5935439	4	SAMN18108445	blood culture	France: Tours	Homo sapiens	exclude_review	blood
+GCF_036851555.1	Bacillus cereus	Contig	current	6057562	11	SAMN18108441	blood culture	France: Nantes	Homo sapiens	exclude_review	blood
+GCF_036851835.1	Bacillus cereus	Contig	current	5968341	7	SAMN18108427	blood culture	France: Besancon	Homo sapiens	exclude_review	blood
+GCF_036873205.1	Bacillus cereus	Scaffold	current	5630474	4	SAMN18108433	blood culture	France: Nice	Homo sapiens	exclude_review	blood
+GCF_041199465.1	Bacillus cereus	Contig	current	5598731	73	SAMN40264135	food	Brazil		exclude_review	food
+GCF_041223645.1	Bacillus cereus	Scaffold	current	5240152	108	SAMN40593588	Feces of SPF mouse	China: Guangzhou	Mus musculus	exclude_review	feces
+GCF_041879445.1	Bacillus cereus	Complete Genome	current	5830992	1	SAMN42613241	Milk powder factory	China:Harbin		exclude_review	milk
+GCF_042137675.1	Bacillus cereus	Contig	current	5456327	54	SAMN43782005	food: Tahin Helva	Switzerland		exclude_review	food
+GCF_042137695.1	Bacillus cereus	Contig	current	5573942	73	SAMN43782001	food: Sesame seeds	Switzerland		exclude_review	food
+GCF_042137755.1	Bacillus cereus	Contig	current	6467455	362	SAMN43782000	food: Hummus	Switzerland		exclude_review	food
+GCF_042137775.1	Bacillus cereus	Contig	current	5362707	43	SAMN43782002	food: Sesame seeds	Switzerland		exclude_review	food
+GCF_042137795.1	Bacillus cereus	Contig	current	6026054	69	SAMN43781997	food: Hummus	Switzerland		exclude_review	food
+GCF_042137855.1	Bacillus cereus	Contig	current	6055769	169	SAMN43781996	food: Sesame seeds	Switzerland		exclude_review	food
+GCF_042139045.1	Bacillus cereus	Contig	current	5379486	66	SAMN43781999	food: Hummus	Switzerland		exclude_review	food
+GCF_046575485.1	Bacillus cereus	Contig	current	5631595	27	SAMN37915815	food	Thailand: Pathumthani		exclude_review	food
+GCF_046575525.1	Bacillus cereus	Contig	current	5712866	127	SAMN37915811	food	Thailand: Pathumthani		exclude_review	food
+GCF_046575545.1	Bacillus cereus	Contig	current	5856371	58	SAMN37915814	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576245.1	Bacillus cereus	Contig	current	5437995	64	SAMN37915809	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576285.1	Bacillus cereus	Contig	current	5221584	37	SAMN37915808	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576365.1	Bacillus cereus	Contig	current	5378133	43	SAMN37915801	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576405.1	Bacillus cereus	Contig	current	6152935	104	SAMN37915799	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576425.1	Bacillus cereus	Contig	current	5951707	65	SAMN37915800	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576485.1	Bacillus cereus	Contig	current	6378095	258	SAMN37915794	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576505.1	Bacillus cereus	Contig	current	5880551	34	SAMN37915797	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576545.1	Bacillus cereus	Contig	current	5262391	30	SAMN37915796	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576565.1	Bacillus cereus	Contig	current	5344844	39	SAMN37915793	food	Thailand: Pathumthani		exclude_review	food
+GCF_047469075.1	Bacillus cereus	Contig	current	5699591	184	SAMN46403144	Hospital wastewater	Bangladesh:Dhaka		exclude_review	hospital
+GCF_049904065.1	Bacillus cereus	Complete Genome	current	5449758	2	SAMN26850376	blood	USA: TX, San Antonio	Homo sapiens	exclude_review	blood
+GCF_050379695.1	Bacillus cereus	Contig	current	6480582	442	SAMN48388845	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379715.1	Bacillus cereus	Contig	current	5635736	82	SAMN48388844	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379735.1	Bacillus cereus	Contig	current	6020286	648	SAMN48388841	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379755.1	Bacillus cereus	Contig	current	6435690	446	SAMN48388838	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379775.1	Bacillus cereus	Contig	current	6482034	429	SAMN48388837	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379815.1	Bacillus cereus	Contig	current	6482301	431	SAMN48388835	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379835.1	Bacillus cereus	Contig	current	5492683	88	SAMN48388833	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379855.1	Bacillus cereus	Contig	current	6495159	448	SAMN48388832	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379875.1	Bacillus cereus	Contig	current	5683685	60	SAMN48396338	food: frozen berries	Switzerland		exclude_review	food
+GCF_050379915.1	Bacillus cereus	Contig	current	6485938	459	SAMN48388831	food: frozen berries	Switzerland		exclude_review	food
+GCF_050627635.1	Bacillus cereus	Contig	current	6317943	202	SAMN43795230	Beef hamburger with cheese, tomato tapenade, tartar sauce, salad, tomato	Belgium: Brussels		exclude_review	cheese
+GCF_050627975.1	Bacillus cereus	Contig	current	5596359	72	SAMN43795212	milk	Belgium: Brussels		exclude_review	milk
+GCF_050628095.1	Bacillus cereus	Contig	current	5367643	38	SAMN43795207	Sauce with ham and cheese	Belgium: Brussels		exclude_review	cheese
+GCF_050628605.1	Bacillus cereus	Contig	current	5402982	42	SAMN43795182	cheese	Belgium: Brussels		exclude_review	cheese
+GCF_050630045.1	Bacillus cereus	Contig	current	6205753	72	SAMN43795108	Milk powder	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050630385.1	Bacillus cereus	Contig	current	5545160	60	SAMN43795096	Pasteurized milk	Belgium: Ghent		exclude_review	milk
+GCF_052071155.1	Bacillus cereus	Scaffold	current	5867693	148	SAMN50549431	Activated sludge from hospital wastewater treatment system	Philippines: Laguna		exclude_review	hospital
+GCF_052373755.1	Bacillus cereus	Contig	current	5132550	39	SAMN47301816	soil	Bangladesh: BSCIC Tannery industrial State, Hemayetpur, Savar, Dhaka		exclude_review	industrial
+GCF_054174245.1	Bacillus cereus	Contig	current	5601345	91	SAMN53840582	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_054174265.1	Bacillus cereus	Contig	current	5524602	81	SAMN53840579	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_054343475.1	Bacillus cereus	Contig	current	6213775	66	SAMN54299749	Industrial waste water	Pakistan: Lahore		exclude_review	industrial
+GCF_054343885.1	Bacillus cereus	Contig	current	5658728	44	SAMN54261666	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_054343915.1	Bacillus cereus	Contig	current	5336560	45	SAMN54261643	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_054404675.1	Bacillus cereus	Contig	current	5660875	41	SAMN54275669	food (flour)	Brazil: Rio de Janeiro		exclude_review	food
+GCF_054458655.1	Bacillus cereus	Contig	current	5349065	36	SAMN54318588	Pre-milking teat wash water	China: Qingdao		exclude_review	milk
+GCF_054458675.1	Bacillus cereus	Contig	current	5124527	40	SAMN54318586	Pre-milking teat wash water	China: Qingdao		exclude_review	milk
+GCF_054458755.1	Bacillus cereus	Contig	current	5610315	51	SAMN54318581	Raw milk	China: Qingdao		exclude_review	milk
+GCF_054458775.1	Bacillus cereus	Contig	current	5226632	24	SAMN54318580	Raw milk	China: Qingdao		exclude_review	milk
+GCF_054458795.1	Bacillus cereus	Contig	current	5680597	48	SAMN54318576	feces	China: Qingdao		exclude_review	feces
+GCF_054458815.1	Bacillus cereus	Contig	current	5707031	37	SAMN54318574	feces	China: Qingdao		exclude_review	feces
+GCF_054459215.1	Bacillus cereus	Contig	current	5449723	65	SAMN54318554	feces	China: Qingdao		exclude_review	feces
+GCF_054459375.1	Bacillus cereus	Contig	current	5679938	35	SAMN54318543	Pre-milking teat wash water	China: Qingdao		exclude_review	milk
+GCF_054459495.1	Bacillus cereus	Contig	current	5722862	62	SAMN54318529	Raw milk	China: Qingdao		exclude_review	milk
+GCF_054459515.1	Bacillus cereus	Contig	current	5652188	54	SAMN54318530	Raw milk	China: Qingdao		exclude_review	milk
+GCF_054459535.1	Bacillus cereus	Contig	current	5683693	49	SAMN54318526	Raw milk	China: Qingdao		exclude_review	milk
+GCF_054459555.1	Bacillus cereus	Contig	current	6230146	151	SAMN54318524	feces	China: Qingdao		exclude_review	feces
+GCF_055704865.1	Bacillus cereus	Contig	current	5648325	67	SAMN56255794	human beard	China: Zhejiang	Homo sapiens	exclude_review	human
+GCF_000832405.1	Bacillus cereus 03BB102	Complete Genome	current	5448107	2	SAMN03010434	Human blood	USA: Texas, San Antonio		exclude_review	human;blood
+GCF_056679785.1	Bacillus cereus	Complete Genome	current	5393033	1	SAMN53689805	food: bechamel sauce	Switzerland: Basel		exclude_review	food
+GCF_056723985.1	Bacillus cereus	Contig	current	5280390	85	SAMN57084352	Maternity hospital, obstetric observation department	Russia: Makhachkala	sample from the maternity hospital	exclude_review	hospital
+GCF_056724205.1	Bacillus cereus	Contig	current	5298577	70	SAMN57084351	Maternity hospital, obstetric observation department	Russia: Makhachkala	sample from the maternity hospital	exclude_review	hospital
+GCF_056724225.1	Bacillus cereus	Contig	current	5101334	397	SAMN57084350	Maternity hospital, obstetric observation department	Russia: Makhachkala	sample from the maternity hospital	exclude_review	hospital
+GCF_900445335.1	Bacillus cereus	Contig	current	5704051	92	SAMEA26382418	Picked up in laboratory		not available	exclude_review	laboratory
+GCF_918187235.1	Bacillus cereus	Scaffold	current	5708884	154	SAMEA9996414	cheese			exclude_review	cheese
+GCF_918204315.1	Bacillus cereus	Scaffold	current	5708063	150	SAMEA9996415	cheese			exclude_review	cheese
+GCF_964211315.1	Bacillus cereus	Contig	current	5617917	268	SAMEA115875321	urine	Tanzania	Homo sapiens	exclude_review	urine
+GCF_001050335.1	Bacillus cytotoxicus	Scaffold	current	4113902	38	SAMN03325929	Potato puree, food poisoning	Germany	missing	exclude_review	food
+GCF_022662555.1	Bacillus cereus group sp. BfR-BA-01538	Contig	current	5644107	60	SAMN25826073	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662595.1	Bacillus cereus group sp. BfR-BA-01524	Contig	current	6089492	532	SAMN25826072	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662615.1	Bacillus cereus group sp. BfR-BA-01523	Contig	current	5227082	54	SAMN25826071	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662635.1	Bacillus cereus group sp. BfR-BA-01522	Contig	current	4134432	81	SAMN25826070	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662645.1	Bacillus cereus group sp. BfR-BA-01521	Contig	current	5343548	111	SAMN25826069	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662675.1	Bacillus cereus group sp. BfR-BA-01517	Contig	current	5609241	477	SAMN25826067	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662685.1	Bacillus cereus group sp. BfR-BA-01518	Contig	current	5268055	82	SAMN25826068	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662715.1	Bacillus cereus group sp. BfR-BA-01496	Contig	current	5760717	66	SAMN25826064	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662735.1	Bacillus cereus group sp. BfR-BA-01511	Contig	current	5211258	84	SAMN25826065	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662755.1	Bacillus cereus group sp. BfR-BA-01516	Contig	current	5644470	488	SAMN25826066	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662775.1	Bacillus cereus group sp. BfR-BA-01495	Contig	current	5174204	41	SAMN25826063	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662795.1	Bacillus cereus group sp. BfR-BA-01494	Contig	current	6471690	62	SAMN25826062	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662815.1	Bacillus cereus group sp. BfR-BA-01492	Contig	current	4186079	85	SAMN25826061	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662835.1	Bacillus cereus group sp. BfR-BA-01491	Contig	current	5095886	48	SAMN25826060	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662845.1	Bacillus cereus group sp. BfR-BA-01490	Contig	current	5525928	51	SAMN25826059	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662875.1	Bacillus cereus group sp. BfR-BA-01489	Contig	current	6269893	639	SAMN25826058	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662895.1	Bacillus cereus group sp. BfR-BA-01455	Contig	current	5360845	63	SAMN25826057	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662915.1	Bacillus cereus group sp. BfR-BA-01453	Contig	current	5189284	62	SAMN25826055	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662925.1	Bacillus cereus group sp. BfR-BA-01454	Contig	current	5734081	455	SAMN25826056	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662955.1	Bacillus cereus group sp. BfR-BA-01451	Contig	current	5183963	60	SAMN25826054	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662975.1	Bacillus cereus group sp. BfR-BA-01449	Contig	current	5554274	447	SAMN25826053	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022662995.1	Bacillus cereus group sp. BfR-BA-01447	Contig	current	5438632	46	SAMN25826051	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663005.1	Bacillus cereus group sp. BfR-BA-01448	Contig	current	5407405	50	SAMN25826052	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663035.1	Bacillus cereus group sp. BfR-BA-01446	Contig	current	5612837	421	SAMN25826050	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663055.1	Bacillus cereus group sp. BfR-BA-01445	Contig	current	5243612	74	SAMN25826049	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663075.1	Bacillus cereus group sp. BfR-BA-01441	Contig	current	5943151	492	SAMN25826048	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663095.1	Bacillus cereus group sp. BfR-BA-01428	Contig	current	5194027	91	SAMN25826045	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663115.1	Bacillus cereus group sp. BfR-BA-01430	Contig	current	4345875	123	SAMN25826046	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663135.1	Bacillus cereus group sp. BfR-BA-01431	Contig	current	4273648	134	SAMN25826047	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663155.1	Bacillus cereus group sp. BfR-BA-01427	Contig	current	6327880	118	SAMN25826044	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663175.1	Bacillus cereus group sp. BfR-BA-01426	Contig	current	5717966	64	SAMN25826043	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663195.1	Bacillus cereus group sp. BfR-BA-01425	Contig	current	5146078	66	SAMN25826042	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663215.1	Bacillus cereus group sp. BfR-BA-01424	Contig	current	5362314	87	SAMN25826041	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663235.1	Bacillus cereus group sp. BfR-BA-01423	Contig	current	5462766	483	SAMN25826040	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663255.1	Bacillus cereus group sp. BfR-BA-01422	Contig	current	5301801	75	SAMN25826039	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663275.1	Bacillus cereus group sp. BfR-BA-01409	Contig	current	5317693	66	SAMN25826038	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663295.1	Bacillus cereus group sp. BfR-BA-01402	Contig	current	5641799	73	SAMN25826035	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663305.1	Bacillus cereus group sp. BfR-BA-01408	Contig	current	5125622	397	SAMN25826037	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663335.1	Bacillus cereus group sp. BfR-BA-01403	Contig	current	5776118	75	SAMN25826036	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663355.1	Bacillus cereus group sp. BfR-BA-01400	Contig	current	5721232	58	SAMN25826034	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663375.1	Bacillus cereus group sp. BfR-BA-01399	Contig	current	5683628	70	SAMN25826033	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663395.1	Bacillus cereus group sp. BfR-BA-01394	Contig	current	5628269	53	SAMN25826031	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663415.1	Bacillus cereus group sp. BfR-BA-01395	Contig	current	5264484	72	SAMN25826032	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663435.1	Bacillus cereus group sp. BfR-BA-01393	Contig	current	6763031	850	SAMN25826030	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663445.1	Bacillus cereus group sp. BfR-BA-01392	Contig	current	5385373	65	SAMN25826029	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663475.1	Bacillus cereus group sp. BfR-BA-01382	Contig	current	6372282	480	SAMN25826026	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663485.1	Bacillus cereus group sp. BfR-BA-01391	Contig	current	5670050	74	SAMN25826028	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663495.1	Bacillus cereus group sp. BfR-BA-01383	Contig	current	5140349	155	SAMN25826027	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663535.1	Bacillus cereus group sp. BfR-BA-01380	Contig	current	5165413	143	SAMN25826024	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663555.1	Bacillus cereus group sp. BfR-BA-01381	Contig	current	5433478	387	SAMN25826025	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663575.1	Bacillus cereus group sp. BfR-BA-01361	Contig	current	5188960	72	SAMN25826022	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663595.1	Bacillus cereus group sp. BfR-BA-01360	Contig	current	4187838	117	SAMN25826021	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663605.1	Bacillus cereus group sp. BfR-BA-01379	Contig	current	5316340	373	SAMN25826023	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663635.1	Bacillus cereus group sp. BfR-BA-01356	Contig	current	6374753	345	SAMN25826019	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663655.1	Bacillus cereus group sp. BfR-BA-01358	Contig	current	5295082	93	SAMN25826020	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663675.1	Bacillus cereus group sp. BfR-BA-01355	Contig	current	6166464	555	SAMN25826018	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663685.1	Bacillus cereus group sp. BfR-BA-01353	Contig	current	6704104	430	SAMN25826016	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663715.1	Bacillus cereus group sp. BfR-BA-01352	Contig	current	5498271	71	SAMN25826015	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663735.1	Bacillus cereus group sp. BfR-BA-01354	Contig	current	5818225	144	SAMN25826017	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663755.1	Bacillus cereus group sp. BfR-BA-01351	Contig	current	5419505	73	SAMN25826014	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663775.1	Bacillus cereus group sp. BfR-BA-01350	Contig	current	5149284	72	SAMN25826013	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663795.1	Bacillus cereus group sp. BfR-BA-01349	Contig	current	5428379	136	SAMN25826012	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663815.1	Bacillus cereus group sp. BfR-BA-01348	Contig	current	6278709	350	SAMN25826011	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663835.1	Bacillus cereus group sp. BfR-BA-01347	Contig	current	6424546	119	SAMN25826010	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663855.1	Bacillus cereus group sp. BfR-BA-01346	Contig	current	5168476	70	SAMN25826009	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663875.1	Bacillus cereus group sp. BfR-BA-01345	Contig	current	6581644	403	SAMN25826008	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663885.1	Bacillus cereus group sp. BfR-BA-01330	Contig	current	5637305	39	SAMN25826006	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663915.1	Bacillus cereus group sp. BfR-BA-01331	Contig	current	6140474	209	SAMN25826007	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663925.1	Bacillus cereus group sp. BfR-BA-01329	Contig	current	5398743	42	SAMN25826005	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663955.1	Bacillus cereus group sp. BfR-BA-01328	Contig	current	6017463	86	SAMN25826004	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663975.1	Bacillus cereus group sp. BfR-BA-01327	Contig	current	5727226	84	SAMN25826003	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022663985.1	Bacillus cereus group sp. BfR-BA-01326	Contig	current	5690315	76	SAMN25826002	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664015.1	Bacillus cereus group sp. BfR-BA-01325	Contig	current	5621941	69	SAMN25826001	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664035.1	Bacillus cereus group sp. BfR-BA-01324	Contig	current	5363514	61	SAMN25826000	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664055.1	Bacillus cereus group sp. BfR-BA-01323	Contig	current	5393358	46	SAMN25825999	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664075.1	Bacillus cereus group sp. BfR-BA-01322	Contig	current	5437749	82	SAMN25825998	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664085.1	Bacillus cereus group sp. BfR-BA-01321	Contig	current	6651519	578	SAMN25825997	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664115.1	Bacillus cereus group sp. BfR-BA-01319	Contig	current	6719413	324	SAMN25825996	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664135.1	Bacillus cereus group sp. BfR-BA-01317	Contig	current	7056482	166	SAMN25825994	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664155.1	Bacillus cereus group sp. BfR-BA-01318	Contig	current	7185523	436	SAMN25825995	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664195.1	Bacillus cereus group sp. BfR-BA-01316	Contig	current	4756111	177	SAMN25825993	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664215.1	Bacillus cereus group sp. BfR-BA-01315	Contig	current	5421130	388	SAMN25825992	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664225.1	Bacillus cereus group sp. BfR-BA-01313	Contig	current	6136932	101	SAMN25825990	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664255.1	Bacillus cereus group sp. BfR-BA-01314	Contig	current	5653204	46	SAMN25825991	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664265.1	Bacillus cereus group sp. BfR-BA-01312	Contig	current	6841855	346	SAMN25825989	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664295.1	Bacillus cereus group sp. BfR-BA-01311	Contig	current	5467643	50	SAMN25825988	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664315.1	Bacillus cereus group sp. BfR-BA-01309	Contig	current	5698621	92	SAMN25825986	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_022664325.1	Bacillus cereus group sp. BfR-BA-01310	Contig	current	5680919	133	SAMN25825987	food	Germany: foodproduct with ingredients from different origins		exclude_review	food
+GCF_029850295.1	Bacillus cytotoxicus	Contig	current	4301499	74	SAMN26764628	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850315.1	Bacillus cytotoxicus	Contig	current	4158305	55	SAMN26764624	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850325.1	Bacillus cytotoxicus	Contig	current	4197905	87	SAMN26764626	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850335.1	Bacillus cytotoxicus	Contig	current	4190283	58	SAMN26764625	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850345.1	Bacillus cytotoxicus	Contig	current	3982203	42	SAMN26764627	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850395.1	Bacillus cytotoxicus	Contig	current	4139964	70	SAMN26764623	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850415.1	Bacillus cytotoxicus	Contig	current	4131604	53	SAMN26764620	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850435.1	Bacillus cytotoxicus	Contig	current	4146909	59	SAMN26764622	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850445.1	Bacillus cytotoxicus	Contig	current	4214457	72	SAMN26764621	potato-based retail food product	Switzerland		exclude_review	food
+GCF_029850805.1	Bacillus cytotoxicus	Contig	current	4314785	123	SAMN27533440	potato-based retail food product	Switzerland		exclude_review	food
+GCF_033841565.1	Bacillus cereus group sp. BfR-BA-02730	Contig	current	6084816	122	SAMN38195828	food	Germany		exclude_review	food
+GCF_033841575.1	Bacillus cereus group sp. BfR-BA-02679	Contig	current	5594959	138	SAMN38195827	food	Germany		exclude_review	food
+GCF_033841625.1	Bacillus cereus group sp. BfR-BA-02675	Contig	current	5631150	123	SAMN38195826	food	Germany		exclude_review	food
+GCF_033841645.1	Bacillus cereus group sp. BfR-BA-02570	Contig	current	5694438	138	SAMN38195825	food	Germany		exclude_review	food
+GCF_033841665.1	Bacillus cereus group sp. BfR-BA-02490	Contig	current	5565528	141	SAMN38195823	food	Germany		exclude_review	food
+GCF_033841675.1	Bacillus cereus group sp. BfR-BA-02491	Contig	current	5712698	124	SAMN38195824	food	Germany		exclude_review	food
+GCF_033841705.1	Bacillus cereus group sp. BfR-BA-02147	Contig	current	5617100	115	SAMN38195822	food	Germany		exclude_review	food
+GCF_033841725.1	Bacillus cereus group sp. BfR-BA-02138	Contig	current	5530655	122	SAMN38195821	food	Germany		exclude_review	food
+GCF_033841745.1	Bacillus cereus group sp. BfR-BA-01748	Contig	current	5447616	107	SAMN38195820	food	Germany		exclude_review	food
+GCF_033841755.1	Bacillus cereus group sp. BfR-BA-01363	Contig	current	6023125	139	SAMN38195817	food	Germany		exclude_review	food
+GCF_033841785.1	Bacillus cereus group sp. BfR-BA-01665	Contig	current	5503995	132	SAMN38195818	food	Germany		exclude_review	food
+GCF_033841795.2	Bacillus cereus group sp. BfR-BA-01700	Complete Genome	current	5822093	7	SAMN38195819	food	Germany		exclude_review	food
+GCF_033841815.1	Bacillus cereus group sp. BfR-BA-01344	Contig	current	5602048	129	SAMN38195816	food	Germany		exclude_review	food
+GCF_033841845.1	Bacillus cereus group sp. BfR-BA-01247	Contig	current	5593244	98	SAMN38195815	food	Germany		exclude_review	food
+GCF_033841865.1	Bacillus cereus group sp. BfR-BA-01233	Contig	current	5525880	101	SAMN38195814	food	Germany		exclude_review	food
+GCF_033841875.1	Bacillus cereus group sp. BfR-BA-01119	Contig	current	5533392	82	SAMN38195813	food	Germany		exclude_review	food
+GCF_033841885.1	Bacillus cereus group sp. BfR-BA-01048	Contig	current	5642730	109	SAMN38195812	food	Germany		exclude_review	food
+GCF_033841925.1	Bacillus cereus group sp. BfR-BA-01042	Contig	current	5645151	108	SAMN38195811	food	Germany		exclude_review	food
+GCF_033841935.1	Bacillus cereus group sp. BfR-BA-01029	Contig	current	5540915	98	SAMN38195808	food	Germany		exclude_review	food
+GCF_033841955.1	Bacillus cereus group sp. BfR-BA-01026	Contig	current	5399550	113	SAMN38195807	food	Germany		exclude_review	food
+GCF_033841975.1	Bacillus cereus group sp. BfR-BA-01039	Contig	current	5719162	115	SAMN38195810	food	Germany		exclude_review	food
+GCF_033841995.1	Bacillus cereus group sp. BfR-BA-01033	Contig	current	5638797	129	SAMN38195809	food	Germany		exclude_review	food
+GCF_033842115.1	Bacillus cereus group sp. BfR-BA-00999	Contig	current	5647661	92	SAMN38195806	food	Germany		exclude_review	food
+GCF_033842135.1	Bacillus cereus group sp. BfR-BA-00431	Contig	current	5428068	96	SAMN38195803	food	Germany		exclude_review	food
+GCF_033842155.1	Bacillus cereus group sp. BfR-BA-00967	Contig	current	5646597	125	SAMN38195805	food	Germany		exclude_review	food
+GCF_033842175.1	Bacillus cereus group sp. BfR-BA-00707	Contig	current	5585540	121	SAMN38195804	food	Germany		exclude_review	food
+GCF_033842255.1	Bacillus cereus group sp. BfR-BA-00415	Contig	current	5536965	100	SAMN38195802	food	Germany		exclude_review	food
+GCF_033842275.1	Bacillus cereus group sp. BfR-BA-00331	Contig	current	5774528	121	SAMN38195801	food	Germany		exclude_review	food
+GCF_033842315.1	Bacillus cereus group sp. BfR-BA-00287	Contig	current	5675961	112	SAMN38195800	food	Germany		exclude_review	food
+GCF_036851315.1	Bacillus cereus group sp. Sample62	Contig	current	5670196	6	SAMN18108457	blood culture	France: Angers	Homo sapiens	exclude_review	blood
+GCF_036851355.1	Bacillus cereus group sp. Sample61	Contig	current	5662710	4	SAMN18108456	blood culture	France: Angers	Homo sapiens	exclude_review	blood
+GCF_036851575.1	Bacillus cereus group sp. Sample30	Contig	current	5413061	8	SAMN18108442	blood culture	France: Tours	Homo sapiens	exclude_review	blood
+GCF_042137715.1	Bacillus cytotoxicus	Contig	current	4252285	158	SAMN43782004	food: Sesame seeds	Switzerland		exclude_review	food
+GCF_050876345.1	Bacillus cytotoxicus	Contig	current	4196455	87	SAMN46785649	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876385.1	Bacillus cytotoxicus	Contig	current	4221004	82	SAMN46785648	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876405.1	Bacillus cytotoxicus	Contig	current	4754004	155	SAMN46785646	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876425.1	Bacillus cytotoxicus	Contig	current	4757689	256	SAMN46785647	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_051131915.1	Bacillus cereus group sp. Sample44	Complete Genome	current	5207541	1	SAMN18108449	blood culture	France: Certeil	Homo sapiens	exclude_review	blood
+GCF_051914505.1	Bacillus cereus group sp. BCN163	Contig	current	5203435	42	SAMN50000274	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914525.1	Bacillus cereus group sp. BCN162	Contig	current	5203027	41	SAMN50000273	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914545.1	Bacillus cereus group sp. BCN160	Contig	current	5178836	31	SAMN50000272	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914565.1	Bacillus cereus group sp. BCN159	Contig	current	5180071	30	SAMN50000271	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914585.1	Bacillus cereus group sp. BCN156	Contig	current	5180203	32	SAMN50000269	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914605.1	Bacillus cereus group sp. BCN157	Contig	current	5202879	42	SAMN50000270	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914625.1	Bacillus cereus group sp. BCN155	Contig	current	5181511	31	SAMN50000268	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914645.1	Bacillus cereus group sp. BCN150	Contig	current	5180529	30	SAMN50000267	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914655.1	Bacillus cereus group sp. BCN149	Contig	current	5179614	30	SAMN50000266	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914685.1	Bacillus cereus group sp. BCN148	Contig	current	5202914	41	SAMN50000265	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914705.1	Bacillus cereus group sp. BCN147	Contig	current	5178439	29	SAMN50000264	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914725.1	Bacillus cereus group sp. BCN115	Contig	current	5667091	32	SAMN50000262	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914735.1	Bacillus cereus group sp. BCN116	Contig	current	5181203	31	SAMN50000263	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914765.1	Bacillus cereus group sp. BCN108	Contig	current	5179620	32	SAMN50000261	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914785.1	Bacillus cereus group sp. BCN94	Contig	current	5203021	43	SAMN50000260	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914795.1	Bacillus cereus group sp. BCN90	Contig	current	5204027	42	SAMN50000259	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914825.1	Bacillus cereus group sp. BCN89	Contig	current	5180254	30	SAMN50000258	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914845.1	Bacillus cereus group sp. BCN87	Contig	current	5179165	31	SAMN50000256	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914865.1	Bacillus cereus group sp. BCN88	Contig	current	5182146	30	SAMN50000257	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914885.1	Bacillus cereus group sp. BCN86	Contig	current	5179463	31	SAMN50000255	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914905.1	Bacillus cereus group sp. BCN68	Contig	current	5178148	28	SAMN50000253	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914925.1	Bacillus cereus group sp. BCN67	Contig	current	5180121	30	SAMN50000252	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914945.1	Bacillus cereus group sp. BCN85	Contig	current	5180327	32	SAMN50000254	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914965.1	Bacillus cereus group sp. BCN65	Contig	current	5627365	46	SAMN50000250	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051914985.1	Bacillus cereus group sp. BCN66	Contig	current	5179111	32	SAMN50000251	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915005.1	Bacillus cereus group sp. BCN63	Contig	current	5180786	29	SAMN50000249	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915025.1	Bacillus cereus group sp. BCN42	Contig	current	5178724	30	SAMN50000248	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915045.1	Bacillus cereus group sp. BCN33	Contig	current	5202447	41	SAMN50000247	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915065.1	Bacillus cereus group sp. BCN32	Contig	current	5142380	38	SAMN50000246	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915085.1	Bacillus cereus group sp. BCN23	Contig	current	5202753	41	SAMN50000244	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915105.1	Bacillus cereus group sp. BCN31	Contig	current	5626103	41	SAMN50000245	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915125.1	Bacillus cereus group sp. BCN11	Contig	current	5202582	40	SAMN50000243	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915145.1	Bacillus cereus group sp. BCN9	Contig	current	5203052	41	SAMN50000242	feces	China:Zhejiang	cow	exclude_review	feces
+GCF_051915245.1	Bacillus cereus group sp. MYBK88-2	Contig	current	5532703	61	SAMN50000237	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915265.1	Bacillus cereus group sp. MYBK88-1	Contig	current	5544127	61	SAMN50000236	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915345.1	Bacillus cereus group sp. MYBK81-2	Contig	current	5532789	85	SAMN50000233	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915385.1	Bacillus cereus group sp. MYBK77-2	Contig	current	5457963	72	SAMN50000230	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915405.1	Bacillus cereus group sp. MYBK77-1	Contig	current	5151549	55	SAMN50000229	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915485.1	Bacillus cereus group sp. MYBK69-2	Contig	current	5214524	32	SAMN50000225	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915505.1	Bacillus cereus group sp. MYBK69-1	Contig	current	5214767	34	SAMN50000224	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915735.1	Bacillus cereus group sp. MYBK48-1	Contig	current	5305568	69	SAMN50000213	milk products	China:Zhejiang		exclude_review	milk
+GCF_051915845.1	Bacillus cereus group sp. MYBK35-2	Contig	current	5561848	38	SAMN50000207	milk products	China:Zhejiang		exclude_review	milk
+GCF_051916765.1	Bacillus cereus group sp. MYBK15-3	Contig	current	5612210	27	SAMN50000161	milk products	China:Zhejiang		exclude_review	milk
+GCF_051916785.1	Bacillus cereus group sp. MYBK15-2	Contig	current	5611197	28	SAMN50000160	milk products	China:Zhejiang		exclude_review	milk
+GCF_051916805.1	Bacillus cereus group sp. MYBK15-1	Contig	current	5611782	27	SAMN50000159	milk products	China:Zhejiang		exclude_review	milk
+GCF_051916825.1	Bacillus cereus group sp. MYBK150-2	Contig	current	5522971	28	SAMN50000158	milk products	China:Zhejiang		exclude_review	milk
+GCF_051917095.1	Bacillus cereus group sp. MYBK110-2	Contig	current	5503514	76	SAMN50000144	milk products	China:Zhejiang		exclude_review	milk
+GCF_051918845.1	Bacillus cereus group sp. MYBK101-2	Contig	current	5357682	47	SAMN50000137	milk products	China:Zhejiang		exclude_review	milk
+GCF_001587195.1	Bacillus licheniformis	Scaffold	current	4521337	129	SAMN03267275	Buttermilk powder	Netherlands		exclude_review	milk
+GCF_002443095.1	Bacillus glycinifermentans	Complete Genome	current	4659467	1	SAMN07665165	blood	South Korea: Jeonju	Homo sapiens	exclude_review	blood
+GCF_004103615.1	Bacillus glycinifermentans	Complete Genome	current	4810226	2	SAMN10754282	food	South Korea		exclude_review	food
+GCF_018916735.1	Bacillus halotolerans	Contig	current	4152327	35	SAMN19374085	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_032463625.1	Bacillus inaquosorum	Complete Genome	current	4360357	1	SAMN37521447		Pakistan: KPK Hattar Industrial Estate		exclude_review	industrial
+GCF_049852145.1	Bacillus inaquosorum	Complete Genome	current	4227079	1	SAMN47759795	colon feces	China:Chongqing	Rongchang pig	exclude_review	feces
+GCF_050460245.1	Bacillus glycinifermentans	Scaffold	current	4781219	107	SAMN41009287	Soybeans, Korean choenggukjang fermentation	South Korea		exclude_review	fermentation
+GCF_050876445.1	Bacillus cytotoxicus	Contig	current	4229377	113	SAMN46785645	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876465.1	Bacillus cytotoxicus	Contig	current	4195492	88	SAMN46785644	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876485.1	Bacillus cytotoxicus	Contig	current	4132666	91	SAMN46785643	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876505.1	Bacillus cytotoxicus	Contig	current	4134681	89	SAMN46785642	Food; potato puree powder	Switzerland		exclude_review	food
+GCF_050876525.1	Bacillus cytotoxicus	Contig	current	4133067	93	SAMN46785641	Food; chicken patty	Germany		exclude_review	food
+GCF_050876545.1	Bacillus cytotoxicus	Contig	current	4246337	99	SAMN46785640	Food; vegetarian burger	Germany		exclude_review	food
+GCF_050876565.1	Bacillus cytotoxicus	Contig	current	4081075	88	SAMN46785638	Food; yams-mixture, powder, starch rich food product	Germany		exclude_review	food
+GCF_050876585.1	Bacillus cytotoxicus	Contig	current	4272120	90	SAMN46785639	Food; soup, with potatoes as ingredient	Germany		exclude_review	food
+GCF_050876605.1	Bacillus cytotoxicus	Contig	current	4171001	120	SAMN46785637	Food; dry instant soup, with potatoes as ingredient	Germany		exclude_review	food
+GCF_050876625.1	Bacillus cytotoxicus	Contig	current	4137678	75	SAMN46785636	Food; rasberry-coco-ball	Germany		exclude_review	food
+GCF_050876645.1	Bacillus cytotoxicus	Contig	current	4011565	102	SAMN46785635	Food; bulgur salad	Germany		exclude_review	food
+GCF_050876665.1	Bacillus cytotoxicus	Contig	current	4113880	83	SAMN46785634	Food; potato dough for dumplings	Germany		exclude_review	food
+GCF_050876685.1	Bacillus cytotoxicus	Contig	current	4139856	109	SAMN46785633	Food; potato puree	Germany		exclude_review	food
+GCF_050876705.1	Bacillus cytotoxicus	Contig	current	4147736	102	SAMN46785632	Food; gnocchi	Germany		exclude_review	food
+GCF_050876725.1	Bacillus cytotoxicus	Contig	current	4141267	90	SAMN46785631	Food; potato puree powder	Germany		exclude_review	food
+GCF_050876745.1	Bacillus cytotoxicus	Contig	current	4171103	99	SAMN46785630	Food; pork cutlet (with attached potatoe puree)	Germany		exclude_review	food
+GCF_050876765.1	Bacillus cytotoxicus	Contig	current	4151825	93	SAMN46785629	Food; potato puree	Germany		exclude_review	food
+GCF_050876785.1	Bacillus cytotoxicus	Contig	current	4117380	104	SAMN46785628	Food; potato puree	Germany		exclude_review	food
+GCF_050876805.1	Bacillus cytotoxicus	Contig	current	4156586	112	SAMN46785627	Food; hummus	Germany		exclude_review	food
+GCF_050876825.1	Bacillus cytotoxicus	Contig	current	4021055	105	SAMN46785626	Food; cooked noodles	Germany		exclude_review	food
+GCF_050876845.1	Bacillus cytotoxicus	Contig	current	4168593	94	SAMN46785625	Food; cooked noodles	Germany		exclude_review	food
+GCF_050876865.1	Bacillus cytotoxicus	Contig	current	4240608	98	SAMN46785623	Food; potato puree	Germany		exclude_review	food
+GCF_050876885.1	Bacillus cytotoxicus	Contig	current	4053573	79	SAMN46785624	Food; milk noodles	Germany		exclude_review	food;milk
+GCF_050876905.1	Bacillus cytotoxicus	Contig	current	4026549	71	SAMN46785622	Food; potato soup	Germany		exclude_review	food
+GCF_051966535.1	Bacillus halotolerans	Scaffold	current	4043520	40	SAMN48968250	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967275.1	Bacillus halotolerans	Scaffold	current	4044385	35	SAMN48968231	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_052805595.1	Bacillus inaquosorum	Complete Genome	current	4230892	1	SAMN51355453	blood	USA: New York	Homo sapiens	exclude_review	blood
+GCF_002173675.1	Bacillus licheniformis	Complete Genome	current	4824459	3	SAMN07125935	food	South Korea		exclude_review	food
+GCF_002174255.1	Bacillus licheniformis	Complete Genome	current	4438492	3	SAMN07125934	food	South Korea		exclude_review	food
+GCF_003253815.1	Bacillus licheniformis	Complete Genome	current	4208157	1	SAMN07206915	adult feces	South Korea: Bundang	Homo sapiens	exclude_review	feces
+GCF_003339545.1	Bacillus licheniformis	Complete Genome	current	4405373	1	SAMN09579729	Doejnang, high-salt fermented food	South Korea: Suwon		exclude_review	food
+GCF_003474315.1	Bacillus licheniformis	Scaffold	current	4566820	25	SAMN09734679	feces	China: Shenzhen	Homo sapiens	exclude_review	feces
+GCF_003952865.1	Bacillus licheniformis	Complete Genome	current	4193958	1	SAMN08148560	Korean adult feces	South Korea: Seoul		exclude_review	feces
+GCF_004078545.1	Bacillus licheniformis	Contig	current	4350200	4	SAMN10743309	food	South Korea		exclude_review	food
+GCF_004101525.1	Bacillus licheniformis	Complete Genome	current	4471280	3	SAMN10743313	food	South Korea		exclude_review	food
+GCF_004103575.1	Bacillus licheniformis	Complete Genome	current	4516868	2	SAMN10754250	food	South Korea		exclude_review	food
+GCF_004119755.1	Bacillus licheniformis	Complete Genome	current	4419047	1	SAMN10790885	food	South Korea		exclude_review	food
+GCF_004119795.1	Bacillus licheniformis	Complete Genome	current	4298206	1	SAMN10796173	food	South Korea		exclude_review	food
+GCF_004526275.1	Bacillus licheniformis	Complete Genome	current	4230480	1	SAMN10970973	Raw milk	India: Mysore, Karnataka	sheep	exclude_review	milk
+GCF_008368405.1	Bacillus licheniformis	Scaffold	current	4340335	28	SAMN10470871	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_008368415.1	Bacillus licheniformis	Scaffold	current	4161044	34	SAMN10470869	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_008368425.1	Bacillus licheniformis	Scaffold	current	4163391	34	SAMN10470868	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_008368435.1	Bacillus licheniformis	Scaffold	current	4337996	36	SAMN10470870	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_008368505.1	Bacillus licheniformis	Scaffold	current	4338651	30	SAMN10470872	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_008368515.1	Bacillus licheniformis	Scaffold	current	4162590	30	SAMN10470867	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_010681835.1	Bacillus mobilis	Contig	current	5666084	97	SAMN13952135	wound	Netherlands	Homo sapiens	exclude_review	wound
+GCF_025518565.1	Bacillus mobilis	Scaffold	current	5695026	130	SAMN27545677	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519065.1	Bacillus mobilis	Scaffold	current	5624663	144	SAMN27545620	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519575.1	Bacillus mobilis	Scaffold	current	5651997	93	SAMN27545649	Milk and dairy products	Italy		exclude_review	milk
+GCF_025660715.1	Bacillus mobilis	Scaffold	current	5584852	92	SAMN27545618	Milk and dairy products	Italy		exclude_review	milk
+GCF_028857215.1	Bacillus licheniformis	Contig	current	4451921	98	SAMN32288759	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857225.1	Bacillus licheniformis	Contig	current	4204342	59	SAMN32288760	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857235.1	Bacillus licheniformis	Contig	current	4293449	43	SAMN32288762	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857245.1	Bacillus licheniformis	Contig	current	4201136	44	SAMN32288761	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857255.1	Bacillus licheniformis	Contig	current	4623884	48	SAMN32288757	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857315.1	Bacillus licheniformis	Contig	current	4377533	82	SAMN32288753	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857325.1	Bacillus licheniformis	Contig	current	4266218	116	SAMN32288756	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857335.1	Bacillus licheniformis	Contig	current	4222732	66	SAMN32288755	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857345.1	Bacillus licheniformis	Contig	current	4468995	49	SAMN32288758	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857415.1	Bacillus licheniformis	Contig	current	4146623	48	SAMN32288751	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857435.1	Bacillus licheniformis	Contig	current	4177733	51	SAMN32288752	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857445.1	Bacillus licheniformis	Contig	current	4262610	41	SAMN32288749	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857455.1	Bacillus licheniformis	Contig	current	4122687	40	SAMN32288748	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857475.1	Bacillus licheniformis	Contig	current	4197465	126	SAMN32288750	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857515.1	Bacillus licheniformis	Contig	current	4342493	57	SAMN32288747	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857565.1	Bacillus licheniformis	Contig	current	4261254	49	SAMN32288743	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857615.1	Bacillus licheniformis	Contig	current	4621929	676	SAMN32288742	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857645.1	Bacillus licheniformis	Contig	current	4191660	70	SAMN32288741	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857665.1	Bacillus licheniformis	Contig	current	4212123	56	SAMN32288740	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_035808115.1	Bacillus licheniformis	Contig	current	4254861	22	SAMN33940661	cheesecake, Deli	USA		exclude_review	cheese
+GCF_035812515.1	Bacillus licheniformis	Contig	current	4442601	33	SAMN33940427	raw buffalo milk	not collected		exclude_review	milk
+GCF_036208715.1	Bacillus licheniformis	Scaffold	current	4195693	64	SAMN32927441	heart blood of a mouse injected with culture of NRS 237 autoclaved on horse hair	not collected		exclude_review	blood
+GCF_036211785.1	Bacillus licheniformis	Scaffold	current	4340638	33	SAMN32927285	raw buffalo milk	Egypt		exclude_review	milk
+GCF_036221965.1	Bacillus licheniformis	Scaffold	current	4377454	232	SAMN33941079	tobacco fermentation	not collected		exclude_review	fermentation
+GCF_036851335.1	Bacillus mobilis	Contig	current	5682063	5	SAMN18108458	blood culture	France: Angers	Homo sapiens	exclude_review	blood
+GCF_036851595.1	Bacillus mobilis	Contig	current	5905637	10	SAMN18108440	blood culture	France: Poitiers	Homo sapiens	exclude_review	blood
+GCF_036851615.1	Bacillus mobilis	Contig	current	5872959	8	SAMN18108439	blood culture	France: Poitiers	Homo sapiens	exclude_review	blood
+GCF_036851655.1	Bacillus mobilis	Contig	current	5872779	8	SAMN18108438	blood culture	France: Poitiers	Homo sapiens	exclude_review	blood
+GCF_036903495.1	Bacillus mobilis	Scaffold	current	5371682	22	SAMN32638667	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945865.1	Bacillus mobilis	Scaffold	current	5606631	84	SAMN32638674	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_039704565.1	Bacillus licheniformis	Contig	current	4396779	29	SAMN39861021	cow raw milk	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704625.1	Bacillus licheniformis	Contig	current	4382965	196	SAMN39861022	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704725.1	Bacillus licheniformis	Contig	current	4284751	29	SAMN39861020	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704745.1	Bacillus licheniformis	Contig	current	4285446	35	SAMN39861017	fresh cow milk	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704755.1	Bacillus licheniformis	Contig	current	4345927	32	SAMN39861019	raw milk cow	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704765.1	Bacillus licheniformis	Contig	current	4361801	31	SAMN39861018	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704785.1	Bacillus licheniformis	Contig	current	4423964	32	SAMN39861015	fresh milk of cow	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704805.1	Bacillus licheniformis	Contig	current	4425022	31	SAMN39861016	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704845.1	Bacillus licheniformis	Contig	current	4429233	40	SAMN39861013	raw cow milk	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704855.1	Bacillus licheniformis	Contig	current	4283372	29	SAMN39861014	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704865.1	Bacillus licheniformis	Contig	current	4273296	107	SAMN39861011	cow milk	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704875.1	Bacillus licheniformis	Contig	current	4410102	28	SAMN39861012	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704925.1	Bacillus licheniformis	Contig	current	4410271	31	SAMN39861010	milk	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704945.1	Bacillus licheniformis	Contig	current	4121131	27	SAMN39861009	raw milk	Canada: Montreal	bovine	exclude_review	milk
+GCF_039704965.1	Bacillus licheniformis	Contig	current	4075098	27	SAMN39861008	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704985.1	Bacillus licheniformis	Contig	current	4075575	53	SAMN39861007	raw milk of cow	Canada: Montreal	bovine	exclude_review	milk
+GCF_040500475.1	Bacillus maqinnsis	Complete Genome	current	3329571	3	SAMN42024221	feces	China:Qinghai	Bos grunniens	exclude_review	feces
+GCF_041224965.1	Bacillus licheniformis	Scaffold	current	4171192	22	SAMN40593576	Feces of SPF mouse	China: Shanghai	Mus musculus	exclude_review	feces
+GCF_046563835.1	Bacillus licheniformis	Contig	current	4369641	28	SAMN32990834	milk sample	India: Gujarat	Homo sapiens	exclude_review	milk
+GCF_046563915.1	Bacillus licheniformis	Contig	current	4369641	28	SAMN32990833	milk sample	India: Gujarat	Homo sapiens	exclude_review	milk
+GCF_049068155.1	Bacillus licheniformis	Contig	current	4287620	39	SAMN46531083	Processed cheese	Ireland: Cork		exclude_review	cheese
+GCF_049068225.1	Bacillus licheniformis	Contig	current	4194458	59	SAMN46531082	Milk Powder	Ireland: Cork		exclude_review	milk
+GCF_049068265.1	Bacillus licheniformis	Contig	current	4292733	29	SAMN46531084	Processed cheese	Ireland: Cork		exclude_review	cheese
+GCF_051965725.1	Bacillus licheniformis	Scaffold	current	4290644	34	SAMN48968272	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966055.1	Bacillus licheniformis	Scaffold	current	4139145	28	SAMN48968264	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_052077475.1	Bacillus licheniformis	Scaffold	current	4441192	145	SAMN50519452	Treated hospital wastewater discharge	Philippines: Laguna		exclude_review	hospital
+GCF_052118025.1	Bacillus licheniformis	Contig	current	4207586	16	SAMN48950820	feces	United Kingdom:Wincherster	Sus scrofa domesticus	exclude_review	feces
+GCF_052118545.1	Bacillus licheniformis	Contig	current	4272962	50	SAMN48950795	feces	United Kingdom:Wincherster	Sus scrofa domesticus	exclude_review	feces
+GCF_054075345.1	Bacillus licheniformis	Chromosome	current	4574989	3	SAMN53258325	human skin infection	China: Lishui, Zhejiang	Homo sapiens	exclude_review	human
+GCF_054634495.1	Bacillus licheniformis	Contig	current	4116895	25	SAMN54596221	Dairy milk	Canada: Sainte-Anne-de-Bellevue	Bos taurus	exclude_review	milk
+GCF_055704665.1	Bacillus luti	Contig	current	5538721	138	SAMN56255771	human beard	China: Zhejiang	Homo sapiens	exclude_review	human
+GCF_902168435.1	Bacillus marasmi	Scaffold	current	4638330	47	SAMEA5801185	human			exclude_review	human
+GCF_902386215.1	Bacillus licheniformis	Complete Genome	current	4208157	1	SAMEA5851861	human gut	not provided		exclude_review	human
+GCF_902386855.1	Bacillus massilinigeriensis	Scaffold	current	4216923	21	SAMEA5851908	human gut	not provided		exclude_review	human
+GCF_910575305.1	Bacillus licheniformis	Contig	current	4226020	22	SAMEA8801436	Mouse faeces	United Kingdom	Mus musculus	exclude_review	faeces
+GCF_000517985.1	Bacillus mycoides FSL H7-687	Contig	current	5673545	112	SAMN02597353	pasteurized milk	USA		exclude_review	milk
+GCF_001044935.1	Bacillus mycoides	Scaffold	current	6096796	55	SAMN03325948	Raw milk	Germany	missing	exclude_review	milk
+GCF_001619505.1	Bacillus mycoides	Scaffold	current	5732453	125	SAMN04046538	food	Netherlands		exclude_review	food
+GCF_002014505.1	Bacillus mycoides	Contig	current	5763336	90	SAMN06242083	raw milk	USA		exclude_review	milk
+GCF_002014535.1	Bacillus mycoides	Contig	current	6068254	186	SAMN06242084	raw milk	USA		exclude_review	milk
+GCF_002014545.1	Bacillus mycoides	Contig	current	5641761	401	SAMN06242075	raw milk	USA		exclude_review	milk
+GCF_002014655.1	Bacillus mycoides	Contig	current	5482614	113	SAMN05953539	raw milk	USA		exclude_review	milk
+GCF_002014695.1	Bacillus mycoides	Contig	current	5400860	157	SAMN05953533	finished RTE dairy food product	USA		exclude_review	food
+GCF_002014715.1	Bacillus mycoides	Contig	current	5956998	228	SAMN05660113	pasteurized 2% milk	USA		exclude_review	milk
+GCF_002021835.1	Bacillus mycoides	Contig	current	5190710	118	SAMN06242078	pasteurized milk	USA		exclude_review	milk
+GCF_002200005.1	Bacillus mycoides	Scaffold	current	5456363	54	SAMN07205612	food product	USA: MD	missing	exclude_review	food
+GCF_002200025.1	Bacillus mycoides	Contig	current	5233832	80	SAMN07205616	food product	Netherlands	missing	exclude_review	food
+GCF_002200135.1	Bacillus mycoides	Scaffold	current	5635141	68	SAMN07205606	food product	USA: MD	missing	exclude_review	food
+GCF_012648005.1	Bacillus mojavensis	Complete Genome	current	4031121	1	SAMN14479759	mouse bloode sample	Ukraine:Kyiv		exclude_review	blood
+GCF_015071215.1	Bacillus mycoides	Contig	current	5185875	103	SAMN12530038	Hand Milked Dairy Milk	Australia:Tasmania, Dairy Farm		exclude_review	milk
+GCF_015845385.1	Bacillus mycoides	Scaffold	current	5618585	39	SAMN03654313	pasteurized milk	Germany		exclude_review	milk
+GCF_015845395.1	Bacillus mycoides	Contig	current	6011619	74	SAMN03654314	pasteurized milk	Germany		exclude_review	milk
+GCF_023969595.1	Bacillus pacificus	Contig	current	5448163	117	SAMN18918058	food	Thailand:Pathumthani		exclude_review	food
+GCF_025517745.1	Bacillus pacificus	Scaffold	current	5142523	80	SAMN27545679	Milk and dairy products	Italy		exclude_review	milk
+GCF_025518505.1	Bacillus pacificus	Scaffold	current	5186536	119	SAMN27545672	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519005.1	Bacillus mycoides	Contig	current	5310936	73	SAMN27545636	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519075.1	Bacillus pacificus	Scaffold	current	5020928	376	SAMN27545622	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519125.1	Bacillus pacificus	Scaffold	current	5268794	52	SAMN27545688	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519165.1	Bacillus pacificus	Contig	current	5238265	94	SAMN27545684	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519185.1	Bacillus pacificus	Contig	current	5395203	87	SAMN27545687	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519545.1	Bacillus pacificus	Scaffold	current	5653306	100	SAMN27545652	Milk and dairy products	Italy		exclude_review	milk
+GCF_029537455.1	Bacillus pacificus	Contig	current	5186158	139	SAMN33794265	feces	Slovenia		exclude_review	feces
+GCF_030756675.1	Bacillus multifaciens	Contig	current	4808568	93	SAMN36903788	the fermentation evironment for producing Wuliangye baijiu	China:Yibin		exclude_review	fermentation
+GCF_036211605.1	Bacillus pacificus	Scaffold	current	5401287	267	SAMN32927293	food poisoning incident	not collected		exclude_review	food
+GCF_036851475.1	Bacillus pacificus	Contig	current	5483157	3	SAMN18108447	blood culture	France: Toulouse	Homo sapiens	exclude_review	blood
+GCF_036851715.1	Bacillus pacificus	Contig	current	5521770	5	SAMN18108435	blood culture	France: Marseille	Homo sapiens	exclude_review	blood
+GCF_036851775.1	Bacillus pacificus	Contig	current	5568221	5	SAMN18108431	blood culture	France: Strasbourg	Homo sapiens	exclude_review	blood
+GCF_046575505.1	Bacillus pacificus	Contig	current	5431860	61	SAMN37915812	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576205.1	Bacillus pacificus	Contig	current	5401240	70	SAMN37915810	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576345.1	Bacillus pacificus	Contig	current	5528812	100	SAMN37915805	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576465.1	Bacillus pacificus	Contig	current	5542779	145	SAMN37915798	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576525.1	Bacillus pacificus	Contig	current	5453845	55	SAMN37915795	food	Thailand: Pathumthani		exclude_review	food
+GCF_050463985.1	Bacillus mycoides	Scaffold	current	5497900	106	SAMN41009186	milk	Germany		exclude_review	milk
+GCF_050464045.1	Bacillus mycoides	Scaffold	current	5568166	61	SAMN41009185	milk	Germany		exclude_review	milk
+GCF_050464085.1	Bacillus mycoides	Scaffold	current	5729889	91	SAMN41009184	milk	Germany		exclude_review	milk
+GCF_050465905.1	Bacillus mobilis	Scaffold	current	5689236	69	SAMN41009137	milk-base for infant formula	Not Collected		exclude_review	milk
+GCF_050563365.1	Bacillus mycoides	Contig	current	5924671	136	SAMN48388839	food: frozen berries	Switzerland		exclude_review	food
+GCF_050563425.1	Bacillus nitratireducens	Contig	current	5637647	75	SAMN48388834	food: frozen berries	Switzerland		exclude_review	food
+GCF_050629385.1	Bacillus mycoides	Contig	current	5767613	68	SAMN43795143	milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050629745.1	Bacillus mycoides	Contig	current	5729799	68	SAMN43795125	milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050630005.1	Bacillus mycoides	Contig	current	5850185	75	SAMN43795113	Fresh milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_051965155.1	Bacillus mycoides	Scaffold	current	6075200	138	SAMN48968290	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_056711765.1	Bacillus mobilis	Contig	current	5631458	101	SAMN53840590	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711845.1	Bacillus mobilis	Contig	current	5799821	109	SAMN53840587	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711865.1	Bacillus mobilis	Contig	current	5731256	94	SAMN53840585	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711925.1	Bacillus nitratireducens	Contig	current	5546661	67	SAMN53840581	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711965.1	Bacillus mobilis	Contig	current	5631602	111	SAMN53840578	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_001042485.2	Bacillus paralicheniformis	Contig	current	4520660	39	SAMN03573918	soybean fermentation	South Korea: Cheongwon		exclude_review	fermentation
+GCF_005047705.1	Bacillus paralicheniformis	Contig	current	4404722	80	SAMN11381951	fermented food	India:Hyderabad		exclude_review	food
+GCF_008368485.1	Bacillus paralicheniformis	Scaffold	current	4277767	49	SAMN10470866	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_008368495.1	Bacillus paralicheniformis	Scaffold	current	4263786	40	SAMN10470865	Gergoush (Sudanese Bread snack) primary fermentation step	Sudan		exclude_review	fermentation
+GCF_009295625.1	Bacillus paralicheniformis	Scaffold	current	4186529	30	SAMN13015320	indegenous indian fermentd foods	India: Himachal Pradesh		exclude_review	food
+GCF_009497935.1	Bacillus paralicheniformis	Complete Genome	current	4450636	1	SAMN09935371	feces	China: Hubei	grass carp	exclude_review	feces
+GCF_009648955.1	Bacillus paranthracis	Complete Genome	current	5645678	6	SAMN10574728	macaroni and cheese	USA		exclude_review	cheese
+GCF_009690855.1	Bacillus paralicheniformis	Contig	current	4209633	49	SAMN13160359	thermized milk	Canada: Ontario		exclude_review	milk
+GCF_009690865.1	Bacillus paralicheniformis	Contig	current	4202269	32	SAMN13160358	thermized milk	Canada: Ontario		exclude_review	milk
+GCF_009690925.1	Bacillus paralicheniformis	Contig	current	4199728	26	SAMN13160356	cheese	Canada: Ontario		exclude_review	cheese
+GCF_009799965.1	Bacillus paranthracis	Complete Genome	current	5673366	4	SAMN13620036	vomit from a food poisoning case	China: Beijing		exclude_review	food
+GCF_013357905.1	Bacillus paranthracis	Scaffold	current	5681902	71	SAMN13240933	Peripheral blood	Liberia:Monrovia	Homo sapiens	exclude_review	blood
+GCF_018221755.1	Bacillus paranthracis	Contig	current	5487931	130	SAMN08096497	poisoned food	missing		exclude_review	food
+GCF_018513785.1	Bacillus paranthracis	Chromosome	current	5269625	504	SAMN17910426	food	Thailand: Narathiwat		exclude_review	food
+GCF_018917315.1	Bacillus paralicheniformis	Contig	current	4372207	14	SAMN19374056	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_021014465.1	Bacillus paranthracis	Contig	current	5319251	5	SAMN18108454	blood culture	France: Certeil	Homo sapiens	exclude_review	blood
+GCF_021654055.1	Bacillus paranthracis	Contig	current	5428769	70	SAMN23039992	Raw milk	China		exclude_review	milk
+GCF_022509805.1	Bacillus paranthracis	Scaffold	current	5135275	36	SAMN25182254	feces	Poland	Eumeces schneiderii	exclude_review	feces
+GCF_025518445.1	Bacillus paranthracis	Contig	current	5473181	107	SAMN27545690	Milk and dairy products	Italy		exclude_review	milk
+GCF_025518515.1	Bacillus paranthracis	Scaffold	current	5390347	120	SAMN27545670	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519205.1	Bacillus paranthracis	Scaffold	current	5594580	68	SAMN27545685	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519655.1	Bacillus paranthracis	Scaffold	current	5490258	105	SAMN27545651	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519705.1	Bacillus paranthracis	Scaffold	current	5605432	125	SAMN27545646	Milk and dairy products	Italy		exclude_review	milk
+GCF_028857355.1	Bacillus paralicheniformis	Contig	current	4900371	1046	SAMN32288754	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857535.1	Bacillus paralicheniformis	Contig	current	4525787	88	SAMN32288745	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857545.1	Bacillus paralicheniformis	Contig	current	4453827	55	SAMN32288746	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_028857555.1	Bacillus paralicheniformis	Contig	current	4436958	57	SAMN32288744	skim milk powder (medium heat)	Ireland		exclude_review	milk
+GCF_029477545.1	Bacillus paranthracis	Contig	current	5579428	133	SAMN33794249	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029477985.1	Bacillus paranthracis	Contig	current	5397518	759	SAMN33794230	feces	Slovenia		exclude_review	feces
+GCF_029536285.1	Bacillus paranthracis	Contig	current	5792977	482	SAMN33794210	feces	Slovenia		exclude_review	feces
+GCF_029536395.1	Bacillus paranthracis	Contig	current	5620787	125	SAMN33794267	feces	Slovenia		exclude_review	feces
+GCF_029536425.1	Bacillus paranthracis	Contig	current	5653150	98	SAMN33794244	Milk from the udder of a cow with mastitis	Slovenia		exclude_review	milk
+GCF_029536485.1	Bacillus paranthracis	Contig	current	5679717	132	SAMN33794225	Wound smear	Slovenia		exclude_review	wound
+GCF_029536535.1	Bacillus paranthracis	Contig	current	5505430	127	SAMN33794247	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029537555.1	Bacillus paranthracis	Contig	current	5511442	150	SAMN33794264	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029537615.1	Bacillus paranthracis	Contig	current	5520116	98	SAMN33794246	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029537635.1	Bacillus paranthracis	Contig	current	5664554	132	SAMN33794270	Raw bulk milk	Slovenia		exclude_review	milk
+GCF_029537715.1	Bacillus paranthracis	Contig	current	5393332	234	SAMN33794219	feces	Slovenia		exclude_review	feces
+GCF_029931445.2	Bacillus paralicheniformis	Complete Genome	current	4451164	1	SAMN33591713	septic wound	not applicable		exclude_review	wound
+GCF_030166695.1	Bacillus paralicheniformis	Complete Genome	current	4554414	2	SAMN35327018	feces	China: Changsha	piglet	exclude_review	feces
+GCF_030440255.1	Bacillus paranthracis	Complete Genome	current	5550536	2	SAMN11959608	human faeces	United Kingdom	Homo sapiens	exclude_review	human;faeces
+GCF_030486745.1	Bacillus paranthracis	Contig	current	5471428	127	SAMN36380978	food: rice salad	Switzerland		exclude_review	food
+GCF_030487705.1	Bacillus paranthracis	Contig	current	5472147	143	SAMN36380977	feces	Switzerland	Homo sapiens	exclude_review	feces
+GCF_031326025.1	Bacillus paralicheniformis	Complete Genome	current	4537254	1	SAMN37220621	Soybean fermented food	South Korea: Busan		exclude_review	food
+GCF_033843165.1	Bacillus paranthracis	Contig	current	5533921	58	SAMN38236855	fermented food	China: Gansu Pingliang		exclude_review	food
+GCF_035871995.1	Bacillus paranthracis	Scaffold	current	5155538	159	SAMN38918179	Complementary food of infant	China		exclude_review	food
+GCF_035872015.1	Bacillus paranthracis	Scaffold	current	5375297	179	SAMN38918178	Complementary food of infant	China		exclude_review	food
+GCF_036211865.1	Bacillus paralicheniformis	Scaffold	current	4309945	48	SAMN32927282	raw buffalo milk	Egypt		exclude_review	milk
+GCF_039698855.1	Bacillus paramobilis	Complete Genome	current	5696471	4	SAMN41321891	leg wound	USA: Texas	Canis lupus familiaris	exclude_review	wound
+GCF_050627915.1	Bacillus pacificus	Contig	current	5055432	57	SAMN43795216	Fresh milk	Belgium: Brussels		exclude_review	milk
+GCF_050630165.1	Bacillus pacificus	Contig	current	5394528	58	SAMN43795103	Milk powder	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050630205.1	Bacillus pacificus	Contig	current	5554048	70	SAMN43795102	Milk powder	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_051965715.1	Bacillus paralicheniformis	Scaffold	current	4302394	16	SAMN48968273	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966495.1	Bacillus paralicheniformis	Scaffold	current	4356046	35	SAMN48968251	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_001675655.1	Bacillus pumilus	Contig	current	3824835	36	SAMN05202149	feces from crow roost	USA: Fresno County	Corvus brachyrhynchos	exclude_review	feces
+GCF_002158195.1	Bacillus pseudomycoides	Contig	current	5304417	174	SAMN06238887	raw milk	USA: New York state		exclude_review	milk
+GCF_013423765.1	Bacillus pumilus	Complete Genome	current	3854893	1	SAMN15498547	feces	Mexico	Homo sapiens	exclude_review	feces
+GCF_036851255.1	Bacillus paranthracis	Contig	current	5956345	7	SAMN18108461	blood culture	France: Dijon	Homo sapiens	exclude_review	blood
+GCF_036851275.1	Bacillus paranthracis	Contig	current	5839839	8	SAMN18108460	blood culture	France: Besancon	Homo sapiens	exclude_review	blood
+GCF_036851295.1	Bacillus paranthracis	Contig	current	5493225	6	SAMN18108459	blood culture	France: Besancon	Homo sapiens	exclude_review	blood
+GCF_036851415.1	Bacillus paranthracis	Contig	current	5737603	6	SAMN18108450	blood culture	France: Nimes	Homo sapiens	exclude_review	blood
+GCF_036851435.1	Bacillus paranthracis	Contig	current	5874227	7	SAMN18108448	blood culture	France: Toulouse	Homo sapiens	exclude_review	blood
+GCF_036851455.1	Bacillus paranthracis	Contig	current	5710484	7	SAMN18108446	blood culture	France: Toulouse	Homo sapiens	exclude_review	blood
+GCF_036851515.1	Bacillus paranthracis	Contig	current	5830278	7	SAMN18108444	blood culture	France: Tours	Homo sapiens	exclude_review	blood
+GCF_036851535.1	Bacillus paranthracis	Contig	current	5605357	5	SAMN18108443	blood culture	France: Tours	Homo sapiens	exclude_review	blood
+GCF_036851635.1	Bacillus paranthracis	Contig	current	5624123	5	SAMN18108437	blood culture	France: Poitiers	Homo sapiens	exclude_review	blood
+GCF_036851675.1	Bacillus paranthracis	Contig	current	5700472	4	SAMN18108436	blood culture	France: Poitiers	Homo sapiens	exclude_review	blood
+GCF_036851695.1	Bacillus paranthracis	Contig	current	5452265	6	SAMN18108434	blood culture	France: Nice	Homo sapiens	exclude_review	blood
+GCF_036851735.1	Bacillus paranthracis	Contig	current	5626549	6	SAMN18108432	blood culture	France: Paris	Homo sapiens	exclude_review	blood
+GCF_036851755.1	Bacillus paranthracis	Contig	current	5740850	10	SAMN18108430	blood culture	France: Strasbourg	Homo sapiens	exclude_review	blood
+GCF_036851795.1	Bacillus paranthracis	Contig	current	5496002	5	SAMN18108428	blood culture	France: Besancon	Homo sapiens	exclude_review	blood
+GCF_036945905.1	Bacillus paranthracis	Scaffold	current	5654064	79	SAMN32638672	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945925.1	Bacillus paranthracis	Scaffold	current	5621582	84	SAMN32638671	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036946105.1	Bacillus paranthracis	Contig	current	5566614	69	SAMN32638661	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_037157755.1	Bacillus paranthracis	Complete Genome	current	5321065	3	SAMN35673567	food	Bulgaria		exclude_review	food
+GCF_041020705.1	Bacillus paranthracis	Contig	current	5441496	155	SAMN41863578	food	Italy		exclude_review	food
+GCF_042137815.1	Bacillus paranthracis	Contig	current	5349623	54	SAMN43781998	food: Tahina	Switzerland		exclude_review	food
+GCF_046031335.1	Bacillus paranthracis	Contig	current	5468278	96	SAMN38327476	raw milk	Thailand: Chiang Mai		exclude_review	milk
+GCF_046272075.1	Bacillus paranthracis	Complete Genome	current	5633680	5	SAMN41071145	mac and cheese	USA:CT		exclude_review	cheese
+GCF_046563855.1	Bacillus paranthracis	Contig	current	5172131	79	SAMN32990825	milk sample	India: Gujarat	Homo sapiens	exclude_review	milk
+GCF_046563875.1	Bacillus paranthracis	Contig	current	5224409	108	SAMN32990824	milk sample	India: Gujarat	Homo sapiens	exclude_review	milk
+GCF_046564175.1	Bacillus paranthracis	Contig	current	5222120	120	SAMN32990823	milk sample	India: Gujarat	Homo sapiens	exclude_review	milk
+GCF_046576265.1	Bacillus paranthracis	Contig	current	5473500	78	SAMN37915804	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576305.1	Bacillus paranthracis	Contig	current	5426062	97	SAMN37915807	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576325.1	Bacillus paranthracis	Contig	current	5435642	60	SAMN37915806	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576385.1	Bacillus paranthracis	Contig	current	5223900	44	SAMN37915802	food	Thailand: Pathumthani		exclude_review	food
+GCF_046576445.1	Bacillus paranthracis	Contig	current	5126336	52	SAMN37915803	food	Thailand: Pathumthani		exclude_review	food
+GCF_047228285.1	Bacillus paranthracis	Contig	current	4850716	551	SAMN46190128	food	China:Huzhou	isolation source	exclude_review	food
+GCF_047228295.1	Bacillus paranthracis	Contig	current	5614566	91	SAMN46190130	food	China:Huzhou	isolation source	exclude_review	food
+GCF_047228325.1	Bacillus paranthracis	Contig	current	5614777	89	SAMN46190127	food	China:Huzhou	isolation source	exclude_review	food
+GCF_047228345.1	Bacillus paranthracis	Contig	current	5614466	91	SAMN46190129	food	China:Huzhou	isolation source	exclude_review	food
+GCF_047228365.1	Bacillus paranthracis	Contig	current	4846948	550	SAMN46190126	food	China:Huzhou	isolation source	exclude_review	food
+GCF_047228425.1	Bacillus paranthracis	Contig	current	5615449	93	SAMN46190125	food	China:Huzhou	isolation source	exclude_review	food
+GCF_047228465.1	Bacillus paranthracis	Contig	current	5608588	86	SAMN46190123	patient	China:Huzhou	Homo sapiens	exclude_review	patient
+GCF_047228475.1	Bacillus paranthracis	Contig	current	5610002	85	SAMN46190124	patient	China:Huzhou	Homo sapiens	exclude_review	patient
+GCF_047228505.1	Bacillus paranthracis	Contig	current	5629981	87	SAMN46190122	patient	China:Huzhou	Homo sapiens	exclude_review	patient
+GCF_047228525.1	Bacillus paranthracis	Contig	current	5610590	88	SAMN46190121	patient	China:Huzhou	Homo sapiens	exclude_review	patient
+GCF_050475465.1	Bacillus paranthracis	Contig	current	5657318	94	SAMN41009851	pasteurized milk	not collected		exclude_review	milk
+GCF_050475485.1	Bacillus paranthracis	Contig	current	5405389	83	SAMN41009850	blood culture	not collected		exclude_review	blood
+GCF_050563345.1	Bacillus proteolyticus	Contig	current	5991575	175	SAMN48388843	food: frozen berries	Switzerland		exclude_review	food
+GCF_050563405.1	Bacillus pretiosus	Contig	current	5696986	71	SAMN48388836	food: frozen berries	Switzerland		exclude_review	food
+GCF_050627175.1	Bacillus paranthracis	Contig	current	5495232	82	SAMN43795253	milk	Belgium: Brussels		exclude_review	milk
+GCF_050629545.1	Bacillus paranthracis	Contig	current	5555389	115	SAMN43795135	milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050629565.1	Bacillus paranthracis	Contig	current	5554783	119	SAMN43795134	milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050629925.1	Bacillus paranthracis	Contig	current	5955645	462	SAMN43795116	Raw milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050629945.1	Bacillus paranthracis	Contig	current	5979249	100	SAMN43795115	milk	Belgium: Louvain-La-Neuve		exclude_review	milk
+GCF_050881495.1	Bacillus paranthracis	Contig	current	5535183	52	SAMN48096777	healthy individual feces	China: Beijing	Homo sapiens	exclude_review	feces
+GCF_051123635.1	Bacillus paranthracis	Complete Genome	current	5175504	1	SAMN18108452	blood culture	France: Bordeaux	Homo sapiens	exclude_review	blood
+GCF_052947495.1	Bacillus paranthracis	Complete Genome	current	5548987	4	SAMN51752803	Beninese traditional fermented food condiments	Benin		exclude_review	food
+GCF_052947535.1	Bacillus paranthracis	Complete Genome	current	5563324	6	SAMN51752791	Beninese traditional fermented food condiments	Benin		exclude_review	food
+GCF_052947735.1	Bacillus paranthracis	Complete Genome	current	5559855	5	SAMN51752785	Beninese traditional fermented food condiments	Benin		exclude_review	food
+GCF_054073465.1	Bacillus paranthracis	Contig	current	5501792	65	SAMN52657967	fermented food	India: Mizoram,Aizawl		exclude_review	food
+GCF_054882455.1	Bacillus paranthracis	Contig	current	5501792	65	SAMN54918785	Contaminated or spoiled food	India: Aizawl, Mizoram		exclude_review	food
+GCF_056336365.1	Bacillus paranthracis	Contig	current	5541255	101	SAMN56591124	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_056387935.1	Bacillus paranthracis	Contig	current	5284427	81	SAMN56593665	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_056711745.1	Bacillus paranthracis	Contig	current	5524941	156	SAMN53840591	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711785.1	Bacillus paranthracis	Contig	current	5293845	76	SAMN53840589	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711825.1	Bacillus paranthracis	Contig	current	5435373	99	SAMN53840586	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711885.1	Bacillus paranthracis	Contig	current	6027441	127	SAMN53840583	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711905.1	Bacillus paranthracis	Contig	current	6163734	159	SAMN53840584	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711945.1	Bacillus paranthracis	Contig	current	5585360	141	SAMN53840580	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056711985.1	Bacillus paranthracis	Contig	current	5532449	149	SAMN53840577	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_056776625.1	Bacillus paranthracis	Complete Genome	current	5583748	6	SAMN53689802	food: bechamel sauce	Switzerland: Basel		exclude_review	food
+GCF_056776665.1	Bacillus paranthracis	Complete Genome	current	5492134	4	SAMN53689801	food: bechamel sauce	Switzerland: Basel		exclude_review	food
+GCF_056776715.1	Bacillus proteolyticus	Complete Genome	current	6090517	8	SAMN53689804	food: bechamel sauce	Switzerland: Basel		exclude_review	food
+GCF_902385315.1	Bacillus paranthracis	Scaffold	current	5102772	30	SAMEA5851787	human gut	China		exclude_review	human
+GCF_000828375.1	Bacillus safensis	Scaffold	current	3671348	43	SAMN03267270	milk, fermented dairy products and desserts	Netherlands		exclude_review	milk
+GCF_001677975.1	Bacillus safensis	Contig	current	3612784	17	SAMN05192528	feces	USA: Fresno County	Gallus gallus	exclude_review	feces
+GCF_016803835.1	Bacillus safensis	Complete Genome	current	3782236	1	SAMN17574945	chicken feces	Belarus		exclude_review	feces
+GCF_018916645.1	Bacillus safensis	Contig	current	3775598	15	SAMN19374091	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_018916885.1	Bacillus pumilus	Contig	current	3628689	14	SAMN19374077	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_024702015.1	Bacillus safensis	Contig	current	3759676	91	SAMN30076187	feces	India: Pune	Homo sapiens	exclude_review	feces
+GCF_036945605.1	Bacillus pumilus	Contig	current	3684949	15	SAMN32638681	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945625.1	Bacillus pumilus	Scaffold	current	3614772	14	SAMN32638678	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945805.1	Bacillus pumilus	Scaffold	current	3611277	12	SAMN32638677	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_036945965.1	Bacillus pumilus	Scaffold	current	3616627	12	SAMN32638669	Laboratory contaminant	USA: Oregon		exclude_review	laboratory
+GCF_039704555.1	Bacillus pumilus	Contig	current	3684661	18	SAMN39861024	raw milk of cow	Canada: Montreal, Sainte Anne de Bellevue, McGill Macdonald Campus	bovine	exclude_review	milk
+GCF_039704575.1	Bacillus pumilus	Contig	current	3685821	16	SAMN39861023	milk of cow	Canada: Montreal	bovine	exclude_review	milk
+GCF_048538065.1	Bacillus pumilus	Scaffold	current	3726829	55	SAMN47142130	milk	China:Yangling		exclude_review	milk
+GCF_051965235.1	Bacillus pumilus SAFR-032	Scaffold	current	3653122	30	SAMN48968286	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966635.1	Bacillus pumilus	Scaffold	current	3690141	44	SAMN48968248	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_964210425.1	Bacillus pumilus	Contig	current	3668788	72	SAMEA115875136	wound swab	Tanzania	Homo sapiens	exclude_review	wound
+GCF_000238655.1	Bacillus sp. 7_6_55CFAA_CT2	Scaffold	current	5747288	131	SAMN02463788	healthy biopsy tissue from a patient with Crohn's disease	not determined	Homo sapiens	exclude_review	patient
+GCF_000238675.1	Bacillus smithii 7_3_47FAA	Scaffold	current	3238901	175	SAMN02463789	inflamed biopsy tissue from a patient with Crohn's disease	not determined	Homo sapiens	exclude_review	patient
+GCF_000342105.1	Bacillus sonorensis L12	Contig	current	4647754	34	SAMN02471705	milk- and legume-based primary starters used for Gergoush production	Sudan: Khartoum		exclude_review	milk
+GCF_000691165.1	Bacillus safensis FO-36b	Contig	current	3731735	37	SAMN02746691	spacecraft-assembly facility of the Jet Propulsion Laboratory	USA: La Canada Flintridge, California		exclude_review	laboratory
+GCF_002202015.1	Bacillus sonorensis	Complete Genome	current	4832293	1	SAMN07211384	food	South Korea		exclude_review	food
+GCF_003254445.1	Bacillus safensis subsp. osmophilus	Contig	current	3982198	72	SAMN08905838	condensed milk	Spain		exclude_review	milk
+GCF_003473165.1	Bacillus sonorensis	Scaffold	current	4783145	75	SAMN09734790	feces	China: Shenzhen	Homo sapiens	exclude_review	feces
+GCF_009183415.1	Bacillus sp. B1-b2	Scaffold	current	5133037	83	SAMN12990246	feces	South Korea: Jeju		exclude_review	feces
+GCF_019423105.1	Bacillus sp. (in: firmicutes)	Scaffold	current	3697845	292	SAMN19224922	feces	South Korea: Seoul	Homo sapiens	exclude_review	feces
+GCF_032480655.1	Bacillus sp. (in: firmicutes)	Contig	current	5339747	94	SAMN11390761	infant feces	USA: Pittsburgh, Magee-Womens Hospital of UPMC		exclude_review	feces;hospital
+GCF_039704545.1	Bacillus safensis	Contig	current	3638373	26	SAMN39861025	cow milk fresh	Canada: Montreal	bovine	exclude_review	milk
+GCF_041537995.1	Bacillus safensis	Scaffold	current	3680499	15	SAMN39635669	Intestinal feces	China: Chengdu		exclude_review	feces
+GCF_044336645.1	Bacillus safensis subsp. safensis	Complete Genome	current	3839964	2	SAMN44468985	Meju, a korean fermented soybean food	South Korea: Suwon	not applicable	exclude_review	food
+GCF_046575425.1	Bacillus shihchuchen	Contig	current	5208045	38	SAMN37915816	food	Thailand: Pathumthani		exclude_review	food
+GCF_050479565.1	Bacillus smithii	Contig	current	3209188	201	SAMN41009678	processed cheese	not collected		exclude_review	cheese
+GCF_051965975.1	Bacillus safensis	Scaffold	current	3723546	24	SAMN48968265	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966185.1	Bacillus safensis	Scaffold	current	3662251	27	SAMN48968261	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966555.1	Bacillus safensis	Scaffold	current	3651796	17	SAMN48968252	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966615.1	Bacillus safensis	Scaffold	current	3651796	17	SAMN48968249	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966775.1	Bacillus safensis	Scaffold	current	3764422	22	SAMN48968244	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966895.1	Bacillus safensis	Scaffold	current	3724801	21	SAMN48968241	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967155.1	Bacillus safensis	Scaffold	current	3713904	16	SAMN48968234	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967185.1	Bacillus safensis	Scaffold	current	3724080	23	SAMN48968232	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967295.1	Bacillus safensis	Scaffold	current	3715934	15	SAMN48968230	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967315.1	Bacillus safensis	Scaffold	current	3714107	16	SAMN48968229	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967375.1	Bacillus safensis	Scaffold	current	3678484	17	SAMN48968228	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967455.1	Bacillus safensis	Scaffold	current	3652307	16	SAMN48968227	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_054051665.1	Bacillus safensis	Contig	current	3760812	64	SAMN52588032	feces	China:Jiangsu	goat	exclude_review	feces
+GCF_054326875.1	Bacillus sp. BC08	Contig	current	5244241	42	SAMN54223473	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_054326895.1	Bacillus sp. BC07	Contig	current	5246837	51	SAMN54222118	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_056725905.1	Bacillus sp. BC05(2025)	Contig	current	5611315	46	SAMN54204606	food	Brazil: Rio de Janeiro		exclude_review	food
+GCF_000186125.1	Bacillus sp. BT1B_CT2	Scaffold	current	4369552	49	SAMN02463786	oral swab from a patient with Crohn's disease	not determined	Homo sapiens	exclude_review	patient
+GCF_001836235.1	Bacillus sp. HMSC036E02	Scaffold	current	5615118	190	SAMN04498598	wound/ left index finger		Homo sapiens	exclude_review	wound
+GCF_001875785.1	Bacillus sp. FMQ74	Scaffold	current	4161595	48	SAMN05946063	raw milk	Denmark		exclude_review	milk
+GCF_002073415.2	Bacillus sp. FDAARGOS_235	Complete Genome	current	5608392	4	SAMN04875572	blood	USA:DC	Homo sapiens	exclude_review	blood
+GCF_003812125.1	Bacillus sp. FDAARGOS_527	Complete Genome	current	5701116	9	SAMN10163221	Broviac blood	not applicable	Homo sapiens	exclude_review	blood
+GCF_019266135.1	Bacillus sp. F2HM	Contig	current	3598681	49	SAMN04419573	sediments of water samples collected from a contaminated (highly Industrialised) site in the Khaygen River	Iran: Khaygen River		exclude_review	industrial
+GCF_032341175.1	Bacillus sp. DTU_2020_1000418_1_SI_GHA_SEK_038	Complete Genome	current	4468467	1	SAMEA111504628	blood	Ghana	Homo sapiens	exclude_review	blood
+GCF_037964915.1	Bacillus sp. FSL K6-1012	Complete Genome	current	4277638	1	SAMN29228830	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_037964945.1	Bacillus sp. FSL K6-1003	Complete Genome	current	4032783	1	SAMN29228827	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_037964975.1	Bacillus sp. EU52	Complete Genome	current	4059496	1	SAMN29228817	food	not applicable	not applicable	exclude_review	food
+GCF_037965155.1	Bacillus sp. FSL W8-1143	Complete Genome	current	3733973	1	SAMN29228799	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_037965605.1	Bacillus sp. FSL W8-0812	Complete Genome	current	4117273	1	SAMN29228785	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_037966335.1	Bacillus sp. FSL R5-0432	Complete Genome	current	3746132	1	SAMN29228737	food	not applicable	not applicable	exclude_review	food
+GCF_037966365.1	Bacillus sp. FSL P4-0322	Complete Genome	current	3841910	1	SAMN29228735	food, in process	not applicable	not applicable	exclude_review	food
+GCF_037969865.1	Bacillus sp. FSL R7-0646	Complete Genome	current	4200757	1	SAMN26232489	spore- shocked raw milk (80C for 12 min)	not applicable	not applicable	exclude_review	milk
+GCF_037975275.1	Bacillus sp. FSL M8-0359	Complete Genome	current	4346517	1	SAMN26232427	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975295.1	Bacillus sp. FSL R5-0523	Complete Genome	current	4065437	1	SAMN30469895	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_037975305.1	Bacillus sp. FSL M8-0277	Complete Genome	current	3730833	1	SAMN26232373	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975355.1	Bacillus sp. FSL M8-0315	Complete Genome	current	4456123	1	SAMN26232425	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975365.1	Bacillus sp. FSL M8-0133	Complete Genome	current	4142280	1	SAMN26232415	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975425.1	Bacillus sp. FSL R5-0416	Complete Genome	current	4224985	1	SAMN30469890	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_037975435.1	Bacillus sp. FSL P4-0290	Complete Genome	current	4194708	1	SAMN26232377	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975455.1	Bacillus sp. FSL M8-0071	Complete Genome	current	4118798	1	SAMN26232370	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975465.1	Bacillus sp. FSL M8-0054	Complete Genome	current	4110232	1	SAMN26232368	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975475.1	Bacillus sp. FSL M8-0025	Complete Genome	current	4071253	1	SAMN26232367	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_037975945.1	Bacillus sp. FSL K6-0998	Complete Genome	current	4301904	1	SAMN26232366	milk powder	not applicable	not applicable	exclude_review	milk
+GCF_037976035.1	Bacillus sp. FSL K6-0972	Complete Genome	current	4397037	1	SAMN26232365	milk powder	not applicable	not applicable	exclude_review	milk
+GCF_037976065.1	Bacillus sp. FSL L8-0193	Complete Genome	current	4329909	1	SAMN25893986	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038000225.1	Bacillus sp. FSL K6-1005	Contig	current	4025542	3	SAMN29228828	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_038002425.1	Bacillus sp. FSL R7-0685	Contig	current	4149838	2	SAMN26232392	spore- shocked raw milk (80C for 12 min)	not applicable	not applicable	exclude_review	milk
+GCF_038002445.1	Bacillus sp. FSL L8-0186	Contig	current	4198071	2	SAMN25893985	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038002465.1	Bacillus sp. FSL W7-1092	Contig	current	4077021	3	SAMN30469901	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038002485.1	Bacillus sp. FSL K6-5915	Contig	current	4245324	5	SAMN25893975	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038002605.1	Bacillus sp. FSL K6-3431	Contig	current	5495128	2	SAMN25893966	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038002645.1	Bacillus sp. FSL K6-0764	Contig	current	4186018	2	SAMN25893918	individual cow milk	not applicable	not applicable	exclude_review	milk
+GCF_038002885.1	Bacillus sp. FSL E2-0174	Contig	current	4191713	2	SAMN25893825	cheese whey	not applicable	not applicable	exclude_review	cheese
+GCF_038002925.1	Bacillus sp. FSL R7-0642	Contig	current	5618569	3	SAMN26232388	spore- shocked raw milk (80C for 12 min)	not applicable	not applicable	exclude_review	milk
+GCF_038002985.1	Bacillus sp. FSL R5-0431	Contig	current	3676402	2	SAMN26232382	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038003005.1	Bacillus sp. FSL R5-0418	Contig	current	4140532	3	SAMN30469891	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038003245.1	Bacillus sp. FSL M7-0558	Contig	current	3739543	2	SAMN25893999	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038003305.1	Bacillus sp. FSL K6-3459	Contig	current	3703681	2	SAMN25893968	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038003325.1	Bacillus sp. FSL K6-3176	Contig	current	3767001	2	SAMN25893959	milk powder	not applicable	not applicable	exclude_review	milk
+GCF_038003405.1	Bacillus sp. FSL K6-2822	Contig	current	5653189	3	SAMN25893944	Laboratory Pasteurization	not applicable	not applicable	exclude_review	laboratory
+GCF_038003645.1	Bacillus sp. FSL E2-0195	Contig	current	6001025	4	SAMN25893829	milk powder	not applicable	not applicable	exclude_review	milk
+GCF_038003905.1	Bacillus sp. FSL H7-0353	Contig	current	5699621	2	SAMN29228822	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038003925.1	Bacillus sp. EU62	Contig	current	4025310	4	SAMN29228820	food	not applicable	not applicable	exclude_review	food
+GCF_038003985.1	Bacillus sp. FSL W8-0940	Contig	current	4799484	2	SAMN29228790	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038004045.1	Bacillus sp. FSL W8-0672	Contig	current	3757028	10	SAMN29228780	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038004125.1	Bacillus sp. FSL L8-0222	Contig	current	4119996	3	SAMN30469920	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038004185.1	Bacillus sp. FSL R7-0718	Contig	current	4297846	2	SAMN26232531	spore- shocked raw milk (80C for 12 min)	not applicable	not applicable	exclude_review	milk
+GCF_038004365.1	Bacillus sp. FSL R7-0229	Contig	current	3772564	3	SAMN29228714	food	not applicable	not applicable	exclude_review	food
+GCF_038004545.1	Bacillus sp. FSL R5-0585	Contig	current	5679555	6	SAMN26232453	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038004745.1	Bacillus sp. FSL R5-0434	Contig	current	4167419	2	SAMN30469892	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038004765.1	Bacillus sp. FSL R5-0576	Contig	current	4068115	3	SAMN30469896	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038004785.1	Bacillus sp. FSL R5-0709	Contig	current	5308775	2	SAMN26232386	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038004825.1	Bacillus sp. FSL P4-0334	Contig	current	4198521	6	SAMN29228672	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038004845.1	Bacillus sp. FSL M8-0052	Contig	current	4462166	2	SAMN30670319	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038004865.1	Bacillus sp. FSL P2-0092	Contig	current	3754556	3	SAMN26232374	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038004925.1	Bacillus sp. FSL M7-1004	Contig	current	4375480	2	SAMN25894005	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038004985.1	Bacillus sp. FSL M7-0417	Contig	current	4247501	2	SAMN25893998	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005005.1	Bacillus sp. FSL L8-0533	Contig	current	3717111	2	SAMN25893990	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005025.1	Bacillus sp. FSL L8-0642	Contig	current	5650328	2	SAMN25893991	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005045.1	Bacillus sp. FSL K6-3458	Contig	current	3853153	3	SAMN25893967	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005065.1	Bacillus sp. FSL L8-0173	Contig	current	4092964	5	SAMN30469887	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005085.1	Bacillus sp. FSL K6-3221	Contig	current	3668297	5	SAMN25893964	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005305.1	Bacillus sp. FSL K6-0036	Contig	current	4257904	4	SAMN25893871	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005465.1	Bacillus sp. FSL K6-0067	Contig	current	6182684	19	SAMN25893878	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005545.1	Bacillus sp. FSL M8-0063	Contig	current	5683898	13	SAMN26232369	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005585.1	Bacillus sp. FSL W8-0519	Contig	current	5878856	6	SAMN29228776	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038005705.1	Bacillus sp. FSL L8-0199	Contig	current	6832454	8	SAMN29228768	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005745.1	Bacillus sp. FSL K6-0273	Contig	current	6392626	11	SAMN30469919	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005765.1	Bacillus sp. FSL M8-0256	Contig	current	4042053	5	SAMN29228730	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005825.1	Bacillus sp. FSL K6-0040	Contig	current	6180592	9	SAMN25893872	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038005865.1	Bacillus sp. FSL L8-0098	Contig	current	6327262	7	SAMN25893979	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038005925.1	Bacillus sp. EU55	Contig	current	4284652	2	SAMN30469934	food	not applicable	not applicable	exclude_review	food
+GCF_038006025.1	Bacillus sp. FSL M8-0139	Contig	current	6027088	10	SAMN26232416	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038006065.1	Bacillus sp. FSL L8-0287	Contig	current	6352255	8	SAMN30566023	food, pre-processed	not applicable	not applicable	exclude_review	food
+GCF_038006085.1	Bacillus sp. FSL K6-0073	Contig	current	7024183	8	SAMN25893880	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038006105.1	Bacillus sp. FSL H8-0545	Contig	current	5624799	8	SAMN25893868	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038006125.1	Bacillus sp. FSL R10-2780	Contig	current	5417395	8	SAMN29228812	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038006165.1	Bacillus sp. FSL W8-1202	Contig	current	4283826	9	SAMN29228801	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038006365.1	Bacillus sp. FSL L8-0152	Contig	current	6307743	8	SAMN25893982	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038006385.1	Bacillus sp. FSL L8-0099	Contig	current	6327089	7	SAMN25893980	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038006505.1	Bacillus sp. EU53	Contig	current	5744453	6	SAMN29228818	food	not applicable	not applicable	exclude_review	food
+GCF_038006625.1	Bacillus sp. FSL R7-0177	Contig	current	5702547	11	SAMN26232474	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038006685.1	Bacillus sp. FSL K6-0042	Contig	current	5429515	8	SAMN25893873	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038006705.1	Bacillus sp. FSL M7-0110	Contig	current	5843561	6	SAMN25893995	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038006725.1	Bacillus sp. FSL W8-1127	Contig	current	3598195	5	SAMN29228862	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038006805.1	Bacillus sp. FSL W8-0223	Contig	current	3659287	4	SAMN29228747	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038006825.1	Bacillus sp. FSL W8-0183	Contig	current	3976705	3	SAMN29228720	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038006925.1	Bacillus sp. FSL M7-0996	Contig	current	5788293	5	SAMN25894004	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038006985.1	Bacillus sp. FSL M7-1345	Contig	current	5022968	3	SAMN25894007	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038007425.1	Bacillus sp. FSL R5-0677	Contig	current	5727849	4	SAMN26232384	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038007445.1	Bacillus sp. FSL P2-0099	Contig	current	5936523	3	SAMN26232375	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038007485.1	Bacillus sp. FSL K6-3312	Contig	current	3989438	4	SAMN25893965	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038007505.1	Bacillus sp. FSL L8-0315	Contig	current	5733448	10	SAMN25893988	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038007545.1	Bacillus sp. FSL K6-6540	Contig	current	8985282	4	SAMN25893978	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038007585.1	Bacillus sp. FSL H8-0515	Contig	current	4179764	9	SAMN25893862	individual cow milk	not applicable	not applicable	exclude_review	milk
+GCF_038007665.1	Bacillus sp. CH_203	Contig	current	5651618	4	SAMN30693206	dairy, dehydrated food	not applicable	not applicable	exclude_review	food
+GCF_038007765.1	Bacillus sp. FSL L8-0637	Contig	current	5329680	4	SAMN29228905	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038007785.1	Bacillus sp. FSL K6-0069	Contig	current	5653011	5	SAMN25893879	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038007805.1	Bacillus sp. FSL W8-0848	Contig	current	4394960	3	SAMN29228786	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038007845.1	Bacillus sp. FSL R9-6406	Contig	current	5489359	5	SAMN30693196	prepared food	not applicable	not applicable	exclude_review	food
+GCF_038007885.1	Bacillus sp. FSL R10-2789	Contig	current	5750824	4	SAMN29228814	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038007905.1	Bacillus sp. FSL W8-0645	Contig	current	3852114	4	SAMN29228779	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038008185.1	Bacillus sp. FSL M7-0884	Contig	current	5524112	4	SAMN25894003	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038008365.1	Bacillus sp. FSL K6-0043	Contig	current	5800625	4	SAMN25893874	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038008665.1	Bacillus sp. FSL R10-2201	Contig	current	5344323	2	SAMN29228809	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038008705.1	Bacillus sp. FSL W8-0770	Contig	current	5800466	3	SAMN29228783	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038008745.1	Bacillus sp. FSL R5-0654	Contig	current	3833286	2	SAMN29228741	food	not applicable	not applicable	exclude_review	food
+GCF_038008785.1	Bacillus sp. FSL R5-0659	Contig	current	3737194	3	SAMN29228742	food	not applicable	not applicable	exclude_review	food
+GCF_038008805.1	Bacillus sp. FSL R5-0439	Contig	current	3731136	2	SAMN29228738	food	not applicable	not applicable	exclude_review	food
+GCF_038008825.1	Bacillus sp. FSL M8-0166	Contig	current	3747393	4	SAMN29228727	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038008905.1	Bacillus sp. FSL W8-0006	Contig	current	3720103	2	SAMN29228719	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_038008925.1	Bacillus sp. FSL R5-0586	Contig	current	3743214	2	SAMN29228711	food	not applicable	not applicable	exclude_review	food
+GCF_038008935.1	Bacillus sp. FSL R7-0166	Contig	current	3729873	2	SAMN29228713	food	not applicable	not applicable	exclude_review	food
+GCF_038008945.1	Bacillus sp. FSL M8-0326	Contig	current	3881245	2	SAMN29228709	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038050235.1	Bacillus sp. FSL W8-0445	Contig	current	4402517	4	SAMN29228773	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038050255.1	Bacillus sp. FSL M8-0077	Contig	current	3938483	2	SAMN29228708	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038050295.1	Bacillus sp. FSL R5-0603	Contig	current	4118682	3	SAMN30469898	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038050355.1	Bacillus sp. FSL M8-0168	Contig	current	4718637	3	SAMN26232417	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038050415.1	Bacillus sp. FSL M7-1020	Contig	current	6094121	12	SAMN25894006	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038050455.1	Bacillus sp. FSL K6-6038	Contig	current	5627865	9	SAMN29228767	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038592915.1	Bacillus sp. EU63	Complete Genome	current	4026131	1	SAMN30469935	food	not applicable	not applicable	exclude_review	food
+GCF_038593065.1	Bacillus sp. FSL P2-0026	Complete Genome	current	4401844	1	SAMN26232428	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038593085.1	Bacillus sp. FSL L8-0528	Complete Genome	current	4275685	1	SAMN25893989	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038593095.1	Bacillus sp. FSL L8-0358	Complete Genome	current	4101370	1	SAMN30469889	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038593175.1	Bacillus sp. FSL K6-1006	Complete Genome	current	3758626	1	SAMN29228829	finished RTE food product (dairy)	not applicable	not applicable	exclude_review	food
+GCF_038593205.1	Bacillus sp. FSL W8-1141	Complete Genome	current	3810398	1	SAMN29228798	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038593215.1	Bacillus sp. FSL W8-0920	Complete Genome	current	3814701	1	SAMN29228788	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038593225.1	Bacillus sp. FSL W8-0629	Complete Genome	current	3796011	1	SAMN29228778	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_038593235.1	Bacillus sp. FSL W8-0502	Complete Genome	current	3726907	1	SAMN29228774	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_038593255.1	Bacillus sp. FSL L8-0215	Complete Genome	current	3742241	1	SAMN29228769	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038593285.1	Bacillus sp. FSL R5-0712	Complete Genome	current	3833489	1	SAMN29228743	food	not applicable	not applicable	exclude_review	food
+GCF_038593295.1	Bacillus sp. FSL R5-0512	Complete Genome	current	3683885	1	SAMN29228739	food	not applicable	not applicable	exclude_review	food
+GCF_038593305.1	Bacillus sp. FSL P4-0248	Complete Genome	current	3694522	1	SAMN29228734	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038593315.1	Bacillus sp. FSL P2-0069	Complete Genome	current	3665757	1	SAMN29228733	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038593345.1	Bacillus sp. FSL M8-0350	Complete Genome	current	3837677	1	SAMN29228731	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038593355.1	Bacillus sp. FSL M8-0049	Complete Genome	current	3670487	1	SAMN29228725	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_038593365.1	Bacillus sp. FSL W7-1034	Complete Genome	current	3766524	1	SAMN29228716	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038593375.1	Bacillus sp. FSL R7-0651	Complete Genome	current	3949224	1	SAMN29228715	food, in process	not applicable	not applicable	exclude_review	food
+GCF_038593385.1	Bacillus sp. FSL R5-0820	Complete Genome	current	3694909	1	SAMN29228712	food	not applicable	not applicable	exclude_review	food
+GCF_038593395.1	Bacillus sp. FSL R5-0397	Complete Genome	current	3707785	1	SAMN29228710	food	not applicable	not applicable	exclude_review	food
+GCF_038595025.1	Bacillus sp. FSL K6-8391	Complete Genome	current	4255050	1	SAMN30469914	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_038595035.1	Bacillus sp. FSL W7-1085	Complete Genome	current	3814036	1	SAMN26232497	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038599185.1	Bacillus sp. FSL R7-0675	Complete Genome	current	3949713	1	SAMN26232391	spore- shocked raw milk (80C for 12 min)	not applicable	not applicable	exclude_review	milk
+GCF_038601465.1	Bacillus sp. FSL R7-0672	Complete Genome	current	3719682	1	SAMN26232390	spore- shocked raw milk (80C for 12 min)	not applicable	not applicable	exclude_review	milk
+GCF_038606125.1	Bacillus sp. FSL R5-0447	Complete Genome	current	4302534	1	SAMN30469894	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038608285.1	Bacillus sp. FSL R5-0443	Complete Genome	current	4212748	1	SAMN30469893	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038610765.1	Bacillus sp. FSL R5-0422	Complete Genome	current	3641587	1	SAMN26232380	heat treated 2% fat milk	not applicable	not applicable	exclude_review	milk
+GCF_038613425.1	Bacillus sp. FSL M8-0266	Complete Genome	current	3815734	1	SAMN26232372	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038627085.1	Bacillus sp. FSL M7-0791	Complete Genome	current	3667190	1	SAMN25894001	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038627835.1	Bacillus sp. FSL M7-0307	Complete Genome	current	3765831	1	SAMN25893996	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038628485.1	Bacillus sp. FSL M7-0003	Complete Genome	current	3727000	1	SAMN25893994	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038629295.1	Bacillus sp. FSL L8-0661	Complete Genome	current	3772600	1	SAMN25893993	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038629965.1	Bacillus sp. FSL L8-0654	Complete Genome	current	3736362	1	SAMN25893992	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038630295.1	Bacillus sp. FSL L8-0167	Complete Genome	current	3701108	1	SAMN25893983	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038630405.1	Bacillus sp. FSL K6-4563	Complete Genome	current	3725535	1	SAMN25893973	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038630485.1	Bacillus sp. FSL K6-3200	Complete Genome	current	3651431	1	SAMN25893962	Laboratory Heat Treated Raw Milk	not applicable	not applicable	exclude_review	milk;laboratory
+GCF_038630725.1	Bacillus sp. FSL K6-2861	Complete Genome	current	4189582	1	SAMN30469885	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_038630765.1	Bacillus sp. FSL K6-1033	Complete Genome	current	3723291	1	SAMN25893925	nonfat dry milk powder (NDMP)	not applicable	not applicable	exclude_review	milk
+GCF_038630785.1	Bacillus sp. FSL K6-1000	Complete Genome	current	3764816	1	SAMN25893924	nonfat dry milk powder (NDMP)	not applicable	not applicable	exclude_review	milk
+GCF_038630815.1	Bacillus sp. FSL K6-0994	Complete Genome	current	3730071	1	SAMN25893923	nonfat dry milk powder (NDMP)	not applicable	not applicable	exclude_review	milk
+GCF_038630935.1	Bacillus sp. FSL K6-0046	Complete Genome	current	3391121	1	SAMN25893875	raw milk	not applicable	not applicable	exclude_review	milk
+GCF_040311405.1	Bacillus sp. FSL K6-2865	Complete Genome	current	4136039	1	SAMN30469886	food ingredient	not applicable	not applicable	exclude_review	food
+GCF_053762545.1	Bacillus sp. ESY73	Contig	current	3694949	24	SAMN52659786	Duke University Hospital - patient room sink	USA: North Carolina		exclude_review	hospital;patient
+GCF_053762645.1	Bacillus sp. ESY92	Contig	current	3694989	24	SAMN52659789	Duke University Hospital - patient room sink	USA: North Carolina		exclude_review	hospital;patient
+GCF_001940445.1	Bacillus sp. MB366	Scaffold	current	5318145	179	SAMN06134554	industrial effluent	Pakistan		exclude_review	industrial
+GCF_002211135.1	Bacillus sp. MB353a	Contig	current	5489947	170	SAMN06163041	industrial effluent	Pakistan		exclude_review	industrial
+GCF_002843505.1	Bacillus sp. SJ-10	Complete Genome	current	4041647	1	SAMN08150386	jeotgal (Korean fermented food)	not applicable		exclude_review	food
+GCF_003717485.1	Bacillus sp. TYF-LIM-B05	Scaffold	current	4479894	13	SAMN09930411	Shanxi aged vinegar fermentation process	China:Shanxi Province		exclude_review	fermentation
+GCF_011008975.1	Bacillus sp. LUNF1	Complete Genome	current	3980777	1	SAMN14103702	Industrial wastewater-contaminated soils	China:Langfang		exclude_review	industrial
+GCF_016820555.1	Bacillus sp. REN10	Scaffold	current	3459815	55	SAMN16580016	pit mud of baijiu fermentation	China: Szechuan		exclude_review	fermentation
+GCF_017912555.1	Bacillus sp. REN3	Scaffold	current	4357513	104	SAMN17277740	Pit mud of baijiu fermentation	China: Szechuan		exclude_review	fermentation
+GCF_019793555.1	Bacillus sp. SPARC3	Contig	current	4087210	25	SAMN19473678	feces	Pakistan: Islamabad	Animal	exclude_review	feces
+GCF_020075515.1	Bacillus sp. KS1	Contig	current	3842468	27	SAMN15355466	feces	India: Himachal Pradesh	Homo sapiens	exclude_review	feces
+GCF_032401745.1	Bacillus sp. SI2	Complete Genome	current	5337448	1	SAMN37521446		Pakistan: KPK Hattar Industrial Estate		exclude_review	industrial
+GCF_052116905.1	Bacillus sp. LCP25S3_G1	Contig	current	5812940	70	SAMN48950877	feces	United Kingdom:Wincherster	Sus scrofa domesticus	exclude_review	feces
+GCF_964209635.1	Bacillus sp. SH8-8	Contig	current	6006076	67	SAMEA115875271	wound swab	Tanzania	Homo sapiens	exclude_review	wound
+GCF_965111945.1	Bacillus sp. Marseille-Q7846	Contig	current	5720645	15	SAMEA117399863	Clinical microbiology	France		exclude_review	clinical
+GCF_000789295.1	Bacillus subtilis	Complete Genome	current	4215367	1	SAMN03222590	laboratory strain	USA		exclude_review	laboratory
+GCF_001619555.1	Bacillus subtilis	Scaffold	current	4565625	38	SAMN04100265	food	Netherlands		exclude_review	food
+GCF_002269175.1	Bacillus subtilis	Complete Genome	current	4014255	1	SAMN07482639	Traditional fermented food in Korea	South Korea: Choongnam, Cheonan	soybean	exclude_review	food
+GCF_002269195.1	Bacillus subtilis	Complete Genome	current	4196031	1	SAMN07482641	Traditional fermented food in Korea	South Korea: Choongnam, Cheonan	soybean	exclude_review	food
+GCF_003174785.1	Bacillus subtilis	Contig	current	4149239	35	SAMN09241895	fermentation product	China		exclude_review	fermentation
+GCF_003710285.1	Bacillus subtilis	Contig	current	4048984	34	SAMN10246063	fermented food	India:Hyderabad		exclude_review	food
+GCF_004101345.1	Bacillus subtilis	Complete Genome	current	4133206	1	SAMN10742270	food	South Korea		exclude_review	food
+GCF_004101365.1	Bacillus subtilis	Complete Genome	current	4206125	1	SAMN10742278	food	South Korea		exclude_review	food
+GCF_004101405.1	Bacillus subtilis	Complete Genome	current	4113808	1	SAMN10742280	food	South Korea		exclude_review	food
+GCF_004101425.1	Bacillus subtilis	Complete Genome	current	4136114	1	SAMN10742282	food	South Korea		exclude_review	food
+GCF_004101445.1	Bacillus subtilis	Complete Genome	current	4147136	1	SAMN10742284	food	South Korea		exclude_review	food
+GCF_004101465.1	Bacillus subtilis	Complete Genome	current	4111350	1	SAMN10742484	food	South Korea		exclude_review	food
+GCF_004101485.1	Bacillus subtilis	Complete Genome	current	4058528	1	SAMN10743274	food	South Korea		exclude_review	food
+GCF_004101565.1	Bacillus subtilis	Complete Genome	current	4105116	2	SAMN10743314	food	South Korea		exclude_review	food
+GCF_004103535.1	Bacillus subtilis	Complete Genome	current	4215632	2	SAMN10754103	food	South Korea		exclude_review	food
+GCF_004103555.1	Bacillus subtilis	Complete Genome	current	4051556	1	SAMN10754253	food	South Korea		exclude_review	food
+GCF_004103595.1	Bacillus subtilis	Complete Genome	current	4133685	1	SAMN10754256	food	South Korea		exclude_review	food
+GCF_004119175.1	Bacillus subtilis	Contig	current	4462859	4	SAMN10796448	food	South Korea		exclude_review	food
+GCF_004119535.1	Bacillus subtilis	Complete Genome	current	4123786	2	SAMN10790858	food	South Korea		exclude_review	food
+GCF_004119555.1	Bacillus subtilis	Complete Genome	current	4110403	1	SAMN10790856	food	South Korea		exclude_review	food
+GCF_004119595.1	Bacillus subtilis	Complete Genome	current	4035212	1	SAMN10790860	food	South Korea		exclude_review	food
+GCF_004119615.1	Bacillus subtilis	Complete Genome	current	4012178	1	SAMN10790877	food	South Korea		exclude_review	food
+GCF_004119635.1	Bacillus subtilis	Complete Genome	current	4157489	2	SAMN10790878	food	South Korea		exclude_review	food
+GCF_004119655.1	Bacillus subtilis	Complete Genome	current	4126329	1	SAMN10790882	food	South Korea		exclude_review	food
+GCF_004119675.1	Bacillus subtilis	Complete Genome	current	4137450	2	SAMN10790879	food	South Korea		exclude_review	food
+GCF_004119695.1	Bacillus subtilis	Complete Genome	current	4143637	1	SAMN10790884	food	South Korea		exclude_review	food
+GCF_004119715.1	Bacillus subtilis	Complete Genome	current	4143632	1	SAMN10790883	food	South Korea		exclude_review	food
+GCF_004119775.1	Bacillus subtilis	Complete Genome	current	4343160	4	SAMN10796306	food	South Korea		exclude_review	food
+GCF_004119815.1	Bacillus subtilis	Complete Genome	current	4129860	1	SAMN10797245	food	South Korea		exclude_review	food
+GCF_004119835.1	Bacillus subtilis	Complete Genome	current	4210895	2	SAMN10796308	food	South Korea		exclude_review	food
+GCF_004119875.1	Bacillus subtilis	Complete Genome	current	4027238	1	SAMN10797246	food	South Korea		exclude_review	food
+GCF_012029855.1	Bacillus subtilis	Contig	current	4038907	6	SAMN14448132	feces	France	snail	exclude_review	feces
+GCF_012030395.1	Bacillus subtilis	Scaffold	current	4190428	71	SAMN14448131	feces	France	dog	exclude_review	feces
+GCF_012926045.1	Bacillus subtilis	Contig	current	4000038	25	SAMN13921480	Yak feces	India: Yumthang, Sikkim		exclude_review	feces
+GCF_014046405.1	Bacillus subtilis	Contig	current	4095178	19	SAMN09521649	rhizospheric soil of plants growing naturally in the vicinity of discharge point of an industrial area	Pakistan:Rawalpindi		exclude_review	industrial
+GCF_014878105.1	Bacillus subtilis	Contig	current	4238856	54	SAMN16302825	food	South Korea:Changwon		exclude_review	food
+GCF_015070965.1	Bacillus subtilis	Contig	current	3970987	21	SAMN16453360	laboratory construct	USA: Columbus, Ohio		exclude_review	laboratory
+GCF_017592405.1	Bacillus subtilis	Contig	current	4208679	44	SAMN18385656	fermented food	India: North East		exclude_review	food
+GCF_017601115.1	Bacillus subtilis	Contig	current	4488261	101	SAMN18354472	fermented food	India: North East		exclude_review	food
+GCF_020251265.1	Bacillus subtilis	Contig	current	4038496	12	SAMN21874022	feces	China: Sichuan	Rhinopithecus roxellana	exclude_review	feces
+GCF_021497525.1	Bacillus subtilis	Complete Genome	current	4190773	3	SAMN16801779	fermentation of straw	missing	not collected	exclude_review	fermentation
+GCF_021497545.1	Bacillus subtilis	Complete Genome	current	4178076	3	SAMN16801778	fermentation of straw	missing	not collected	exclude_review	fermentation
+GCF_024802585.1	Bacillus subtilis	Complete Genome	current	4148036	1	SAMN30470340	feces	South Korea:Jeongeup	Sus scrofa domesticus	exclude_review	feces
+GCF_050475185.1	Bacillus stercoris	Contig	current	4209586	31	SAMN41009865	blood culture	not collected	horse	exclude_review	blood
+GCF_054786455.1	Bacillus spizizenii	Contig	current	4092108	16	SAMN53052735	milk	China:Xinjiang	cow	exclude_review	milk
+GCF_054877525.1	Bacillus spizizenii	Contig	current	4001935	25	SAMN54800018	feces	Italy	Homo sapiens	exclude_review	feces
+GCF_056836665.1	Bacillus stercoris	Contig	current	4153085	22	SAMN57221475	Industrial Effluent	India: Thane, Maharashtra		exclude_review	industrial
+GCF_028806775.1	Bacillus subtilis	Contig	current	4247238	118	SAMN33321761	Milk product waste	Poland: Torun	Dairy waste	exclude_review	milk
+GCF_028806935.1	Bacillus subtilis	Contig	current	4231010	70	SAMN33321555	Milk waste product	Poland: Torun		exclude_review	milk
+GCF_028807035.1	Bacillus subtilis	Contig	current	4230554	70	SAMN33321493	Milk product waste	Poland: Torun		exclude_review	milk
+GCF_028807115.1	Bacillus subtilis	Contig	current	4253751	136	SAMN33321707	Milk product waste	Poland: Torun	Dairy waste	exclude_review	milk
+GCF_028807155.1	Bacillus subtilis	Contig	current	4253751	136	SAMN33321732	Milk product waste	Poland: Torun	Dairy waste	exclude_review	milk
+GCF_030413125.1	Bacillus subtilis	Contig	current	4102604	2	SAMN36015175	feces	South Korea: Buyeo	Bos taurus	exclude_review	feces
+GCF_030438175.1	Bacillus subtilis	Complete Genome	current	4103568	1	SAMN36269680	Bos taurus feces	South Korea:Buyeo		exclude_review	feces
+GCF_030767265.1	Bacillus subtilis	Contig	current	4056873	81	SAMN35538383	feces	Italy	Homo sapiens	exclude_review	feces
+GCF_031932165.1	Bacillus subtilis	Scaffold	current	3970381	100	SAMN36767416	feces	Viet Nam: Hanoi	Homo sapiens	exclude_review	feces
+GCF_031932205.1	Bacillus subtilis	Scaffold	current	4025963	86	SAMN36767417	feces	Viet Nam: Hanoi	Homo sapiens	exclude_review	feces
+GCF_033113625.1	Bacillus subtilis	Complete Genome	current	4012893	1	SAMN37774623	Doenjang, Korean traditional food	South Korea		exclude_review	food
+GCF_035319605.1	Bacillus subtilis	Complete Genome	current	4173215	1	SAMN38917970	Chungkukjang (Korean traditional fermented food)	South Korea	missing	exclude_review	food
+GCF_035621695.1	Bacillus subtilis	Complete Genome	current	4133372	1	SAMN39190747	fermented soybean food	South Korea		exclude_review	food
+GCF_035658515.1	Bacillus subtilis	Complete Genome	current	4377713	3	SAMN39190887	fermented soybean food	South Korea		exclude_review	food
+GCF_035812835.1	Bacillus subtilis	Contig	current	4174218	13	SAMN33940410	mutant, asporogenous	not collected		exclude_review	mutant
+GCF_035812875.1	Bacillus subtilis	Contig	current	4148647	19	SAMN33940409	mutant, asporogenous	not collected		exclude_review	mutant
+GCF_038397795.1	Bacillus subtilis	Contig	current	3990139	7	SAMN40948517	feces	Viet Nam: Hanoi	Homo sapiens	exclude_review	feces
+GCF_039581705.1	Bacillus subtilis	Contig	current	4145080	9	SAMN41074331	dairy milk	Canada: Quebec	bovine	exclude_review	milk
+GCF_041199455.1	Bacillus subtilis	Contig	current	4083471	164	SAMN43025056	fermented food	Hungary: Budapest		exclude_review	food
+GCF_045275325.1	Bacillus subtilis	Chromosome	current	4009039	1	SAMN44671619	feces from male	Turkey:Sakarya-Adapazari	Homo sapiens	exclude_review	feces
+GCF_047302565.1	Bacillus subtilis	Complete Genome	current	4113166	1	SAMN46352032	feces	China:Guizhou	Pig	exclude_review	feces
+GCF_049852155.1	Bacillus subtilis	Complete Genome	current	4045095	1	SAMN47760069	colon feces	China:Chongqing	Rongchang pig	exclude_review	feces
+GCF_050106695.1	Bacillus subtilis	Scaffold	current	3989719	20	SAMN48122271	feces	Togo:Plateaux	Homo sapiens	exclude_review	feces
+GCF_050379895.1	Bacillus subtilis	Scaffold	current	4044744	28	SAMN48396930	Rabbit feces	China:SiChuan		exclude_review	feces
+GCF_050818325.1	Bacillus subtilis	Complete Genome	current	4147702	1	SAMN37855249	anaerobic digestate processed from food waste	Sweden	anaerobic digestate	exclude_review	food
+GCF_051965795.1	Bacillus subtilis	Scaffold	current	4096786	23	SAMN48968271	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051965845.1	Bacillus subtilis	Scaffold	current	4208920	18	SAMN48968269	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966295.1	Bacillus subtilis	Scaffold	current	4112265	40	SAMN48968256	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966315.1	Bacillus subtilis	Scaffold	current	4040359	22	SAMN48968257	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966415.1	Bacillus subtilis	Scaffold	current	4136919	36	SAMN48968254	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966435.1	Bacillus subtilis	Scaffold	current	4111570	36	SAMN48968253	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051966455.1	Bacillus subtilis	Scaffold	current	4564777	690	SAMN48968255	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_052233195.1	Bacillus subtilis	Complete Genome	current	4121215	1	SAMN50672281	feces	China:yunnnan	Sus scrofa	exclude_review	feces
+GCF_052783415.1	Bacillus subtilis	Complete Genome	current	4196931	1	SAMN51289187	Jeotgal (Korean fermented food)	South Korea: Gangwon-do		exclude_review	food
+GCF_000230755.1	Bacillus subtilis subsp. subtilis str. SC-8	Contig	current	4138818	17	SAMN02469591	Korean traditional fermented-soybean food			exclude_review	food
+GCF_000789275.1	Bacillus subtilis subsp. subtilis str. 168	Complete Genome	current	4215619	1	SAMN03222589	laboratory strain	France		exclude_review	laboratory
+GCF_000828495.1	Bacillus subtilis subsp. subtilis	Scaffold	current	4307639	215	SAMN03167797	food	Netherlands		exclude_review	food
+GCF_000833085.1	Bacillus thuringiensis	Complete Genome	current	5312686	2	SAMN03223175	human tissue	unknown	Homo sapiens	exclude_review	human
+GCF_001541905.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4056281	1	SAMN04420251	Laboratory strain	not collected		exclude_review	laboratory
+GCF_001703495.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4214812	1	SAMN05526243	laboratory strain	Germany		exclude_review	laboratory
+GCF_002173615.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4199283	2	SAMN07125936	food	South Korea		exclude_review	food
+GCF_002173695.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	3988602	1	SAMN07125937	food	South Korea		exclude_review	food
+GCF_002173715.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	3988649	1	SAMN07125938	food	South Korea		exclude_review	food
+GCF_002201955.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	3988630	1	SAMN07204268	food	South Korea		exclude_review	food
+GCF_002202035.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4147173	1	SAMN07211386	food	South Korea		exclude_review	food
+GCF_002906075.1	Bacillus subtilis subsp. subtilis	Contig	current	4046630	15	SAMN07276667	food	South Korea		exclude_review	food
+GCF_003336895.2	Bacillus subtilis subsp. subtilis	Contig	current	3997608	9	SAMN09217786	laboratory construct with disruption of bacilysin biosynthetic operon bacABCDE	Turkey: Ankara		exclude_review	laboratory
+GCF_003426125.1	Bacillus subtilis subsp. subtilis	Chromosome	current	4060726	43	SAMN09786559	Food waste compost	India: Kanpur		exclude_review	food
+GCF_037094835.1	Bacillus subtilis subsp. natto	Contig	current	4093409	109	SAMN40246766	blood	Japan	Homo sapiens	exclude_review	blood
+GCF_047041075.1	Bacillus subtilis subsp. subtilis	Complete Genome	current	4215642	1	SAMN46118857	Healthy human fecal	South Korea:Seoul		exclude_review	human
+GCF_052439315.1	Bacillus subtilis subsp. natto	Scaffold	current	4058924	112	SAMN47602937	fermented soybeans natto in japanese food	Belgium	Homo sapiens	exclude_review	food
+GCF_055455675.1	Bacillus subtilis	Contig	current	4352569	29	SAMN55348269	Fermented soybean food	South Korea		exclude_review	food
+GCF_055455695.1	Bacillus subtilis	Contig	current	4279658	22	SAMN55348243	Fermented soybean food	South Korea		exclude_review	food
+GCF_055455735.1	Bacillus subtilis	Contig	current	4037613	24	SAMN55348244	Fermented soybean food	South Korea		exclude_review	food
+GCF_055701465.1	Bacillus subtilis	Contig	current	4187067	15	SAMN56256703	Fermented soybean food	South Korea		exclude_review	food
+GCF_055701505.1	Bacillus subtilis	Contig	current	4072694	14	SAMN56256717	Fermented soybean food	South Korea		exclude_review	food
+GCF_055817975.1	Bacillus subtilis	Contig	current	4054184	18	SAMN55289053	Korean fermented soybean food	South Korea		exclude_review	food
+GCF_056629365.1	Bacillus subtilis	Contig	current	4176874	107	SAMN52956093	Artisanal cheese	Argentina: Buenos Aires		exclude_review	cheese
+GCF_004519705.1	Bacillus thuringiensis	Contig	current	5581839	96	SAMN10755568	feces	Ireland	Homo sapiens	exclude_review	feces
+GCF_018603645.1	Bacillus thuringiensis	Contig	current	5678307	76	SAMN15078641	Cultured Food	USA:MD	Homo sapiens	exclude_review	food
+GCF_020775425.1	Bacillus thuringiensis	Contig	current	6318668	213	SAMN21214356	food	not applicable		exclude_review	food
+GCF_020775435.1	Bacillus thuringiensis	Contig	current	6393238	254	SAMN21214355	food	not applicable		exclude_review	food
+GCF_020775555.1	Bacillus thuringiensis	Contig	current	6358824	225	SAMN21214354	food	not applicable		exclude_review	food
+GCF_020775565.1	Bacillus thuringiensis	Contig	current	6367444	230	SAMN21214353	food	not applicable		exclude_review	food
+GCF_020775595.1	Bacillus thuringiensis	Contig	current	6371106	233	SAMN21214352	food	not applicable		exclude_review	food
+GCF_020775695.1	Bacillus thuringiensis	Contig	current	6370014	219	SAMN21214348	food	not applicable		exclude_review	food
+GCF_020775705.1	Bacillus thuringiensis	Contig	current	6374849	205	SAMN21214349	food	not applicable		exclude_review	food
+GCF_020775715.1	Bacillus thuringiensis	Contig	current	6424373	271	SAMN21214351	food	not applicable		exclude_review	food
+GCF_020775725.1	Bacillus thuringiensis	Contig	current	6436896	267	SAMN21214350	food	not applicable		exclude_review	food
+GCF_020775795.1	Bacillus thuringiensis	Contig	current	6370500	211	SAMN21214347	food	not applicable		exclude_review	food
+GCF_020775855.1	Bacillus thuringiensis	Contig	current	6479536	257	SAMN21214346	food	not applicable		exclude_review	food
+GCF_020775865.1	Bacillus thuringiensis	Contig	current	6095752	249	SAMN21214344	food	not applicable		exclude_review	food
+GCF_020775875.1	Bacillus thuringiensis	Contig	current	6455274	254	SAMN21214345	food	not applicable		exclude_review	food
+GCF_020775915.1	Bacillus thuringiensis	Contig	current	6387891	252	SAMN21214342	food	not applicable		exclude_review	food
+GCF_020775925.1	Bacillus thuringiensis	Contig	current	6389584	244	SAMN21214343	food	not applicable		exclude_review	food
+GCF_020775975.1	Bacillus thuringiensis	Contig	current	6390352	235	SAMN21214339	food	not applicable		exclude_review	food
+GCF_020775985.1	Bacillus thuringiensis	Contig	current	6330718	248	SAMN21214341	food	not applicable		exclude_review	food
+GCF_020775995.1	Bacillus thuringiensis	Contig	current	6393268	241	SAMN21214340	food	not applicable		exclude_review	food
+GCF_028764825.1	Bacillus thuringiensis	Contig	current	6215073	313	SAMN33267037	food (the mackerel and mussels in the garlic butter sauce)	United Kingdom		exclude_review	food
+GCF_028765045.1	Bacillus thuringiensis	Contig	current	5269550	31	SAMN33267038	food (the mackerel and mussels in the garlic butter sauce)	United Kingdom		exclude_review	food
+GCF_035817295.1	Bacillus thuringiensis	Scaffold	current	6160532	71	SAMN33940804	mutant of HD-500	not collected		exclude_review	mutant
+GCF_035817335.1	Bacillus thuringiensis	Scaffold	current	6161484	65	SAMN33940805	mutant of HD-500	not collected		exclude_review	mutant
+GCF_015071225.1	Bacillus toyonensis	Contig	current	5339069	114	SAMN12530040	Ricotta Cheese	Australia:Tasmania, Dairy Farm		exclude_review	cheese
+GCF_015071265.1	Bacillus toyonensis	Contig	current	5335424	114	SAMN12530041	Ricotta Cheese	Australia:Tasmania, Dairy Farm		exclude_review	cheese
+GCF_022509865.1	Bacillus toyonensis	Scaffold	current	5646249	65	SAMN25182251	feces	Poland	Testudo horsfieldii	exclude_review	feces
+GCF_022509885.1	Bacillus toyonensis	Scaffold	current	5937563	59	SAMN25182249	feces	Poland	Testudo hermanni	exclude_review	feces
+GCF_055633145.1	Bacillus thuringiensis	Contig	current	5663174	133	SAMN52659784	Duke University Hospital - patient room sink	USA: North Carolina		exclude_review	hospital;patient
+GCF_002845365.1	Bacillus velezensis	Complete Genome	current	3928489	1	SAMN08166440	Chinese traditional food Douchi	China: Guangdong		exclude_review	food
+GCF_002893845.1	Bacillus velezensis	Complete Genome	current	4339825	2	SAMN08275094	Chinese food lobster sauce	China		exclude_review	food
+GCF_002944585.1	Bacillus velezensis	Complete Genome	current	4328187	3	SAMN08427082	fermented food	South Korea: chung-nam	soybean	exclude_review	food
+GCF_003058025.1	Bacillus velezensis	Scaffold	current	4178597	10	SAMN08741172	feces	China: Kunming	deer	exclude_review	feces
+GCF_003432425.1	Bacillus velezensis	Complete Genome	current	4047350	1	SAMN07572603	Korean fermented food	South Korea: Bundang		exclude_review	food
+GCF_003721475.1	Bacillus velezensis	Complete Genome	current	4074913	1	SAMN10358642	Fermented foods	South Korea		exclude_review	food
+GCF_004115935.1	Bacillus velezensis	Contig	current	4124238	2	SAMN10790826	food	South Korea		exclude_review	food
+GCF_004119575.1	Bacillus velezensis	Complete Genome	current	4139533	1	SAMN10790859	food	South Korea		exclude_review	food
+GCF_004119735.1	Bacillus velezensis	Complete Genome	current	4144097	1	SAMN10790881	food	South Korea		exclude_review	food
+GCF_004119855.1	Bacillus velezensis	Complete Genome	current	4235113	1	SAMN10796307	food	South Korea		exclude_review	food
+GCF_012844135.1	Bacillus velezensis	Contig	current	3999853	18	SAMN14558241	feces	Germany	Sus scrofa domesticus	exclude_review	feces
+GCF_025519025.1	Bacillus toyonensis	Scaffold	current	5865219	345	SAMN27545624	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519285.1	Bacillus toyonensis	Scaffold	current	5810693	207	SAMN27545682	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519345.1	Bacillus tropicus	Scaffold	current	5483246	128	SAMN27545678	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519565.1	Bacillus toyonensis	Scaffold	current	6003969	182	SAMN27545647	Milk and dairy products	Italy		exclude_review	milk
+GCF_029477175.1	Bacillus toyonensis	Contig	current	5945634	209	SAMN33794213	feces	Slovenia		exclude_review	feces
+GCF_029478845.1	Bacillus tropicus	Contig	current	5236207	45	SAMN33794251	feces	Slovenia		exclude_review	feces
+GCF_029537435.1	Bacillus toyonensis	Contig	current	5971045	275	SAMN33794212	feces	Slovenia		exclude_review	feces
+GCF_046529595.1	Bacillus tropicus	Complete Genome	current	5318383	1	SAMN35673660	food	Bulgaria		exclude_review	food
+GCF_050475345.1	Bacillus tropicus	Contig	current	5218674	67	SAMN41009857	milk	not collected		exclude_review	milk
+GCF_050563375.1	Bacillus toyonensis	Contig	current	5853835	98	SAMN48388842	food: frozen berries	Switzerland		exclude_review	food
+GCF_050630345.1	Bacillus toyonensis	Contig	current	6055905	58	SAMN43795093	milk	Belgium: Ghent		exclude_review	milk
+GCF_056675975.1	Bacillus tropicus	Contig	current	5665298	115	SAMN56890207	blood	Bangladesh: Dhaka	chicken	exclude_review	blood
+GCF_056711805.1	Bacillus toyonensis	Contig	current	5864904	63	SAMN53840588	food: icre cream/sorbet	Switzerland		exclude_review	food
+GCF_902386805.1	Bacillus tuaregi	Scaffold	current	4863531	19	SAMEA5851912	human gut	not provided		exclude_review	human
+GCF_014841075.1	Bacillus velezensis	Complete Genome	current	3929462	1	SAMN16261144	feces	China:sichuan	swine	exclude_review	feces
+GCF_018398955.1	Bacillus velezensis	Complete Genome	current	4052249	6	SAMN19104545	feces	Viet Nam	swine	exclude_review	feces
+GCF_018916765.1	Bacillus velezensis	Contig	current	3856675	22	SAMN19374083	feces	China: Suzhou	Macaca fascicularis	exclude_review	feces
+GCF_020150015.1	Bacillus velezensis	Complete Genome	current	4177167	1	SAMN21448550	Meju, Soybean fermented food	South Korea		exclude_review	food
+GCF_022313395.1	Bacillus velezensis	Complete Genome	current	4357259	2	SAMN22026941	feces from healthy human	China: Guangdong	Homo sapiens	exclude_review	human;feces
+GCF_027568455.1	Bacillus velezensis	Contig	current	4022929	18	SAMN30158560	feces	China	bat	exclude_review	feces
+GCF_030263995.1	Bacillus velezensis	Chromosome	current	3987795	1	SAMN35538394	human feces	Italy		exclude_review	human;feces
+GCF_030406645.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN36015184	Bos taurus feces	South Korea:Buyeo		exclude_review	feces
+GCF_030520225.1	Bacillus velezensis	Complete Genome	current	3929792	1	SAMN36504918	Bos taurus feces	South Korea:Buyeo		exclude_review	feces
+GCF_030767245.1	Bacillus velezensis	Contig	current	3989572	19	SAMN35538382	feces	Italy	Homo sapiens	exclude_review	feces
+GCF_033313945.1	Bacillus velezensis	Contig	current	4163288	15	SAMN13160259	food	Not applicable		exclude_review	food
+GCF_035811875.1	Bacillus velezensis	Scaffold	current	3907473	41	SAMN33940460	spoiled food	not collected		exclude_review	food
+GCF_036323635.1	Bacillus velezensis	Contig	current	4164484	14	SAMN13624701	food	Not applicable		exclude_review	food
+GCF_001044745.1	Bacillus wiedmannii	Scaffold	current	5414722	48	SAMN03325943	feces	Netherlands	Homo sapiens	exclude_review	feces
+GCF_001583695.1	Bacillus wiedmannii	Contig	current	5337981	104	SAMN03800026	Raw milk	USA: New York state		exclude_review	milk
+GCF_001645395.1	Bacillus wiedmannii	Contig	current	5616099	72	SAMN04909724	dairy food in process	USA: New York state		exclude_review	food
+GCF_001645405.1	Bacillus wiedmannii	Contig	current	5615049	71	SAMN04909723	finished ready to eat dairy food product	USA: New York state		exclude_review	food
+GCF_044784305.1	Bacillus velezensis	Complete Genome	current	3964618	1	SAMN44525872	feces	China: Risu Village, Yadui Township, Naidong District, Shannan City, Xizang province	Sus scrofa f. domestica	exclude_review	feces
+GCF_046736005.1	Bacillus velezensis	Complete Genome	current	3929783	1	SAMN45994716	ZJ5 was isolated from pig colon feces.	China: Rongchang		exclude_review	feces
+GCF_047947095.1	Bacillus velezensis	Complete Genome	current	4141337	1	SAMN39736570	leaf tissue of industrial hemp	China:Yunnan	Cannabis sativa L.	exclude_review	industrial
+GCF_048538135.1	Bacillus velezensis	Scaffold	current	3887711	37	SAMN47142131	milk	China:Yangling		exclude_review	milk
+GCF_048654465.1	Bacillus velezensis	Contig	current	3886285	25	SAMN47242589	milk	India: Anand	Homo sapiens	exclude_review	milk
+GCF_050565505.1	Bacillus velezensis	Contig	current	3945102	20	SAMN48537131	fresh feces of healthy Kele pigs	China:Huaxi District	Kele pigs	exclude_review	feces
+GCF_051144905.1	Bacillus velezensis	Complete Genome	current	4203905	1	SAMN48999309	feces	China: Yunnnan	Kunming dog	exclude_review	feces
+GCF_051965835.1	Bacillus velezensis	Scaffold	current	3886342	19	SAMN48968270	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051965955.1	Bacillus velezensis	Scaffold	current	4187189	61	SAMN48968266	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051965995.1	Bacillus velezensis	Scaffold	current	4177896	44	SAMN48968267	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_051967685.1	Bacillus velezensis	Scaffold	current	3922776	23	SAMN48968220	Cleanroom floor	USA: Jet Propulsion Laboratory, Pasadena, CA		exclude_review	laboratory
+GCF_053004885.1	Bacillus velezensis	Complete Genome	current	4012555	2	SAMN52096373	fermented food, tofu	China: Zhengzhou		exclude_review	food
+GCF_054208755.1	Bacillus velezensis	Complete Genome	current	3912780	1	SAMN54226051	feces	China:yunnnan	Gallus gallus	exclude_review	feces
+GCF_055194815.1	Bacillus velezensis	Complete Genome	current	3941321	1	SAMN55196620	feces	China: Shandong	Bos taurus	exclude_review	feces
+GCF_001645445.1	Bacillus wiedmannii	Contig	current	5399934	66	SAMN04909726	raw milk	USA: New York state		exclude_review	milk
+GCF_001645455.1	Bacillus wiedmannii	Contig	current	5364880	58	SAMN04909727	raw milk	USA: New York state		exclude_review	milk
+GCF_001645465.1	Bacillus wiedmannii	Contig	current	5380322	90	SAMN04909728	raw milk	USA: New York state		exclude_review	milk
+GCF_001645505.1	Bacillus wiedmannii	Contig	current	5617559	57	SAMN04909725	finished ready to eat diry food product	USA: New York state		exclude_review	food
+GCF_001645525.1	Bacillus wiedmannii	Contig	current	5590865	92	SAMN04909729	dairy food in process	USA: New York state		exclude_review	food
+GCF_001645535.1	Bacillus wiedmannii	Contig	current	5559350	100	SAMN04909730	dairy food in process	USA: New York state		exclude_review	food
+GCF_001645555.1	Bacillus wiedmannii	Contig	current	5388838	51	SAMN04909731	dairy food in process	USA: New York state		exclude_review	food
+GCF_002014635.1	Bacillus wiedmannii	Contig	current	5515124	71	SAMN06242077	raw milk	USA		exclude_review	milk
+GCF_002200215.1	Bacillus wiedmannii	Scaffold	current	5513190	81	SAMN07205604	food product	USA: MD	missing	exclude_review	food
+GCF_025517885.1	Bacillus wiedmannii	Scaffold	current	5433587	168	SAMN27545627	Milk and dairy products	Italy		exclude_review	milk
+GCF_025518725.1	Bacillus wiedmannii	Scaffold	current	5686481	382	SAMN27545665	Milk and dairy products	Italy		exclude_review	milk
+GCF_025518765.1	Bacillus wiedmannii	Scaffold	current	5748450	124	SAMN27545642	Milk and dairy products	Italy		exclude_review	milk
+GCF_025518925.1	Bacillus wiedmannii	Scaffold	current	6109249	54	SAMN27545633	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519265.1	Bacillus wiedmannii	Contig	current	6144774	70	SAMN27545683	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519465.1	Bacillus wiedmannii	Scaffold	current	5436718	534	SAMN27545662	Milk and dairy products	Italy		exclude_review	milk
+GCF_025519525.1	Bacillus wiedmannii	Scaffold	current	5685175	164	SAMN27545650	Milk and dairy products	Italy		exclude_review	milk
+GCF_029478925.1	Bacillus wiedmannii	Contig	current	5813284	46	SAMN33794252	Pasteurized milk	Slovenia		exclude_review	milk
+GCF_030676405.1	Bacillus wiedmannii	Contig	current	5365704	204	SAMN36760660	feces	Israel: Jerusalem, The Tisch Family Biblical Zoo	Mus musculus	exclude_review	feces
+GCF_050563315.1	Bacillus wiedmannii	Contig	current	5384244	58	SAMN48388846	food: frozen berries	Switzerland		exclude_review	food
+GCF_052116885.1	Bacillus wiedmannii	Contig	current	5296335	59	SAMN48950878	feces	United Kingdom:Wincherster	Sus scrofa domesticus	exclude_review	feces
+GCF_902386225.1	Bacillus wiedmannii	Scaffold	current	5414722	48	SAMEA5851860	human gut	Netherlands		exclude_review	human
+GCF_958411575.1	uncultured Bacillus sp.	Contig	current	3999080	25	SAMEA114061157	human feces metagenome	not provided		exclude_review	human;feces
+GCF_964209775.1	Bacillus wiedmannii	Contig	current	5132772	1512	SAMEA115875279	wound swab	Tanzania	Homo sapiens	exclude_review	wound

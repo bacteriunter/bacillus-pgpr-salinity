@@ -1,0 +1,4 @@
+module	n_kos	saline_mean_fraction	non_saline_mean_fraction	saline_median_fraction	non_saline_median_fraction	mannwhitney_U	p_value
+phytohormone_stress	2	1.0	1.0	1.0	1.0	1242.0	1.0
+nutrient_acquisition	13	0.6082621082621082	0.6304347826086958	0.6153846153846154	0.6153846153846154	1018.0	0.0771399745053183
+colonization_persistence	7	0.9894179894179894	1.0	1.0	1.0	1219.0	0.3665822094105118

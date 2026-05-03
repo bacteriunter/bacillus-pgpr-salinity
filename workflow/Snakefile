@@ -1,0 +1,164 @@
+configfile: "config/config.yaml"
+
+import glob
+import os
+
+PROTEOMES = glob.glob(config["proteomes_dir"] + "/*.faa")
+GENOMES = [os.path.splitext(os.path.basename(f))[0] for f in PROTEOMES]
+
+rule all:
+    input:
+        "05_pgpr_matrix/pgpr_presence_absence_matrix_complete.tsv",
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv",
+        "06_statistics/pgpr_frequencies_by_group.tsv",
+        "06_statistics/fisher_pgpr_results.tsv",
+        "06_statistics/pgpr_module_score_stats.tsv",
+        "08_figures/fig3_heatmap/pgpr_presence_absence_heatmap.png",
+        "08_figures/fig4_module_scores/pgpr_module_scores_boxplot.png",
+        "08_figures/fig5_pcoa/pca_plot.png",
+        "08_figures/fig1_workflow/workflow_comparative_genomics.png"
+
+rule hmmsearch_pgpr:
+    input:
+        faa=lambda wildcards: f"{config['proteomes_dir']}/{wildcards.genome}.faa",
+        hmm=config["hmm_db"]
+    output:
+        tbl=f"{config['hmmsearch_dir']}/{{genome}}.tbl",
+        log=f"{config['hmmsearch_dir']}/{{genome}}.log"
+    threads: config["threads_hmmsearch"]
+    shell:
+        """
+        mkdir -p {config[hmmsearch_dir]}
+        hmmsearch --cpu {threads} \
+          --tblout {output.tbl} \
+          {input.hmm} \
+          {input.faa} \
+          > {output.log}
+        """
+
+rule parse_hmmsearch:
+    input:
+        expand(f"{config['hmmsearch_dir']}/{{genome}}.tbl", genome=GENOMES)
+    output:
+        hits="04_functional_annotation/kofamscan/annotation_summary/pgpr_hits_filtered_all.tsv",
+        matrix="05_pgpr_matrix/pgpr_presence_absence_matrix.tsv"
+    shell:
+        """
+        python scripts/python/05_parse_all_pgpr_hmmsearch.py
+        """
+
+rule complete_matrix:
+    input:
+        matrix="05_pgpr_matrix/pgpr_presence_absence_matrix.tsv",
+        kos=config["target_kos"]
+    output:
+        "05_pgpr_matrix/pgpr_presence_absence_matrix_complete.tsv"
+    shell:
+        """
+        python scripts/python/16_complete_pgpr_matrix.py
+        """
+
+rule merge_metadata:
+    input:
+        matrix="05_pgpr_matrix/pgpr_presence_absence_matrix_complete.tsv",
+        saline="00_metadata/saline_final.tsv",
+        non_saline="00_metadata/non_saline_final.tsv"
+    output:
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+    shell:
+        """
+        python scripts/python/17_merge_pgpr_metadata.py
+        """
+
+rule frequencies:
+    input:
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+    output:
+        "06_statistics/pgpr_frequencies_by_group.tsv"
+    shell:
+        """
+        python scripts/python/06_pgpr_frequencies.py
+        """
+
+rule fisher:
+    input:
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+    output:
+        "06_statistics/fisher_pgpr_results.tsv"
+    shell:
+        """
+        python scripts/python/07_fisher_pgpr.py
+        """
+
+rule pca:
+    input:
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+    output:
+        "08_figures/fig5_pcoa/pca_coordinates.tsv"
+    shell:
+        """
+        python scripts/python/08_pca_pgpr.py
+        """
+
+rule plot_pca:
+    input:
+        "08_figures/fig5_pcoa/pca_coordinates.tsv"
+    output:
+        "08_figures/fig5_pcoa/pca_plot.png"
+    shell:
+        """
+        python scripts/python/09_plot_pca.py
+        """
+
+rule permanova:
+    input:
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+    output:
+        "06_statistics/permanova_results.txt"
+    shell:
+        """
+        python scripts/python/10_permanova_pgpr.py > {output}
+        """
+
+rule module_scores:
+    input:
+        matrix="05_pgpr_matrix/pgpr_matrix_with_metadata.tsv",
+        modules="05_pgpr_matrix/pgpr_ko_modules.tsv"
+    output:
+        scores="05_pgpr_matrix/pgpr_module_scores.tsv",
+        stats="06_statistics/pgpr_module_score_stats.tsv"
+    shell:
+        """
+        python scripts/python/13_pgpr_module_scores.py
+        """
+
+rule plot_modules:
+    input:
+        "05_pgpr_matrix/pgpr_module_scores.tsv"
+    output:
+        "08_figures/fig4_module_scores/pgpr_module_scores_boxplot.png"
+    shell:
+        """
+        mkdir -p 08_figures/fig4_module_scores
+        python scripts/python/14_plot_module_scores.py
+        """
+
+rule plot_heatmap:
+    input:
+        "05_pgpr_matrix/pgpr_matrix_with_metadata.tsv"
+    output:
+        "08_figures/fig3_heatmap/pgpr_presence_absence_heatmap.png"
+    shell:
+        """
+        mkdir -p 08_figures/fig3_heatmap
+        python scripts/python/11_plot_pgpr_heatmap.py
+        """
+
+rule plot_workflow:
+    output:
+        "08_figures/fig1_workflow/workflow_comparative_genomics.png"
+    shell:
+        """
+        mkdir -p 08_figures/fig1_workflow
+        python scripts/python/15_plot_workflow.py
+        """

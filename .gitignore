@@ -1,0 +1,42 @@
+# =========================
+# Large raw data (NO subir)
+# =========================
+01_downloads/
+*.faa
+*.fna
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# HMM / KOfam
+profiles/
+*.hmm
+*.h3m
+*.h3i
+*.h3f
+*.h3p
+
+# =========================
+# Temporary / logs
+# =========================
+*.log
+*.out
+*.err
+
+# Snakemake
+.snakemake/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional (si pesan mucho)
+# =========================
+04_functional_annotation/kofamscan/hmmsearch_results/
+00_metadata/bacillus_refseq_summary.json

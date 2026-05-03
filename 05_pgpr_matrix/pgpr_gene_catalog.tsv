@@ -1,0 +1,33 @@
+gene	module	description	KO
+ipdC	hormone	IAA synthesis (indole-3-pyruvate)	K04103
+acdS	hormone	ACC deaminase	K01505
+iaaM	hormone	IAA synthesis (IAM pathway)	K00466
+iaaH	hormone	IAA synthesis (IAM pathway)	K01061
+
+phoA	nutrient	alkaline phosphatase	K01077
+phoD	nutrient	alkaline phosphatase	K01113
+phoP	nutrient	phosphate regulon	K07657
+phoR	nutrient	phosphate regulon	K07636
+gcd	nutrient	gluconate production	K00117
+
+dhbA	nutrient	bacillibactin siderophore	K01911
+dhbB	nutrient	bacillibactin siderophore	K01912
+dhbC	nutrient	bacillibactin siderophore	K01913
+dhbE	nutrient	bacillibactin siderophore	K01914
+dhbF	nutrient	bacillibactin siderophore	K01915
+
+glnA	nutrient	glutamine synthetase	K01915
+
+epsA	colonization	biofilm	NA
+epsB	colonization	biofilm	NA
+tasA	colonization	biofilm	NA
+tapA	colonization	biofilm	NA
+bslA	colonization	biofilm	NA
+
+fliC	colonization	flagellin	K02406
+motA	colonization	motility	K02556
+motB	colonization	motility	K02557
+cheA	colonization	chemotaxis	K03407
+cheY	colonization	chemotaxis	K03413
+
+spo0A	colonization	sporulation regulator	K07699
