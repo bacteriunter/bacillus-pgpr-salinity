@@ -1,0 +1,54 @@
+# Hormone / stress modulation
+K01505	acdS	ACC deaminase
+K04103	ipdC	indolepyruvate decarboxylase
+K21801	iaaH	indoleacetamide hydrolase
+K11816	iaaO	indole-3-pyruvate monooxygenase
+K11817	iaaA	indole-3-acetaldehyde oxidase
+
+# Phosphorus acquisition / phosphate regulation
+K01077	phoA	alkaline phosphatase
+K01113	phoD	alkaline phosphatase D
+K07657	phoR	phosphate regulon response regulator
+K07636	phoP	phosphate regulon sensor histidine kinase
+K00117	gcd	glucose dehydrogenase
+K02036	pstB	phosphate transport ATP-binding protein
+K02037	pstC	phosphate transport permease protein
+K02038	pstA	phosphate transport permease protein
+K02040	pstS	phosphate transport substrate-binding protein
+
+# Iron acquisition / siderophore transport
+K03833	dhbA	bacillibactin biosynthesis
+K03834	dhbB	bacillibactin biosynthesis
+K03835	dhbC	bacillibactin biosynthesis
+K03836	dhbE	bacillibactin biosynthesis
+K03837	dhbF	bacillibactin biosynthesis
+K02013	ironABC_ATP	iron complex transport ATP-binding protein
+K02015	ironABC_perm	iron complex transport permease protein
+K02016	ironABC_sub	iron complex transport substrate-binding protein
+K23186	sid_perm1	iron-siderophore transport permease protein
+K23187	sid_perm2	iron-siderophore transport permease protein
+K23188	sid_ATP	iron-siderophore transport ATP-binding protein
+
+# Nitrogen assimilation
+K01915	glnA	glutamine synthetase
+K00372	nasA	assimilatory nitrate reductase
+K00366	nirA	ferredoxin-nitrite reductase
+
+# Colonization / motility / biofilm regulation
+K16531	spo0A	stage 0 sporulation protein A
+K06390	flgB	flagellar basal-body rod protein
+K02406	fliC	flagellin
+K02556	motA	flagellar motor protein MotA
+K02557	motB	flagellar motor protein MotB
+K03407	cheA	chemotaxis protein CheA
+K03413	cheY	chemotaxis protein CheY
+K07692	degU	response regulator DegU
+K19733	sinR	quorum-sensing/biofilm regulator SinR
+
+# VOC / induced systemic resistance-related metabolism
+K00004	bdh	butanediol dehydrogenase / diacetyl reductase
+
+# Conservative biocontrol-related markers
+K19549	bacF	bacilysin biosynthesis transaminase
+K19550	bacG	bacilysin biosynthesis oxidoreductase
+K19552	bacE	bacilysin exporter

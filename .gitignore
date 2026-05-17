@@ -40,3 +40,6 @@ Thumbs.db
 # =========================
 04_functional_annotation/kofamscan/hmmsearch_results/
 00_metadata/bacillus_refseq_summary.json
+archive_legacy/
+04_functional_annotation/kofamscan/hmmsearch_results_v2/
+04_functional_annotation/kofamscan/hmmsearch_results_v2/

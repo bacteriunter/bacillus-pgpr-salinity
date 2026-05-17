@@ -1,0 +1,8 @@
+	PERMDISP results
+method name	PERMDISP
+test statistic name	F-value
+sample size	100
+number of groups	2
+test statistic	3.278969005545265
+p-value	0.081
+number of permutations	999
