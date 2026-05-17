@@ -1,0 +1,37 @@
+KO	module	gene	description
+K01077	phosphorus_acquisition	phoA	alkaline phosphatase
+K01113	phosphorus_acquisition	phoD	alkaline phosphatase D
+K07657	phosphorus_acquisition	phoR	phosphate regulon response regulator
+K07636	phosphorus_acquisition	phoP	phosphate regulon sensor histidine kinase
+K00117	phosphorus_acquisition	gcd	glucose dehydrogenase
+K02036	phosphorus_acquisition	pstB	phosphate transport ATP-binding protein
+K02037	phosphorus_acquisition	pstC	phosphate transport permease protein
+K02038	phosphorus_acquisition	pstA	phosphate transport permease protein
+K02040	phosphorus_acquisition	pstS	phosphate transport substrate-binding protein
+K03833	iron_acquisition	dhbA	bacillibactin biosynthesis
+K03834	iron_acquisition	dhbB	bacillibactin biosynthesis
+K03835	iron_acquisition	dhbC	bacillibactin biosynthesis
+K03836	iron_acquisition	dhbE	bacillibactin biosynthesis
+K03837	iron_acquisition	dhbF	bacillibactin biosynthesis
+K02013	iron_acquisition	ironABC_ATP	iron complex transport ATP-binding protein
+K02015	iron_acquisition	ironABC_perm	iron complex transport permease protein
+K02016	iron_acquisition	ironABC_sub	iron complex transport substrate-binding protein
+K23186	iron_acquisition	sid_perm1	iron-siderophore transport permease protein
+K23187	iron_acquisition	sid_perm2	iron-siderophore transport permease protein
+K23188	iron_acquisition	sid_ATP	iron-siderophore transport ATP-binding protein
+K01915	nitrogen_assimilation	glnA	glutamine synthetase
+K00372	nitrogen_assimilation	nasA	assimilatory nitrate reductase
+K00366	nitrogen_assimilation	nirA	ferredoxin-nitrite reductase
+K16531	colonization_motility	spo0A	stage 0 sporulation protein A
+K06390	colonization_motility	flgB	flagellar basal-body rod protein
+K02406	colonization_motility	fliC	flagellin
+K02556	colonization_motility	motA	flagellar motor protein MotA
+K02557	colonization_motility	motB	flagellar motor protein MotB
+K03407	colonization_motility	cheA	chemotaxis protein CheA
+K03413	colonization_motility	cheY	chemotaxis protein CheY
+K07692	colonization_motility	degU	response regulator DegU
+K19733	colonization_motility	sinR	biofilm/quorum-sensing regulator SinR
+K00004	voc_isr	bdh	butanediol dehydrogenase / diacetyl reductase
+K19549	biocontrol	bacF	bacilysin biosynthesis transaminase
+K19550	biocontrol	bacG	bacilysin biosynthesis oxidoreductase
+K19552	biocontrol	bacE	bacilysin exporter
